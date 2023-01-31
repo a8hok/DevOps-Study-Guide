@@ -2,17 +2,17 @@
 To learn about dev ops
 
 
-##Docker
+## Docker
 - []()<br>
 
-##K8S
+## K8S
 - []()<br>
 
-##AWS
+## AWS
 - []()<br>
 
-##Linux
+## Linux
 - []()<br>
 
-##CI/CD
+## CI/CD
 - []()<br>
