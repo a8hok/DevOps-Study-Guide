@@ -16,3 +16,6 @@ To learn about dev ops
 
 ## CI/CD
 - []()<br>
+
+## Learn Dev ops
+- [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
