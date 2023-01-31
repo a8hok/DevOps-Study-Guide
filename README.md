@@ -6,7 +6,7 @@ To learn about dev ops
 - []()<br>
 
 ## K8S
-- []()<br>
+- [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
 
 ## AWS
 - []()<br>
