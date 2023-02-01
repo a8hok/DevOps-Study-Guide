@@ -9,7 +9,7 @@ To learn about dev ops
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
 
 ## AWS
-- []()<br>
+- [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
 
 ## Linux
 - []()<br>
