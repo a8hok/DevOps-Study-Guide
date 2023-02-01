@@ -22,3 +22,6 @@ To learn about dev ops
 
 ## Microservices
 - [https://www.freecodecamp.org/news/microservices-and-software-system-design-course/](https://www.freecodecamp.org/news/microservices-and-software-system-design-course/)<br>
+
+## VIM
+- [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
