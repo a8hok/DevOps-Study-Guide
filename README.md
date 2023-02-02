@@ -4,6 +4,7 @@ To learn about dev ops
 
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
+- [https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/](https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
