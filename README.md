@@ -1,6 +1,8 @@
 # Dev-ops
 To learn about dev ops
 
+## General
+- [https://www.freecodecamp.org/news/software-system-design-for-beginners/](https://www.freecodecamp.org/news/software-system-design-for-beginners/)<br>
 
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
