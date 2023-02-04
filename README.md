@@ -18,7 +18,7 @@ To learn about dev ops
 - [https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6](https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6)<br>
 
 ## Linux
-- []()<br>
+- [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
 
 ## CI/CD
 - []()<br>
