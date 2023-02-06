@@ -17,6 +17,7 @@ To learn about dev ops
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
 - [https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6](https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6)<br>
+- [https://jeocloud.hashnode.dev/understanding-aws-3-tier-cloud-architecture-and-design](https://jeocloud.hashnode.dev/understanding-aws-3-tier-cloud-architecture-and-design)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
