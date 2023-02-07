@@ -3,6 +3,7 @@ To learn about dev ops
 
 ## General
 - [https://www.freecodecamp.org/news/software-system-design-for-beginners/](https://www.freecodecamp.org/news/software-system-design-for-beginners/)<br>
+- [https://blog.theodo.com/2023/01/dns-explained/](https://blog.theodo.com/2023/01/dns-explained/)<br>
 
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
