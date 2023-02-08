@@ -22,6 +22,7 @@ To learn about dev ops
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
+- [https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc](https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc)<br>
 
 ## CI/CD
 - []()<br>
