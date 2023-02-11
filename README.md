@@ -42,3 +42,4 @@ To learn about dev ops
 
 ## Dev-Ops tools
 - [https://spacelift.io/blog/devops-tools](https://spacelift.io/blog/devops-tools)<br>
+- [https://spacelift.io/blog/devops-automation-tools](https://spacelift.io/blog/devops-automation-tools)<br>
