@@ -45,3 +45,4 @@ To learn about dev ops
 ## Dev-Ops tools
 - [https://spacelift.io/blog/devops-tools](https://spacelift.io/blog/devops-tools)<br>
 - [https://spacelift.io/blog/devops-automation-tools](https://spacelift.io/blog/devops-automation-tools)<br>
+- [https://javascript.plainenglish.io/9-best-distributed-tracing-tools-for-developers-185e415b7101](https://javascript.plainenglish.io/9-best-distributed-tracing-tools-for-developers-185e415b7101)<br>
