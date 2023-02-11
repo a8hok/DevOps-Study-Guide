@@ -15,6 +15,7 @@ To learn about dev ops
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
 - [https://blog.bytebytego.com/p/ep-41-what-is-kubernetes](https://blog.bytebytego.com/p/ep-41-what-is-kubernetes)<br>
 - [https://github.com/techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)<br>
+- [https://dev.to/lovepreetsingh/build-nodejs-app-on-kubernetes-from-scratch-66g](https://dev.to/lovepreetsingh/build-nodejs-app-on-kubernetes-from-scratch-66g)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
