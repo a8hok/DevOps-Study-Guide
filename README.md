@@ -49,3 +49,6 @@ To learn about dev ops
 - [https://spacelift.io/blog/devops-tools](https://spacelift.io/blog/devops-tools)<br>
 - [https://spacelift.io/blog/devops-automation-tools](https://spacelift.io/blog/devops-automation-tools)<br>
 - [https://javascript.plainenglish.io/9-best-distributed-tracing-tools-for-developers-185e415b7101](https://javascript.plainenglish.io/9-best-distributed-tracing-tools-for-developers-185e415b7101)<br>
+
+## Serverless
+- [https://dev.to/aws-builders/serverless-patterns-4439](https://dev.to/aws-builders/serverless-patterns-4439)<br>
