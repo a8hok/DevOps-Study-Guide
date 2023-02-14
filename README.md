@@ -5,6 +5,7 @@ To learn about dev ops
 - [https://www.freecodecamp.org/news/software-system-design-for-beginners/](https://www.freecodecamp.org/news/software-system-design-for-beginners/)<br>
 - [https://blog.theodo.com/2023/01/dns-explained/](https://blog.theodo.com/2023/01/dns-explained/)<br>
 - [https://dev.to/devteam/follow-friday-devops-edition-2-december-2022-4g37](https://dev.to/devteam/follow-friday-devops-edition-2-december-2022-4g37)<br>
+- [https://dev.to/abhixsh/devops-architecture-features-4o6a](https://dev.to/abhixsh/devops-architecture-features-4o6a)<br>
 
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
