@@ -44,6 +44,7 @@ To learn about dev ops
 ## Protocols
 - [https://www.freecodecamp.org/news/http-networking-protocol-course/](https://www.freecodecamp.org/news/http-networking-protocol-course/)<br>
 - [https://brave.com/privacy-updates/22-https-by-default/](https://brave.com/privacy-updates/22-https-by-default/)<br>
+- [https://www.freecodecamp.org/news/http-full-course/](https://www.freecodecamp.org/news/http-full-course/)<br>
 
 
 ## Dev-Ops tools
