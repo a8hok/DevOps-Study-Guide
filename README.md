@@ -12,6 +12,7 @@ To learn about dev ops
 - [https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/](https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/)<br>
 - [https://faun.pub/docker-funnnn-damentals-bb9b7dd8f465](https://faun.pub/docker-funnnn-damentals-bb9b7dd8f465)<br>
 - [https://dzone.com/articles/how-to-create-a-dockerfile](https://dzone.com/articles/how-to-create-a-dockerfile)<br>
+- [https://www.thisdot.co/blog/building-docker-containers](https://www.thisdot.co/blog/building-docker-containers)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
