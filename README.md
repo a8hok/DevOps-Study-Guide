@@ -33,7 +33,7 @@ To learn about dev ops
 - [https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc](https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc)<br>
 
 ## CI/CD
-- []()<br>
+- [https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8](https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
