@@ -58,3 +58,6 @@ To learn about dev ops
 
 ## Serverless
 - [https://dev.to/aws-builders/serverless-patterns-4439](https://dev.to/aws-builders/serverless-patterns-4439)<br>
+
+## Infrastructure
+- [https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code](https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code)<br>
