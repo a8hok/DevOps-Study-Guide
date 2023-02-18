@@ -28,6 +28,7 @@ To learn about dev ops
 - [https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6](https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6)<br>
 - [https://jeocloud.hashnode.dev/understanding-aws-3-tier-cloud-architecture-and-design](https://jeocloud.hashnode.dev/understanding-aws-3-tier-cloud-architecture-and-design)<br>
 - [https://awstip.com/using-python-with-aws-a-beginners-guide-5966940723b8](https://awstip.com/using-python-with-aws-a-beginners-guide-5966940723b8)<br>
+- [https://www.thedevbook.com/deploy-aws-serverless-api-with-go-and-terraform/](https://www.thedevbook.com/deploy-aws-serverless-api-with-go-and-terraform/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
