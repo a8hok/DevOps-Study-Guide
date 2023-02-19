@@ -45,6 +45,7 @@ To learn about dev ops
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
+- [https://www.freecodecamp.org/news/vim-language-and-motions-explained/](https://www.freecodecamp.org/news/vim-language-and-motions-explained/)<br>
 
 ## Protocols
 - [https://www.freecodecamp.org/news/http-networking-protocol-course/](https://www.freecodecamp.org/news/http-networking-protocol-course/)<br>
