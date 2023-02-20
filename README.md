@@ -16,6 +16,7 @@ To learn about dev ops
 - [https://dzone.com/articles/how-to-create-a-dockerfile](https://dzone.com/articles/how-to-create-a-dockerfile)<br>
 - [https://www.thisdot.co/blog/building-docker-containers](https://www.thisdot.co/blog/building-docker-containers)<br>
 - [https://noted.lol/docker-commands/](https://noted.lol/docker-commands/)<br>
+- [https://blog.gitguardian.com/how-to-handle-secrets-in-docker/](https://blog.gitguardian.com/how-to-handle-secrets-in-docker/)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
