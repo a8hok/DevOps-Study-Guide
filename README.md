@@ -65,3 +65,4 @@ To learn about dev ops
 
 ## Infrastructure
 - [https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code](https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code)<br>
+- [https://www.akshaykhot.com/how-csrf-attack-works-cross-site-request-forgery/](https://www.akshaykhot.com/how-csrf-attack-works-cross-site-request-forgery/)<br>
