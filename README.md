@@ -38,6 +38,7 @@ To learn about dev ops
 
 ## CI/CD
 - [https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8](https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8)<br>
+- [https://www.infrastructureposts.com/p/e5-building-better-cicd-pipelines](https://www.infrastructureposts.com/p/e5-building-better-cicd-pipelines)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
@@ -59,6 +60,7 @@ To learn about dev ops
 - [https://spacelift.io/blog/devops-tools](https://spacelift.io/blog/devops-tools)<br>
 - [https://spacelift.io/blog/devops-automation-tools](https://spacelift.io/blog/devops-automation-tools)<br>
 - [https://javascript.plainenglish.io/9-best-distributed-tracing-tools-for-developers-185e415b7101](https://javascript.plainenglish.io/9-best-distributed-tracing-tools-for-developers-185e415b7101)<br>
+- []()<br>
 
 ## Serverless
 - [https://dev.to/aws-builders/serverless-patterns-4439](https://dev.to/aws-builders/serverless-patterns-4439)<br>
