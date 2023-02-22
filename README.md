@@ -18,6 +18,7 @@ To learn about dev ops
 - [https://noted.lol/docker-commands/](https://noted.lol/docker-commands/)<br>
 - [https://blog.gitguardian.com/how-to-handle-secrets-in-docker/](https://blog.gitguardian.com/how-to-handle-secrets-in-docker/)<br>
 - [https://dev.to/tusharrao198/setting-network-proxy-in-docker-in-linux-h7j](https://dev.to/tusharrao198/setting-network-proxy-in-docker-in-linux-h7j)<br>
+- [https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
