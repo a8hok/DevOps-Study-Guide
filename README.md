@@ -79,3 +79,6 @@ To learn about dev ops
 
 ## Hosting
 - [https://grifel.dev/decentralization/](https://grifel.dev/decentralization/)<br>
+
+## Dev ops books
+- [https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc](https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc)<br>
