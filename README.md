@@ -30,6 +30,7 @@ To learn about dev ops
 - [https://spacelift.io/blog/kubernetes-ci-cd](https://spacelift.io/blog/kubernetes-ci-cd)<br>
 - [https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6](https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6)<br>
 - [https://itnext.io/how-do-you-gracefully-shut-down-pods-in-kubernetes-fb19f617cd67](https://itnext.io/how-do-you-gracefully-shut-down-pods-in-kubernetes-fb19f617cd67)<br>
+- [https://itnext.io/4-container-design-patterns-for-kubernetes-a8593028b4cd](https://itnext.io/4-container-design-patterns-for-kubernetes-a8593028b4cd)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
