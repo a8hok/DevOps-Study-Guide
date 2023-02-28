@@ -1,5 +1,5 @@
-# Dev-ops
-To learn about dev ops
+# Dev-ops useful links
+
 
 ## General
 - [https://www.freecodecamp.org/news/software-system-design-for-beginners/](https://www.freecodecamp.org/news/software-system-design-for-beginners/)<br>
