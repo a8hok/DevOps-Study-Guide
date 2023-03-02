@@ -61,6 +61,7 @@ Table of Contents
 - [https://www.thedevbook.com/deploy-aws-serverless-api-with-go-and-terraform/](https://www.thedevbook.com/deploy-aws-serverless-api-with-go-and-terraform/)<br>
 - [https://laracasts.com/series/aws-fundamentals/episodes/1](https://laracasts.com/series/aws-fundamentals/episodes/1)<br>
 - [https://awstip.com/terraform-fundamental-knowledge-6632370d4e57](https://awstip.com/terraform-fundamental-knowledge-6632370d4e57)<br>
+- [https://wellarchitectedlabs.com/](https://wellarchitectedlabs.com/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
