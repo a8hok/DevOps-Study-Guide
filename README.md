@@ -67,6 +67,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
 - [https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc](https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc)<br>
 - [https://www.freecodecamp.org/news/linux-server-tutorial/](https://www.freecodecamp.org/news/linux-server-tutorial/)<br>
+- [https://www.freecodecamp.org/news/introduction-to-linux-part-2/](https://www.freecodecamp.org/news/introduction-to-linux-part-2/)<br>
 
 ## CI/CD
 - [https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8](https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8)<br>
