@@ -28,6 +28,7 @@ Table of Contents
 - [https://blog.bytebytego.com/p/ep46-step-by-step-guide-on-system](https://blog.bytebytego.com/p/ep46-step-by-step-guide-on-system)<br>
 - [https://www.freecodecamp.org/news/software-system-design-for-beginners/](https://www.freecodecamp.org/news/software-system-design-for-beginners/)<br>
 - [https://shubhsharma19.hashnode.dev/basics-of-cloud](https://shubhsharma19.hashnode.dev/basics-of-cloud)<br>
+- [https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m)<br>
 
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
