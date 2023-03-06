@@ -42,6 +42,7 @@ Table of Contents
 - [https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4](https://dev.to/pragyanatvade/docker-commands-cheat-sheet-47n4)<br>
 - [https://awstip.com/ci-cd-pipeline-for-docker-images-f913edbdbded](https://awstip.com/ci-cd-pipeline-for-docker-images-f913edbdbded)<br>
 - [https://noted.lol/monocker/](https://noted.lol/monocker/)<br>
+- [https://www.baeldung.com/ops/docker-service-profiles](https://www.baeldung.com/ops/docker-service-profiles)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
