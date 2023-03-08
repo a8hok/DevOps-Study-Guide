@@ -75,7 +75,8 @@ Table of Contents
 ## CI/CD
 - [https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8](https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8)<br>
 - [https://www.infrastructureposts.com/p/e5-building-better-cicd-pipelines](https://www.infrastructureposts.com/p/e5-building-better-cicd-pipelines)<br>
-- [https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)
+- [https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69](https://dev.to/pavanbelagatti/learn-how-to-setup-a-cicd-pipeline-from-scratch-for-a-go-application-4m69)<br>
+- [https://itnext.io/jenkins-tutorial-part-10-work-with-git-in-pipeline-b5e42f6d124b](https://itnext.io/jenkins-tutorial-part-10-work-with-git-in-pipeline-b5e42f6d124b)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
