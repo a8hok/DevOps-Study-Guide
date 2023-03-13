@@ -44,6 +44,7 @@ Table of Contents
 - [https://awstip.com/ci-cd-pipeline-for-docker-images-f913edbdbded](https://awstip.com/ci-cd-pipeline-for-docker-images-f913edbdbded)<br>
 - [https://noted.lol/monocker/](https://noted.lol/monocker/)<br>
 - [https://www.baeldung.com/ops/docker-service-profiles](https://www.baeldung.com/ops/docker-service-profiles)<br>
+- [https://blog.devgenius.io/using-docker-to-build-a-boto3-development-environment-95a8a17e9b99](https://blog.devgenius.io/using-docker-to-build-a-boto3-development-environment-95a8a17e9b99)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
