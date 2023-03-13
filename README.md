@@ -67,6 +67,7 @@ Table of Contents
 - [https://awstip.com/terraform-fundamental-knowledge-6632370d4e57](https://awstip.com/terraform-fundamental-knowledge-6632370d4e57)<br>
 - [https://wellarchitectedlabs.com/](https://wellarchitectedlabs.com/)<br>
 - [https://towardsdev.com/aws-iam-roles-with-ec2-21c5bb572269](https://towardsdev.com/aws-iam-roles-with-ec2-21c5bb572269)<br>
+- [https://awstip.com/deploy-an-aws-sqs-simple-queue-service-using-terraform-8c361f30f36b](https://awstip.com/deploy-an-aws-sqs-simple-queue-service-using-terraform-8c361f30f36b)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
