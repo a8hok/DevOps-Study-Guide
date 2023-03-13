@@ -69,6 +69,7 @@ Table of Contents
 - [https://wellarchitectedlabs.com/](https://wellarchitectedlabs.com/)<br>
 - [https://towardsdev.com/aws-iam-roles-with-ec2-21c5bb572269](https://towardsdev.com/aws-iam-roles-with-ec2-21c5bb572269)<br>
 - [https://awstip.com/deploy-an-aws-sqs-simple-queue-service-using-terraform-8c361f30f36b](https://awstip.com/deploy-an-aws-sqs-simple-queue-service-using-terraform-8c361f30f36b)<br>
+- [https://medium.com/@StaceyMontes/the-3-muske-tier-architecture-426179d3a215](https://medium.com/@StaceyMontes/the-3-muske-tier-architecture-426179d3a215)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
