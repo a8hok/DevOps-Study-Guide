@@ -72,6 +72,7 @@ Table of Contents
 - [https://awstip.com/deploy-an-aws-sqs-simple-queue-service-using-terraform-8c361f30f36b](https://awstip.com/deploy-an-aws-sqs-simple-queue-service-using-terraform-8c361f30f36b)<br>
 - [https://medium.com/@StaceyMontes/the-3-muske-tier-architecture-426179d3a215](https://medium.com/@StaceyMontes/the-3-muske-tier-architecture-426179d3a215)<br>
 - [https://awstip.com/created-rest-api-with-aws-lambda-and-api-gateway-using-python-c006885410b5](https://awstip.com/created-rest-api-with-aws-lambda-and-api-gateway-using-python-c006885410b5)<br>
+- [https://towardsdev.com/building-a-three-tier-architecture-with-docker-swarm-on-aws-2a267c1a73c](https://towardsdev.com/building-a-three-tier-architecture-with-docker-swarm-on-aws-2a267c1a73c)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
