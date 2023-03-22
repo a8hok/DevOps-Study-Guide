@@ -31,6 +31,7 @@ Table of Contents
 - [https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m)<br>
 - [https://www.codemotion.com/magazine/devops/devops-trends-to-follow-in-2023/](https://www.codemotion.com/magazine/devops/devops-trends-to-follow-in-2023/)<br>
 - [https://www.javacodegeeks.com/2023/03/different-types-of-web-hosting.html](https://www.javacodegeeks.com/2023/03/different-types-of-web-hosting.html)<br>
+- []()<br>
 
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
@@ -83,6 +84,7 @@ Table of Contents
 - [https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc](https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc)<br>
 - [https://www.freecodecamp.org/news/linux-server-tutorial/](https://www.freecodecamp.org/news/linux-server-tutorial/)<br>
 - [https://www.freecodecamp.org/news/introduction-to-linux-part-2/](https://www.freecodecamp.org/news/introduction-to-linux-part-2/)<br>
+- [https://blog.devgenius.io/the-3-muske-tier-architecture-426179d3a215](https://blog.devgenius.io/the-3-muske-tier-architecture-426179d3a215)<br>
 
 ## CI/CD
 - [https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8](https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8)<br>
