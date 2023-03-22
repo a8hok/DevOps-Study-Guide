@@ -75,6 +75,7 @@ Table of Contents
 - [https://awstip.com/created-rest-api-with-aws-lambda-and-api-gateway-using-python-c006885410b5](https://awstip.com/created-rest-api-with-aws-lambda-and-api-gateway-using-python-c006885410b5)<br>
 - [https://towardsdev.com/building-a-three-tier-architecture-with-docker-swarm-on-aws-2a267c1a73c](https://towardsdev.com/building-a-three-tier-architecture-with-docker-swarm-on-aws-2a267c1a73c)<br>
 - [https://awstip.com/terraform-with-docker-ef0c0ee93643](https://awstip.com/terraform-with-docker-ef0c0ee93643)<br>
+- [https://medium.com/codex/aws-technology-architecting-10-questions-part-6-fce092a07c4](https://medium.com/codex/aws-technology-architecting-10-questions-part-6-fce092a07c4)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
