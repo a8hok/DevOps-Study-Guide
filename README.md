@@ -78,6 +78,7 @@ Table of Contents
 - [https://awstip.com/terraform-with-docker-ef0c0ee93643](https://awstip.com/terraform-with-docker-ef0c0ee93643)<br>
 - [https://medium.com/codex/aws-technology-architecting-10-questions-part-6-fce092a07c4](https://medium.com/codex/aws-technology-architecting-10-questions-part-6-fce092a07c4)<br>
 - [https://awstip.com/mount-s3-bucket-on-ec2-linux-instance-using-iam-role-f92c3f66757a](https://awstip.com/mount-s3-bucket-on-ec2-linux-instance-using-iam-role-f92c3f66757a)<br>
+- [https://awstip.com/a-guide-to-creating-a-three-tier-architecture-on-aws-555bcb8262ab](https://awstip.com/a-guide-to-creating-a-three-tier-architecture-on-aws-555bcb8262ab)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
