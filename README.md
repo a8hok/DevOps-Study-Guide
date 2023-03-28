@@ -49,6 +49,7 @@ Table of Contents
 - [https://blog.devgenius.io/using-docker-to-build-a-boto3-development-environment-95a8a17e9b99](https://blog.devgenius.io/using-docker-to-build-a-boto3-development-environment-95a8a17e9b99)<br>
 - [https://code.likeagirl.io/guide-to-containerization-with-docker-2373ae345a6f](https://code.likeagirl.io/guide-to-containerization-with-docker-2373ae345a6f)<br>
 - [https://blog.pradumnasaraf.dev/dockerhub-githubactions](https://blog.pradumnasaraf.dev/dockerhub-githubactions)<br>
+- [https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/](https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
