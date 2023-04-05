@@ -64,6 +64,7 @@ Table of Contents
 - [https://itnext.io/how-do-you-gracefully-shut-down-pods-in-kubernetes-fb19f617cd67](https://itnext.io/how-do-you-gracefully-shut-down-pods-in-kubernetes-fb19f617cd67)<br>
 - [https://itnext.io/4-container-design-patterns-for-kubernetes-a8593028b4cd](https://itnext.io/4-container-design-patterns-for-kubernetes-a8593028b4cd)<br>
 - [https://www.baeldung.com/ops/microk8s-introduction](https://www.baeldung.com/ops/microk8s-introduction)<br>
+- [https://matt-rickard.com/kubernetes-as-a-dev-tool](https://matt-rickard.com/kubernetes-as-a-dev-tool)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
