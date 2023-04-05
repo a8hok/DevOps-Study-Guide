@@ -51,6 +51,7 @@ Table of Contents
 - [https://blog.pradumnasaraf.dev/dockerhub-githubactions](https://blog.pradumnasaraf.dev/dockerhub-githubactions)<br>
 - [https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/](https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/)<br>
 - [https://medium.com/codingthesmartway-com-blog/docker-beginners-guide-part-1-images-containers-6f3507fffc98](https://medium.com/codingthesmartway-com-blog/docker-beginners-guide-part-1-images-containers-6f3507fffc98)<br>
+- [https://spacelift.io/blog/dockerfile](https://spacelift.io/blog/dockerfile)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
