@@ -87,6 +87,7 @@ Table of Contents
 - [https://about.gitlab.com/blog/2023/03/01/how-to-deploy-react-to-amazon-s3/](https://about.gitlab.com/blog/2023/03/01/how-to-deploy-react-to-amazon-s3/)<br>
 - [https://wellarchitectedlabs.com/](https://wellarchitectedlabs.com/)<br>
 - [https://explore.skillbuilder.aws/learn/signin](https://explore.skillbuilder.aws/learn/signin)<br>
+- [https://dev.to/joaosczip/build-a-file-upload-service-with-nodejs-typescript-clean-architecture-and-aws-s3-3h9b](https://dev.to/joaosczip/build-a-file-upload-service-with-nodejs-typescript-clean-architecture-and-aws-s3-3h9b)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
