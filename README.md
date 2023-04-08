@@ -86,6 +86,7 @@ Table of Contents
 - [https://awstip.com/a-guide-to-creating-a-three-tier-architecture-on-aws-555bcb8262ab](https://awstip.com/a-guide-to-creating-a-three-tier-architecture-on-aws-555bcb8262ab)<br>
 - [https://about.gitlab.com/blog/2023/03/01/how-to-deploy-react-to-amazon-s3/](https://about.gitlab.com/blog/2023/03/01/how-to-deploy-react-to-amazon-s3/)<br>
 - [https://wellarchitectedlabs.com/](https://wellarchitectedlabs.com/)<br>
+- [https://explore.skillbuilder.aws/learn/signin](https://explore.skillbuilder.aws/learn/signin)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
