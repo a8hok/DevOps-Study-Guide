@@ -85,6 +85,7 @@ Table of Contents
 - [https://awstip.com/mount-s3-bucket-on-ec2-linux-instance-using-iam-role-f92c3f66757a](https://awstip.com/mount-s3-bucket-on-ec2-linux-instance-using-iam-role-f92c3f66757a)<br>
 - [https://awstip.com/a-guide-to-creating-a-three-tier-architecture-on-aws-555bcb8262ab](https://awstip.com/a-guide-to-creating-a-three-tier-architecture-on-aws-555bcb8262ab)<br>
 - [https://about.gitlab.com/blog/2023/03/01/how-to-deploy-react-to-amazon-s3/](https://about.gitlab.com/blog/2023/03/01/how-to-deploy-react-to-amazon-s3/)<br>
+- [https://wellarchitectedlabs.com/](https://wellarchitectedlabs.com/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
