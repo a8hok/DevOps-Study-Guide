@@ -66,6 +66,7 @@ Table of Contents
 - [https://itnext.io/4-container-design-patterns-for-kubernetes-a8593028b4cd](https://itnext.io/4-container-design-patterns-for-kubernetes-a8593028b4cd)<br>
 - [https://www.baeldung.com/ops/microk8s-introduction](https://www.baeldung.com/ops/microk8s-introduction)<br>
 - [https://matt-rickard.com/kubernetes-as-a-dev-tool](https://matt-rickard.com/kubernetes-as-a-dev-tool)<br>
+- [https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1](https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
