@@ -92,6 +92,7 @@ Table of Contents
 - [https://explore.skillbuilder.aws/learn/signin](https://explore.skillbuilder.aws/learn/signin)<br>
 - [https://dev.to/joaosczip/build-a-file-upload-service-with-nodejs-typescript-clean-architecture-and-aws-s3-3h9b](https://dev.to/joaosczip/build-a-file-upload-service-with-nodejs-typescript-clean-architecture-and-aws-s3-3h9b)<br>
 - [https://portal.tutorialsdojo.com/product-category/aws/aws-digital-courses-2/](https://portal.tutorialsdojo.com/product-category/aws/aws-digital-courses-2/)<br>
+- [https://tutorialsdojo.com/aws-cheat-sheets/](https://tutorialsdojo.com/aws-cheat-sheets/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
