@@ -113,6 +113,7 @@ Table of Contents
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
+- [https://medium.com/@lavanyaramesh319/day-1-devops-introduction-d55488473ded](https://medium.com/@lavanyaramesh319/day-1-devops-introduction-d55488473ded)<br>
 
 ## Microservices
 - [https://www.freecodecamp.org/news/microservices-and-software-system-design-course/](https://www.freecodecamp.org/news/microservices-and-software-system-design-course/)<br>
