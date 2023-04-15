@@ -119,6 +119,7 @@ Table of Contents
 ## Microservices
 - [https://www.freecodecamp.org/news/microservices-and-software-system-design-course/](https://www.freecodecamp.org/news/microservices-and-software-system-design-course/)<br>
 - [https://thenewstack.io/what-is-microservices-architecture/](https://thenewstack.io/what-is-microservices-architecture/)<br>
+- [https://semaphoreci.com/blog/microservices-best-practices](https://semaphoreci.com/blog/microservices-best-practices)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
