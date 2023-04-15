@@ -55,6 +55,7 @@ Table of Contents
 - [https://spacelift.io/blog/dockerfile](https://spacelift.io/blog/dockerfile)<br>
 - [https://towardsdev.com/dive-deeper-into-docker-creating-a-docker-stack-9589a435d806](https://towardsdev.com/dive-deeper-into-docker-creating-a-docker-stack-9589a435d806)<br>
 - [https://sweetcode.io/how-to-use-local-docker-images-in-kubernetes/](https://sweetcode.io/how-to-use-local-docker-images-in-kubernetes/)<br>
+- [https://devdojo.com/francesco/dockerize-a-python-application](https://devdojo.com/francesco/dockerize-a-python-application)<br>
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
