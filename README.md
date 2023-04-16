@@ -56,6 +56,8 @@ Table of Contents
 - [https://towardsdev.com/dive-deeper-into-docker-creating-a-docker-stack-9589a435d806](https://towardsdev.com/dive-deeper-into-docker-creating-a-docker-stack-9589a435d806)<br>
 - [https://sweetcode.io/how-to-use-local-docker-images-in-kubernetes/](https://sweetcode.io/how-to-use-local-docker-images-in-kubernetes/)<br>
 - [https://devdojo.com/francesco/dockerize-a-python-application](https://devdojo.com/francesco/dockerize-a-python-application)<br>
+- [https://dockerlabs.collabnix.com/docker/cheatsheet/](https://dockerlabs.collabnix.com/docker/cheatsheet/)<br>
+
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
@@ -113,6 +115,7 @@ Table of Contents
 - [https://itnext.io/jenkins-tutorial-part-10-work-with-git-in-pipeline-b5e42f6d124b](https://itnext.io/jenkins-tutorial-part-10-work-with-git-in-pipeline-b5e42f6d124b)<br>
 - [https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/](https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/)<br>
 - [https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/](https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/)<br>
+- [https://www.honeybadger.io/blog/flask-github-actions-continuous-delivery/](https://www.honeybadger.io/blog/flask-github-actions-continuous-delivery/)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
