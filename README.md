@@ -100,6 +100,7 @@ Table of Contents
 - [https://tutorialsdojo.com/aws-cheat-sheets/](https://tutorialsdojo.com/aws-cheat-sheets/)<br>
 - [https://dev.to/aws-builders/developers-journey-to-aws-lambda-16ag](https://dev.to/aws-builders/developers-journey-to-aws-lambda-16ag)<br>
 - [https://enlear.academy/what-is-iam-aws-identity-and-access-management-bcba8092f465](https://enlear.academy/what-is-iam-aws-identity-and-access-management-bcba8092f465)<br>
+- [https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/](https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
