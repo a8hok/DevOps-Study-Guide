@@ -57,6 +57,7 @@ Table of Contents
 - [https://sweetcode.io/how-to-use-local-docker-images-in-kubernetes/](https://sweetcode.io/how-to-use-local-docker-images-in-kubernetes/)<br>
 - [https://devdojo.com/francesco/dockerize-a-python-application](https://devdojo.com/francesco/dockerize-a-python-application)<br>
 - [https://dockerlabs.collabnix.com/docker/cheatsheet/](https://dockerlabs.collabnix.com/docker/cheatsheet/)<br>
+- [https://octopus.com/blog/beginners-guide-containers](https://octopus.com/blog/beginners-guide-containers)<br>
 
 
 ## K8S
