@@ -102,6 +102,7 @@ Table of Contents
 - [https://dev.to/aws-builders/developers-journey-to-aws-lambda-16ag](https://dev.to/aws-builders/developers-journey-to-aws-lambda-16ag)<br>
 - [https://enlear.academy/what-is-iam-aws-identity-and-access-management-bcba8092f465](https://enlear.academy/what-is-iam-aws-identity-and-access-management-bcba8092f465)<br>
 - [https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/](https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/)<br>
+- [https://systemweakness.com/how-to-host-an-html-website-on-an-ec2-instance-new-console-36560c9ac208](https://systemweakness.com/how-to-host-an-html-website-on-an-ec2-instance-new-console-36560c9ac208)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
