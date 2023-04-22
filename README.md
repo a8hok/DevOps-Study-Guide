@@ -58,6 +58,7 @@ Table of Contents
 - [https://devdojo.com/francesco/dockerize-a-python-application](https://devdojo.com/francesco/dockerize-a-python-application)<br>
 - [https://dockerlabs.collabnix.com/docker/cheatsheet/](https://dockerlabs.collabnix.com/docker/cheatsheet/)<br>
 - [https://octopus.com/blog/beginners-guide-containers](https://octopus.com/blog/beginners-guide-containers)<br>
+- [https://dev.to/davydocsurg/mastering-docker-for-nodejs-advanced-techniques-and-best-practices-55m9](https://dev.to/davydocsurg/mastering-docker-for-nodejs-advanced-techniques-and-best-practices-55m9)<br>
 
 
 ## K8S
