@@ -134,6 +134,7 @@ Table of Contents
 - [https://thenewstack.io/what-is-microservices-architecture/](https://thenewstack.io/what-is-microservices-architecture/)<br>
 - [https://semaphoreci.com/blog/microservices-best-practices](https://semaphoreci.com/blog/microservices-best-practices)<br>
 - [https://redis.com/blog/microservice-architecture-key-concepts/](https://redis.com/blog/microservice-architecture-key-concepts/)<br>
+- [https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce](https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
