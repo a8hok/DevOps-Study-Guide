@@ -103,6 +103,7 @@ Table of Contents
 - [https://enlear.academy/what-is-iam-aws-identity-and-access-management-bcba8092f465](https://enlear.academy/what-is-iam-aws-identity-and-access-management-bcba8092f465)<br>
 - [https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/](https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/)<br>
 - [https://systemweakness.com/how-to-host-an-html-website-on-an-ec2-instance-new-console-36560c9ac208](https://systemweakness.com/how-to-host-an-html-website-on-an-ec2-instance-new-console-36560c9ac208)<br>
+- [https://towardsdev.com/send-queue-messages-in-aws-sqs-using-node-js-to-build-a-micro-service-application-5f4fb7ac192](https://towardsdev.com/send-queue-messages-in-aws-sqs-using-node-js-to-build-a-micro-service-application-5f4fb7ac192)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
