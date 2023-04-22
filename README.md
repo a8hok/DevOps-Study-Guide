@@ -164,6 +164,9 @@ Table of Contents
 ## Dev ops books
 - [https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc](https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc)<br>
 
-
 ## Scaling
 - [https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling-b53](https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling-b53)<br>
+
+## CommandLine
+- [https://www.freecodecamp.org/news/command-line-for-beginners/](https://www.freecodecamp.org/news/command-line-for-beginners/)<br>
+
