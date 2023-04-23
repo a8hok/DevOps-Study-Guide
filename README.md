@@ -109,6 +109,7 @@ Table of Contents
 - [https://towardsdev.com/send-queue-messages-in-aws-sqs-using-node-js-to-build-a-micro-service-application-5f4fb7ac192](https://towardsdev.com/send-queue-messages-in-aws-sqs-using-node-js-to-build-a-micro-service-application-5f4fb7ac192)<br>
 - [https://itnext.io/use-aws-controllers-for-kubernetes-to-deploy-a-serverless-data-processing-solution-with-sqs-lambda-62025dba97bf](https://itnext.io/use-aws-controllers-for-kubernetes-to-deploy-a-serverless-data-processing-solution-with-sqs-lambda-62025dba97bf)<br>
 - [https://awstip.com/using-cloudformation-deploy-3-tier-architecture-in-aws-8ccc0d4b8ed5](https://awstip.com/using-cloudformation-deploy-3-tier-architecture-in-aws-8ccc0d4b8ed5)<br>
+- [https://levelup.gitconnected.com/s3-multipart-upload-with-goroutines-92a7aebe831b](https://levelup.gitconnected.com/s3-multipart-upload-with-goroutines-92a7aebe831b)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
