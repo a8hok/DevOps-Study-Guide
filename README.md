@@ -76,6 +76,7 @@ Table of Contents
 - [https://matt-rickard.com/kubernetes-as-a-dev-tool](https://matt-rickard.com/kubernetes-as-a-dev-tool)<br>
 - [https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1](https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1)<br>
 - [https://itnext.io/multi-tenancy-in-kubernetes-332ff88d55d8](https://itnext.io/multi-tenancy-in-kubernetes-332ff88d55d8)<br>
+- [https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
