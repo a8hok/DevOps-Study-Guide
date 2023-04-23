@@ -176,4 +176,5 @@ Table of Contents
 
 ## CommandLine
 - [https://www.freecodecamp.org/news/command-line-for-beginners/](https://www.freecodecamp.org/news/command-line-for-beginners/)<br>
+- [https://code.likeagirl.io/configure-an-ec2-instance-using-a-bash-script-f8d0d1fd400c](https://code.likeagirl.io/configure-an-ec2-instance-using-a-bash-script-f8d0d1fd400c)<br>
 
