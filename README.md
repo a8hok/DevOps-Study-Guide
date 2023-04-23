@@ -140,6 +140,7 @@ Table of Contents
 - [https://semaphoreci.com/blog/microservices-best-practices](https://semaphoreci.com/blog/microservices-best-practices)<br>
 - [https://redis.com/blog/microservice-architecture-key-concepts/](https://redis.com/blog/microservice-architecture-key-concepts/)<br>
 - [https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce](https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce)<br>
+- [https://www.permit.io/blog/best-practices-for-authorization-in-microservices](https://www.permit.io/blog/best-practices-for-authorization-in-microservices)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
