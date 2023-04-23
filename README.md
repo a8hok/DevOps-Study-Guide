@@ -128,6 +128,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/](https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/)<br>
 - [https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/](https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/)<br>
 - [https://www.honeybadger.io/blog/flask-github-actions-continuous-delivery/](https://www.honeybadger.io/blog/flask-github-actions-continuous-delivery/)<br>
+- [https://mrdevops.hashnode.dev/ci-cd-pipeline-jenkins-step-by-step](https://mrdevops.hashnode.dev/ci-cd-pipeline-jenkins-step-by-step)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
