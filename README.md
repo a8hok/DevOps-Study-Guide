@@ -34,6 +34,7 @@ Table of Contents
 - [https://furkangulsen.medium.com/forward-proxy-vs-reverse-proxy-4b2061ef17d6](https://furkangulsen.medium.com/forward-proxy-vs-reverse-proxy-4b2061ef17d6)<br>
 - [https://kelvin-parmar.hashnode.dev/everything-you-need-to-know-about-devops](https://kelvin-parmar.hashnode.dev/everything-you-need-to-know-about-devops)<br>
 
+
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
 - [https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/](https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/)<br>
@@ -112,6 +113,7 @@ Table of Contents
 - [https://itnext.io/use-aws-controllers-for-kubernetes-to-deploy-a-serverless-data-processing-solution-with-sqs-lambda-62025dba97bf](https://itnext.io/use-aws-controllers-for-kubernetes-to-deploy-a-serverless-data-processing-solution-with-sqs-lambda-62025dba97bf)<br>
 - [https://awstip.com/using-cloudformation-deploy-3-tier-architecture-in-aws-8ccc0d4b8ed5](https://awstip.com/using-cloudformation-deploy-3-tier-architecture-in-aws-8ccc0d4b8ed5)<br>
 - [https://levelup.gitconnected.com/s3-multipart-upload-with-goroutines-92a7aebe831b](https://levelup.gitconnected.com/s3-multipart-upload-with-goroutines-92a7aebe831b)<br>
+- [https://dev.to/aws-builders/devsecops-with-aws-chatops-with-aws-and-aws-developer-tools-part-1-26n2](https://dev.to/aws-builders/devsecops-with-aws-chatops-with-aws-and-aws-developer-tools-part-1-26n2)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
