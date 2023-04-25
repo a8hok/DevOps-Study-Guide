@@ -181,3 +181,6 @@ Table of Contents
 - [https://www.freecodecamp.org/news/command-line-for-beginners/](https://www.freecodecamp.org/news/command-line-for-beginners/)<br>
 - [https://code.likeagirl.io/configure-an-ec2-instance-using-a-bash-script-f8d0d1fd400c](https://code.likeagirl.io/configure-an-ec2-instance-using-a-bash-script-f8d0d1fd400c)<br>
 
+## Terraform
+- [https://sunitabachhav2007.hashnode.dev/using-terraform-to-deploy-an-ec2-instance-with-bootstrapped-jenkins](https://sunitabachhav2007.hashnode.dev/using-terraform-to-deploy-an-ec2-instance-with-bootstrapped-jenkins)<br>
+
