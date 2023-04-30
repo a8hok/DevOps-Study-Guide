@@ -63,6 +63,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-get-started-with-docker-using-nodejs/](https://www.freecodecamp.org/news/how-to-get-started-with-docker-using-nodejs/)<br>
 - [https://dev.to/javinpaul/my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo)<br>
 - [https://sumanprasad.hashnode.dev/docker-containers-understanding-the-lifecycle-components-and-security-measures](https://sumanprasad.hashnode.dev/docker-containers-understanding-the-lifecycle-components-and-security-measures)<br>
+- [https://compile7.org/decompile/react-app-deployment/](https://compile7.org/decompile/react-app-deployment/)<br>
 
 
 ## K8S
