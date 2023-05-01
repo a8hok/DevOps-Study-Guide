@@ -116,6 +116,7 @@ Table of Contents
 - [https://awstip.com/using-cloudformation-deploy-3-tier-architecture-in-aws-8ccc0d4b8ed5](https://awstip.com/using-cloudformation-deploy-3-tier-architecture-in-aws-8ccc0d4b8ed5)<br>
 - [https://levelup.gitconnected.com/s3-multipart-upload-with-goroutines-92a7aebe831b](https://levelup.gitconnected.com/s3-multipart-upload-with-goroutines-92a7aebe831b)<br>
 - [https://dev.to/aws-builders/devsecops-with-aws-chatops-with-aws-and-aws-developer-tools-part-1-26n2](https://dev.to/aws-builders/devsecops-with-aws-chatops-with-aws-and-aws-developer-tools-part-1-26n2)<br>
+- [https://awstip.com/building-serverless-applications-with-aws-lambda-and-dynamodb-using-the-serverless-framework-755c11051718](https://awstip.com/building-serverless-applications-with-aws-lambda-and-dynamodb-using-the-serverless-framework-755c11051718)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
