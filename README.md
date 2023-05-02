@@ -65,6 +65,7 @@ Table of Contents
 - [https://sumanprasad.hashnode.dev/docker-containers-understanding-the-lifecycle-components-and-security-measures](https://sumanprasad.hashnode.dev/docker-containers-understanding-the-lifecycle-components-and-security-measures)<br>
 - [https://compile7.org/decompile/react-app-deployment/](https://compile7.org/decompile/react-app-deployment/)<br>
 - [https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp](https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp)<br>
+- [https://semaphoreci.com/blog/docker-logging-best-practices](https://semaphoreci.com/blog/docker-logging-best-practices)<br>
 
 
 ## K8S
