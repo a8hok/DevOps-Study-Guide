@@ -66,6 +66,7 @@ Table of Contents
 - [https://compile7.org/decompile/react-app-deployment/](https://compile7.org/decompile/react-app-deployment/)<br>
 - [https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp](https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp)<br>
 - [https://semaphoreci.com/blog/docker-logging-best-practices](https://semaphoreci.com/blog/docker-logging-best-practices)<br>
+- [https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp](https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp)<br>
 
 
 ## K8S
