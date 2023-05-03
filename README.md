@@ -190,3 +190,5 @@ Table of Contents
 ## Terraform
 - [https://sunitabachhav2007.hashnode.dev/using-terraform-to-deploy-an-ec2-instance-with-bootstrapped-jenkins](https://sunitabachhav2007.hashnode.dev/using-terraform-to-deploy-an-ec2-instance-with-bootstrapped-jenkins)<br>
 
+## Bash Scripting
+- [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
