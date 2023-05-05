@@ -67,6 +67,7 @@ Table of Contents
 - [https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp](https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp)<br>
 - [https://semaphoreci.com/blog/docker-logging-best-practices](https://semaphoreci.com/blog/docker-logging-best-practices)<br>
 - [https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp](https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp)<br>
+- [https://www.showwcase.com/show/34948/docker-essentials-a-step-by-step-guide-to-containerization-for-newbies](https://www.showwcase.com/show/34948/docker-essentials-a-step-by-step-guide-to-containerization-for-newbies)<br>
 
 
 ## K8S
