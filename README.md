@@ -122,6 +122,7 @@ Table of Contents
 - [https://dev.to/aws-builders/devsecops-with-aws-chatops-with-aws-and-aws-developer-tools-part-1-26n2](https://dev.to/aws-builders/devsecops-with-aws-chatops-with-aws-and-aws-developer-tools-part-1-26n2)<br>
 - [https://awstip.com/building-serverless-applications-with-aws-lambda-and-dynamodb-using-the-serverless-framework-755c11051718](https://awstip.com/building-serverless-applications-with-aws-lambda-and-dynamodb-using-the-serverless-framework-755c11051718)<br>
 - [https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/](https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/)<br>
+- [https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/](https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
