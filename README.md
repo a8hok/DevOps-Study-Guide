@@ -88,6 +88,7 @@ Table of Contents
 - [https://itnext.io/multi-tenancy-in-kubernetes-332ff88d55d8](https://itnext.io/multi-tenancy-in-kubernetes-332ff88d55d8)<br>
 - [https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)<br>
 - [https://sweetcode.io/how-to-deploy-an-application-to-kubernetes-cluster-using-jenkins-ci-cd-pipeline/](https://sweetcode.io/how-to-deploy-an-application-to-kubernetes-cluster-using-jenkins-ci-cd-pipeline/)<br>
+- [https://www.dotnetcurry.com/devops/kubernetes-concepts](https://www.dotnetcurry.com/devops/kubernetes-concepts)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
