@@ -127,6 +127,7 @@ Table of Contents
 - [https://awstip.com/building-serverless-applications-with-aws-lambda-and-dynamodb-using-the-serverless-framework-755c11051718](https://awstip.com/building-serverless-applications-with-aws-lambda-and-dynamodb-using-the-serverless-framework-755c11051718)<br>
 - [https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/](https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/)<br>
 - [https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/](https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/)<br>
+- [https://awstip.com/week-8-aws-cloud-bootcamp-1a16c20b2f9?source=rss----b4c1e34ed5e---4](https://awstip.com/week-8-aws-cloud-bootcamp-1a16c20b2f9?source=rss----b4c1e34ed5e---4)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
