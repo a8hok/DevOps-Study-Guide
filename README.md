@@ -162,6 +162,7 @@ Table of Contents
 - [https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce](https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce)<br>
 - [https://www.permit.io/blog/best-practices-for-authorization-in-microservices](https://www.permit.io/blog/best-practices-for-authorization-in-microservices)<br>
 - [https://hackernoon.com/71-stories-to-learn-about-microservice-architecture?source=rss](https://hackernoon.com/71-stories-to-learn-about-microservice-architecture?source=rss)<br>
+- [https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018](https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
