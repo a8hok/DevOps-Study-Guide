@@ -181,6 +181,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/9-best-distributed-tracing-tools-for-developers-185e415b7101](https://javascript.plainenglish.io/9-best-distributed-tracing-tools-for-developers-185e415b7101)<br>
 - [https://www.silvestar.codes/articles/testing-localhost-on-multiple-devices/](https://www.silvestar.codes/articles/testing-localhost-on-multiple-devices/)<br>
 - [https://www.wearedevelopers.com/magazine/best-tools-backend-development](https://www.wearedevelopers.com/magazine/best-tools-backend-development)<br>
+- [https://medium.com/devops-dudes/cracking-the-code-on-advanced-kubernetes-interview-questions-65f99359bfd9](https://medium.com/devops-dudes/cracking-the-code-on-advanced-kubernetes-interview-questions-65f99359bfd9)<br>
 
 ## Serverless
 - [https://dev.to/aws-builders/serverless-patterns-4439](https://dev.to/aws-builders/serverless-patterns-4439)<br>
