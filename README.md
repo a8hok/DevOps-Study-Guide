@@ -130,6 +130,7 @@ Table of Contents
 - [https://awstip.com/week-8-aws-cloud-bootcamp-1a16c20b2f9?source=rss----b4c1e34ed5e---4](https://awstip.com/week-8-aws-cloud-bootcamp-1a16c20b2f9?source=rss----b4c1e34ed5e---4)<br>
 - [https://blog.unity.com/games/using-devops-to-scale-multiplatform](https://blog.unity.com/games/using-devops-to-scale-multiplatform)<br>
 - [https://systemweakness.com/host-a-dynamic-ecommerce-website-on-aws-cbfb412dd0c7](https://systemweakness.com/host-a-dynamic-ecommerce-website-on-aws-cbfb412dd0c7)<br>
+- [https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/](https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
