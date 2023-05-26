@@ -91,6 +91,7 @@ Table of Contents
 - [https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7](https://dev.to/francescoxx/kubernetes-quick-tutorial-2el7)<br>
 - [https://sweetcode.io/how-to-deploy-an-application-to-kubernetes-cluster-using-jenkins-ci-cd-pipeline/](https://sweetcode.io/how-to-deploy-an-application-to-kubernetes-cluster-using-jenkins-ci-cd-pipeline/)<br>
 - [https://www.dotnetcurry.com/devops/kubernetes-concepts](https://www.dotnetcurry.com/devops/kubernetes-concepts)<br>
+- [https://spacelift.io/blog/docker-vs-kubernetes](https://spacelift.io/blog/docker-vs-kubernetes)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
