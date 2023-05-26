@@ -134,6 +134,7 @@ Table of Contents
 - [https://systemweakness.com/host-a-dynamic-ecommerce-website-on-aws-cbfb412dd0c7](https://systemweakness.com/host-a-dynamic-ecommerce-website-on-aws-cbfb412dd0c7)<br>
 - [https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/](https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/)<br>
 - [https://blog.saeloun.com/2023/05/08/connect-aws-rds-with-ec2/](https://blog.saeloun.com/2023/05/08/connect-aws-rds-with-ec2/)<br>
+- [https://spacelift.io/blog/aws-cost-optimization](https://spacelift.io/blog/aws-cost-optimization)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
