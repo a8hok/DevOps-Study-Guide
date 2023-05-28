@@ -135,6 +135,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/](https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/)<br>
 - [https://blog.saeloun.com/2023/05/08/connect-aws-rds-with-ec2/](https://blog.saeloun.com/2023/05/08/connect-aws-rds-with-ec2/)<br>
 - [https://spacelift.io/blog/aws-cost-optimization](https://spacelift.io/blog/aws-cost-optimization)<br>
+- [https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/](https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
