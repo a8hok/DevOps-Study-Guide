@@ -138,6 +138,7 @@ Table of Contents
 - [https://blog.saeloun.com/2023/05/08/connect-aws-rds-with-ec2/](https://blog.saeloun.com/2023/05/08/connect-aws-rds-with-ec2/)<br>
 - [https://spacelift.io/blog/aws-cost-optimization](https://spacelift.io/blog/aws-cost-optimization)<br>
 - [https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/](https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/)<br>
+- [https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
