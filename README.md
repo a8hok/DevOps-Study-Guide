@@ -73,6 +73,7 @@ Table of Contents
 - [https://earthly.dev/blog/github-actions-and-docker/](https://earthly.dev/blog/github-actions-and-docker/)<br>
 - [https://spacelift.io/blog/docker-networking](https://spacelift.io/blog/docker-networking)<br>
 - [https://spacelift.io/blog/docker-secrets](https://spacelift.io/blog/docker-secrets)<br>
+- [https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container](https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container)<br>
 
 
 ## K8S
