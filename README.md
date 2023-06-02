@@ -141,6 +141,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/](https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/)<br>
 - [https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp)<br>
 - [https://faun.pub/the-ultimate-guide-to-advanced-terraform-techniques-for-devops-b202b6845170](https://faun.pub/the-ultimate-guide-to-advanced-terraform-techniques-for-devops-b202b6845170)<br>
+- [https://awstip.com/creating-lambda-functions-with-local-container-image-de3432e57b90](https://awstip.com/creating-lambda-functions-with-local-container-image-de3432e57b90)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
