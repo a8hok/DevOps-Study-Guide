@@ -74,6 +74,7 @@ Table of Contents
 - [https://spacelift.io/blog/docker-networking](https://spacelift.io/blog/docker-networking)<br>
 - [https://spacelift.io/blog/docker-secrets](https://spacelift.io/blog/docker-secrets)<br>
 - [https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container](https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container)<br>
+- [https://earthly.dev/blog/push-docker-image-bazel/](https://earthly.dev/blog/push-docker-image-bazel/)<br>
 
 
 ## K8S
