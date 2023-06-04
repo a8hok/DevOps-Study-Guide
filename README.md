@@ -75,6 +75,7 @@ Table of Contents
 - [https://spacelift.io/blog/docker-secrets](https://spacelift.io/blog/docker-secrets)<br>
 - [https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container](https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container)<br>
 - [https://earthly.dev/blog/push-docker-image-bazel/](https://earthly.dev/blog/push-docker-image-bazel/)<br>
+- [https://medium.com/@chetansirsa/docker-crash-book-free-just-enough-docker-to-be-a-docker-ninja-879af6bdc5de](https://medium.com/@chetansirsa/docker-crash-book-free-just-enough-docker-to-be-a-docker-ninja-879af6bdc5de)<br>
 
 
 ## K8S
