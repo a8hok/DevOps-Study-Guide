@@ -165,6 +165,7 @@ Table of Contents
 - [https://www.honeybadger.io/blog/flask-github-actions-continuous-delivery/](https://www.honeybadger.io/blog/flask-github-actions-continuous-delivery/)<br>
 - [https://mrdevops.hashnode.dev/ci-cd-pipeline-jenkins-step-by-step](https://mrdevops.hashnode.dev/ci-cd-pipeline-jenkins-step-by-step)<br>
 - [https://medium.com/@RunningMattress/setting-up-a-ci-cd-pipeline-for-unity-part-2-e5e6693d4546](https://medium.com/@RunningMattress/setting-up-a-ci-cd-pipeline-for-unity-part-2-e5e6693d4546)<br>
+- [https://coralogix.com/blog/ci-cd-security/](https://coralogix.com/blog/ci-cd-security/)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
