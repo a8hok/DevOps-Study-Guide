@@ -146,6 +146,7 @@ Table of Contents
 - [https://awstip.com/creating-lambda-functions-with-local-container-image-de3432e57b90](https://awstip.com/creating-lambda-functions-with-local-container-image-de3432e57b90)<br>
 - [https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)<br>
 - [https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes](https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes)<br>
+- [https://spacelift.io/blog/aws-scaling](https://spacelift.io/blog/aws-scaling)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
