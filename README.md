@@ -98,6 +98,7 @@ Table of Contents
 - [https://www.dotnetcurry.com/devops/kubernetes-concepts](https://www.dotnetcurry.com/devops/kubernetes-concepts)<br>
 - [https://spacelift.io/blog/docker-vs-kubernetes](https://spacelift.io/blog/docker-vs-kubernetes)<br>
 - [https://hackernoon.com/419-stories-to-learn-about-kubernetes?source=rss](https://hackernoon.com/419-stories-to-learn-about-kubernetes?source=rss)<br>
+- [https://thenewstack.io/deploy-a-kubernetes-development-environment-with-kind/](https://thenewstack.io/deploy-a-kubernetes-development-environment-with-kind/)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
