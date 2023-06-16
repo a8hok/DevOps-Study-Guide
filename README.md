@@ -236,3 +236,6 @@ Table of Contents
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
 - [https://dev.to/gajulashivaprasad/mastering-shell-scripting-your-ultimate-cheat-sheet-for-efficient-automation-7o5](https://dev.to/gajulashivaprasad/mastering-shell-scripting-your-ultimate-cheat-sheet-for-efficient-automation-7o5)<br>
+
+## Azure
+- [https://dev.to/shivamchamoli18/top-azure-interview-questions-563h](https://dev.to/shivamchamoli18/top-azure-interview-questions-563h)<br>
