@@ -209,6 +209,7 @@ Table of Contents
 - [https://www.wearedevelopers.com/magazine/best-tools-backend-development](https://www.wearedevelopers.com/magazine/best-tools-backend-development)<br>
 - [https://medium.com/devops-dudes/cracking-the-code-on-advanced-kubernetes-interview-questions-65f99359bfd9](https://medium.com/devops-dudes/cracking-the-code-on-advanced-kubernetes-interview-questions-65f99359bfd9)<br>
 - [https://www.javacodegeeks.com/2023/05/devops-deployment-process-stages-tools-best-practises.html](https://www.javacodegeeks.com/2023/05/devops-deployment-process-stages-tools-best-practises.html)<br>
+- [https://www.strongdm.com/blog/ssh-tunneling](https://www.strongdm.com/blog/ssh-tunneling)<br>
 
 ## Serverless
 - [https://dev.to/aws-builders/serverless-patterns-4439](https://dev.to/aws-builders/serverless-patterns-4439)<br>
