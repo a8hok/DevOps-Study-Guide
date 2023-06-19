@@ -151,6 +151,7 @@ Table of Contents
 - [https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes](https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes)<br>
 - [https://spacelift.io/blog/aws-scaling](https://spacelift.io/blog/aws-scaling)<br>
 - [https://awstip.com/how-to-deploy-aws-sam-projects-to-aws-managed-services-ams-baa5e25c7def](https://awstip.com/how-to-deploy-aws-sam-projects-to-aws-managed-services-ams-baa5e25c7def)<br>
+- [https://dzone.com/articles/exploring-the-benefits-of-kubernetes](https://dzone.com/articles/exploring-the-benefits-of-kubernetes)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
