@@ -150,6 +150,7 @@ Table of Contents
 - [https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0](https://dev.to/kelvinskell/a-practical-guide-to-deploying-a-complex-production-level-three-tier-architecture-on-aws-2hf0)<br>
 - [https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes](https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes)<br>
 - [https://spacelift.io/blog/aws-scaling](https://spacelift.io/blog/aws-scaling)<br>
+- [https://awstip.com/how-to-deploy-aws-sam-projects-to-aws-managed-services-ams-baa5e25c7def](https://awstip.com/how-to-deploy-aws-sam-projects-to-aws-managed-services-ams-baa5e25c7def)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
