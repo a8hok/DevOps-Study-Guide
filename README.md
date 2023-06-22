@@ -154,6 +154,7 @@ Table of Contents
 - [https://dzone.com/articles/exploring-the-benefits-of-kubernetes](https://dzone.com/articles/exploring-the-benefits-of-kubernetes)<br>
 - [https://spacelift.io/blog/terraform-ec2-instance](https://spacelift.io/blog/terraform-ec2-instance)<br>
 - [https://awstip.com/launching-a-static-website-using-two-aws-services-amazon-s3-and-amazon-route-53-f8ac8caa4747](https://awstip.com/launching-a-static-website-using-two-aws-services-amazon-s3-and-amazon-route-53-f8ac8caa4747)<br>
+- [https://tsh.io/blog/aws-lambda-performance/](https://tsh.io/blog/aws-lambda-performance/)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
