@@ -181,6 +181,7 @@ Table of Contents
 - [https://medium.com/@lavanyaramesh319/day-1-devops-introduction-d55488473ded](https://medium.com/@lavanyaramesh319/day-1-devops-introduction-d55488473ded)<br>
 - [https://www.freecodecamp.org/news/linux-command-line-tutorial/](https://www.freecodecamp.org/news/linux-command-line-tutorial/)<br>
 - [https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/](https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/)<br>
+- [https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)<br>
 
 ## Microservices
 - [https://www.freecodecamp.org/news/microservices-and-software-system-design-course/](https://www.freecodecamp.org/news/microservices-and-software-system-design-course/)<br>
