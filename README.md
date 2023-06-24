@@ -194,6 +194,7 @@ Table of Contents
 - [https://hackernoon.com/71-stories-to-learn-about-microservice-architecture?source=rss](https://hackernoon.com/71-stories-to-learn-about-microservice-architecture?source=rss)<br>
 - [https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018](https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018)<br>
 - [https://redis.com/blog/managing-microservices/](https://redis.com/blog/managing-microservices/)<br>
+- [https://dzone.com/articles/microservices-deployment-models](https://dzone.com/articles/microservices-deployment-models)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
