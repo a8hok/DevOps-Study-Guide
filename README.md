@@ -101,6 +101,7 @@ Table of Contents
 - [https://hackernoon.com/419-stories-to-learn-about-kubernetes?source=rss](https://hackernoon.com/419-stories-to-learn-about-kubernetes?source=rss)<br>
 - [https://thenewstack.io/deploy-a-kubernetes-development-environment-with-kind/](https://thenewstack.io/deploy-a-kubernetes-development-environment-with-kind/)<br>
 - [https://www.sitepoint.com/kubernetes-aws-tutorial/?utm_source=rss](https://www.sitepoint.com/kubernetes-aws-tutorial/?utm_source=rss)<br>
+- [https://sagarkrp.medium.com/container-orchestration-with-kubernetes-101-55e4abdff667](https://sagarkrp.medium.com/container-orchestration-with-kubernetes-101-55e4abdff667)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
