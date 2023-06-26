@@ -160,6 +160,7 @@ Table of Contents
 - [https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d](https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d)<br>
 - [https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/](https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/)<br>
 - [https://awstip.com/terraform-packer-5f56ec9bf303](https://awstip.com/terraform-packer-5f56ec9bf303)<br>
+- [https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf](https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
