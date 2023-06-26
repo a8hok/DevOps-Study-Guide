@@ -159,6 +159,7 @@ Table of Contents
 - [https://tsh.io/blog/aws-lambda-performance/](https://tsh.io/blog/aws-lambda-performance/)<br>
 - [https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d](https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d)<br>
 - [https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/](https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/)<br>
+- [https://awstip.com/terraform-packer-5f56ec9bf303](https://awstip.com/terraform-packer-5f56ec9bf303)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
