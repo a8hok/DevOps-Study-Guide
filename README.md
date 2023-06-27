@@ -162,6 +162,7 @@ Table of Contents
 - [https://awstip.com/terraform-packer-5f56ec9bf303](https://awstip.com/terraform-packer-5f56ec9bf303)<br>
 - [https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf](https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf)<br>
 - [https://aws.plainenglish.io/deploy-your-react-app-with-aws-ec2-f355f5700aae](https://aws.plainenglish.io/deploy-your-react-app-with-aws-ec2-f355f5700aae)<br>
+- [https://spacelift.io/blog/aws-iam-best-practices](https://spacelift.io/blog/aws-iam-best-practices)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
