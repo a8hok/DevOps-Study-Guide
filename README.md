@@ -163,6 +163,7 @@ Table of Contents
 - [https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf](https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf)<br>
 - [https://aws.plainenglish.io/deploy-your-react-app-with-aws-ec2-f355f5700aae](https://aws.plainenglish.io/deploy-your-react-app-with-aws-ec2-f355f5700aae)<br>
 - [https://spacelift.io/blog/aws-iam-best-practices](https://spacelift.io/blog/aws-iam-best-practices)<br>
+- [https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46](https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
