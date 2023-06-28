@@ -102,6 +102,7 @@ Table of Contents
 - [https://thenewstack.io/deploy-a-kubernetes-development-environment-with-kind/](https://thenewstack.io/deploy-a-kubernetes-development-environment-with-kind/)<br>
 - [https://www.sitepoint.com/kubernetes-aws-tutorial/?utm_source=rss](https://www.sitepoint.com/kubernetes-aws-tutorial/?utm_source=rss)<br>
 - [https://sagarkrp.medium.com/container-orchestration-with-kubernetes-101-55e4abdff667](https://sagarkrp.medium.com/container-orchestration-with-kubernetes-101-55e4abdff667)<br>
+- [https://www.javacodegeeks.com/2023/06/main-differences-between-docker-compose-kubernetes.html?amp=1](https://www.javacodegeeks.com/2023/06/main-differences-between-docker-compose-kubernetes.html?amp=1)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
