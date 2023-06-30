@@ -252,6 +252,7 @@ Table of Contents
 ## Terraform
 - [https://sunitabachhav2007.hashnode.dev/using-terraform-to-deploy-an-ec2-instance-with-bootstrapped-jenkins](https://sunitabachhav2007.hashnode.dev/using-terraform-to-deploy-an-ec2-instance-with-bootstrapped-jenkins)<br>
 - [https://aws.plainenglish.io/most-asked-terraform-interview-questions-i-f8ec618a429a](https://aws.plainenglish.io/most-asked-terraform-interview-questions-i-f8ec618a429a)<br>
+- [https://aws.plainenglish.io/most-asked-terraform-interview-questions-ii-42a23b29f9f9](https://aws.plainenglish.io/most-asked-terraform-interview-questions-ii-42a23b29f9f9)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
