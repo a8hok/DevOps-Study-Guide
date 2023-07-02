@@ -104,6 +104,7 @@ Table of Contents
 - [https://sagarkrp.medium.com/container-orchestration-with-kubernetes-101-55e4abdff667](https://sagarkrp.medium.com/container-orchestration-with-kubernetes-101-55e4abdff667)<br>
 - [https://www.javacodegeeks.com/2023/06/main-differences-between-docker-compose-kubernetes.html?amp=1](https://www.javacodegeeks.com/2023/06/main-differences-between-docker-compose-kubernetes.html?amp=1)<br>
 - [https://medium.com/cloud-native-daily/kubernetes-monitoring-tools-584d82c94185](https://medium.com/cloud-native-daily/kubernetes-monitoring-tools-584d82c94185)<br>
+- [https://sagarkrp.medium.com/kubernetes-deep-dive-pods-pull-policy-labels-selectors-2bba5200ec5c](https://sagarkrp.medium.com/kubernetes-deep-dive-pods-pull-policy-labels-selectors-2bba5200ec5c)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
