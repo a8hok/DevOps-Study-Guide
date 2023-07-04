@@ -169,6 +169,7 @@ Table of Contents
 - [https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46](https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46)<br>
 - [https://awstip.com/tutorial-hosting-a-website-on-amazon-s3-and-using-it-as-an-origin-for-cloudfront-7b87993f67dd](https://awstip.com/tutorial-hosting-a-website-on-amazon-s3-and-using-it-as-an-origin-for-cloudfront-7b87993f67dd)<br>
 - [https://awstip.com/how-to-automate-reactjs-deployment-with-circleci-and-aws-s3-8bb1d6b72b26](https://awstip.com/how-to-automate-reactjs-deployment-with-circleci-and-aws-s3-8bb1d6b72b26)<br>
+- [https://awstip.com/speeding-up-aws-amplify-nextjs-first-render-cold-start-and-images-an-unexpected-result-36a416d69615](https://awstip.com/speeding-up-aws-amplify-nextjs-first-render-cold-start-and-images-an-unexpected-result-36a416d69615)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
