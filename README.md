@@ -210,6 +210,7 @@ Table of Contents
 - [https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018](https://itnext.io/12-factor-microservice-applications-on-kubernetes-db913008b018)<br>
 - [https://redis.com/blog/managing-microservices/](https://redis.com/blog/managing-microservices/)<br>
 - [https://dzone.com/articles/microservices-deployment-models](https://dzone.com/articles/microservices-deployment-models)<br>
+- [https://medium.com/@miniproject2019/optimizing-your-architecture-with-microservices-design-patterns-98738a0b60dd](https://medium.com/@miniproject2019/optimizing-your-architecture-with-microservices-design-patterns-98738a0b60dd)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
