@@ -191,6 +191,7 @@ Table of Contents
 - [https://medium.com/@RunningMattress/setting-up-a-ci-cd-pipeline-for-unity-part-2-e5e6693d4546](https://medium.com/@RunningMattress/setting-up-a-ci-cd-pipeline-for-unity-part-2-e5e6693d4546)<br>
 - [https://coralogix.com/blog/ci-cd-security/](https://coralogix.com/blog/ci-cd-security/)<br>
 - [https://dzone.com/articles/the-art-of-cicd-optimization-mastering-techniques](https://dzone.com/articles/the-art-of-cicd-optimization-mastering-techniques)<br>
+- [https://awstip.com/implemented-ci-cd-pipeline-using-aws-services-e50ecf4c2f54](https://awstip.com/implemented-ci-cd-pipeline-using-aws-services-e50ecf4c2f54)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
