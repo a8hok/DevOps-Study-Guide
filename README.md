@@ -271,3 +271,6 @@ Table of Contents
 
 ## Azure
 - [https://dev.to/shivamchamoli18/top-azure-interview-questions-563h](https://dev.to/shivamchamoli18/top-azure-interview-questions-563h)<br>
+
+## Free deloyment
+- [https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e](https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e)<br>
