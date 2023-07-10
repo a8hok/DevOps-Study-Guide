@@ -172,6 +172,7 @@ Table of Contents
 - [https://awstip.com/how-to-automate-reactjs-deployment-with-circleci-and-aws-s3-8bb1d6b72b26](https://awstip.com/how-to-automate-reactjs-deployment-with-circleci-and-aws-s3-8bb1d6b72b26)<br>
 - [https://awstip.com/speeding-up-aws-amplify-nextjs-first-render-cold-start-and-images-an-unexpected-result-36a416d69615](https://awstip.com/speeding-up-aws-amplify-nextjs-first-render-cold-start-and-images-an-unexpected-result-36a416d69615)<br>
 - [https://awstip.com/tutorial-aws-s3-static-webpage-3a8c6793a4ff](https://awstip.com/tutorial-aws-s3-static-webpage-3a8c6793a4ff)<br>
+- [https://aws.plainenglish.io/introducing-aws-ec2-instance-connect-endpoint-1c2211aed83b](https://aws.plainenglish.io/introducing-aws-ec2-instance-connect-endpoint-1c2211aed83b)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
