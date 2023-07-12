@@ -175,6 +175,7 @@ Table of Contents
 - [https://aws.plainenglish.io/introducing-aws-ec2-instance-connect-endpoint-1c2211aed83b](https://aws.plainenglish.io/introducing-aws-ec2-instance-connect-endpoint-1c2211aed83b)<br>
 - [https://awstip.com/the-ultimate-guide-to-creating-a-free-tier-aws-account-iam-setup-mfa-and-billing-alarms-f5bd81db42bc](https://awstip.com/the-ultimate-guide-to-creating-a-free-tier-aws-account-iam-setup-mfa-and-billing-alarms-f5bd81db42bc)<br>
 - [https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci](https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci)<br>
+- [https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci](https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
