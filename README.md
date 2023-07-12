@@ -78,6 +78,7 @@ Table of Contents
 - [https://medium.com/@chetansirsa/docker-crash-book-free-just-enough-docker-to-be-a-docker-ninja-879af6bdc5de](https://medium.com/@chetansirsa/docker-crash-book-free-just-enough-docker-to-be-a-docker-ninja-879af6bdc5de)<br>
 - [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
 - [https://spacelift.io/blog/docker-commands-cheat-sheet](https://spacelift.io/blog/docker-commands-cheat-sheet)<br>
+- [https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd](https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd)<br>
 
 
 ## K8S
