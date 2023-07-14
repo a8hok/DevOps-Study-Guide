@@ -37,7 +37,6 @@ Table of Contents
 
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
-- [https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/](https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/)<br>
 - [https://faun.pub/docker-funnnn-damentals-bb9b7dd8f465](https://faun.pub/docker-funnnn-damentals-bb9b7dd8f465)<br>
 - [https://dzone.com/articles/how-to-create-a-dockerfile](https://dzone.com/articles/how-to-create-a-dockerfile)<br>
 - [https://www.thisdot.co/blog/building-docker-containers](https://www.thisdot.co/blog/building-docker-containers)<br>
@@ -51,7 +50,6 @@ Table of Contents
 - [https://blog.devgenius.io/using-docker-to-build-a-boto3-development-environment-95a8a17e9b99](https://blog.devgenius.io/using-docker-to-build-a-boto3-development-environment-95a8a17e9b99)<br>
 - [https://code.likeagirl.io/guide-to-containerization-with-docker-2373ae345a6f](https://code.likeagirl.io/guide-to-containerization-with-docker-2373ae345a6f)<br>
 - [https://blog.pradumnasaraf.dev/dockerhub-githubactions](https://blog.pradumnasaraf.dev/dockerhub-githubactions)<br>
-- [https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/](https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/)<br>
 - [https://medium.com/codingthesmartway-com-blog/docker-beginners-guide-part-1-images-containers-6f3507fffc98](https://medium.com/codingthesmartway-com-blog/docker-beginners-guide-part-1-images-containers-6f3507fffc98)<br>
 - [https://spacelift.io/blog/dockerfile](https://spacelift.io/blog/dockerfile)<br>
 - [https://towardsdev.com/dive-deeper-into-docker-creating-a-docker-stack-9589a435d806](https://towardsdev.com/dive-deeper-into-docker-creating-a-docker-stack-9589a435d806)<br>
@@ -82,6 +80,9 @@ Table of Contents
 - [https://spacelift.io/blog/docker-commands-cheat-sheet](https://spacelift.io/blog/docker-commands-cheat-sheet)<br>
 
 ## Docker Compose
+- [https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/](https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/)<br>
+- [https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/](https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/)<br>
+
 
 
 ## Docker Swarm
