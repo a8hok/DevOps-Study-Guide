@@ -178,6 +178,7 @@ Table of Contents
 - [https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci](https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci)<br>
 - [https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci](https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci)<br>
 - [https://aws.plainenglish.io/what-is-aws-lambda-e97062d09bbb](https://aws.plainenglish.io/what-is-aws-lambda-e97062d09bbb)<br>
+- [https://awstip.com/building-intelligent-image-recognition-systems-with-aws-lambda-s3-rekognition-and-sns-a-b0902404a178](https://awstip.com/building-intelligent-image-recognition-systems-with-aws-lambda-s3-rekognition-and-sns-a-b0902404a178)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
