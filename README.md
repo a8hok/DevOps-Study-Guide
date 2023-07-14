@@ -79,6 +79,12 @@ Table of Contents
 - [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
 - [https://spacelift.io/blog/docker-commands-cheat-sheet](https://spacelift.io/blog/docker-commands-cheat-sheet)<br>
 - [https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd](https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd)<br>
+- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>
+
+## Docker Compose
+
+
+## Docker Swarm
 
 
 ## K8S
