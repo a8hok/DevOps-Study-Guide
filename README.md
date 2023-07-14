@@ -68,23 +68,26 @@ Table of Contents
 - [https://semaphoreci.com/blog/docker-logging-best-practices](https://semaphoreci.com/blog/docker-logging-best-practices)<br>
 - [https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp](https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp)<br>
 - [https://www.showwcase.com/show/34948/docker-essentials-a-step-by-step-guide-to-containerization-for-newbies](https://www.showwcase.com/show/34948/docker-essentials-a-step-by-step-guide-to-containerization-for-newbies)<br>
-- [https://www.javacodegeeks.com/2023/05/a-comprehensive-guide-to-docker-swarm.html](https://www.javacodegeeks.com/2023/05/a-comprehensive-guide-to-docker-swarm.html)<br>
 - [https://www.javacodegeeks.com/starting-with-docker-cheatsheet.html](https://www.javacodegeeks.com/starting-with-docker-cheatsheet.html)<br>
 - [https://earthly.dev/blog/github-actions-and-docker/](https://earthly.dev/blog/github-actions-and-docker/)<br>
 - [https://spacelift.io/blog/docker-networking](https://spacelift.io/blog/docker-networking)<br>
 - [https://spacelift.io/blog/docker-secrets](https://spacelift.io/blog/docker-secrets)<br>
-- [https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container](https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container)<br>
 - [https://earthly.dev/blog/push-docker-image-bazel/](https://earthly.dev/blog/push-docker-image-bazel/)<br>
 - [https://medium.com/@chetansirsa/docker-crash-book-free-just-enough-docker-to-be-a-docker-ninja-879af6bdc5de](https://medium.com/@chetansirsa/docker-crash-book-free-just-enough-docker-to-be-a-docker-ninja-879af6bdc5de)<br>
-- [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
-- [https://spacelift.io/blog/docker-commands-cheat-sheet](https://spacelift.io/blog/docker-commands-cheat-sheet)<br>
 - [https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd](https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd)<br>
 - [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>
+
+## Docker cheetsheet
+- [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
+- [https://spacelift.io/blog/docker-commands-cheat-sheet](https://spacelift.io/blog/docker-commands-cheat-sheet)<br>
 
 ## Docker Compose
 
 
 ## Docker Swarm
+- [https://www.javacodegeeks.com/2023/05/a-comprehensive-guide-to-docker-swarm.html](https://www.javacodegeeks.com/2023/05/a-comprehensive-guide-to-docker-swarm.html)<br>
+- [https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container](https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container)<br>
+
 
 
 ## K8S
