@@ -161,14 +161,10 @@ Table of Contents
 - [https://dzone.com/articles/exploring-the-benefits-of-kubernetes](https://dzone.com/articles/exploring-the-benefits-of-kubernetes)<br>
 - [https://spacelift.io/blog/terraform-ec2-instance](https://spacelift.io/blog/terraform-ec2-instance)<br>
 - [https://awstip.com/launching-a-static-website-using-two-aws-services-amazon-s3-and-amazon-route-53-f8ac8caa4747](https://awstip.com/launching-a-static-website-using-two-aws-services-amazon-s3-and-amazon-route-53-f8ac8caa4747)<br>
-- [https://tsh.io/blog/aws-lambda-performance/](https://tsh.io/blog/aws-lambda-performance/)<br>
-- [https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d](https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d)<br>
 - [https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/](https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/)<br>
 - [https://awstip.com/terraform-packer-5f56ec9bf303](https://awstip.com/terraform-packer-5f56ec9bf303)<br>
-- [https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf](https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf)<br>
 - [https://aws.plainenglish.io/deploy-your-react-app-with-aws-ec2-f355f5700aae](https://aws.plainenglish.io/deploy-your-react-app-with-aws-ec2-f355f5700aae)<br>
 - [https://spacelift.io/blog/aws-iam-best-practices](https://spacelift.io/blog/aws-iam-best-practices)<br>
-- [https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46](https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46)<br>
 - [https://awstip.com/tutorial-hosting-a-website-on-amazon-s3-and-using-it-as-an-origin-for-cloudfront-7b87993f67dd](https://awstip.com/tutorial-hosting-a-website-on-amazon-s3-and-using-it-as-an-origin-for-cloudfront-7b87993f67dd)<br>
 - [https://awstip.com/how-to-automate-reactjs-deployment-with-circleci-and-aws-s3-8bb1d6b72b26](https://awstip.com/how-to-automate-reactjs-deployment-with-circleci-and-aws-s3-8bb1d6b72b26)<br>
 - [https://awstip.com/speeding-up-aws-amplify-nextjs-first-render-cold-start-and-images-an-unexpected-result-36a416d69615](https://awstip.com/speeding-up-aws-amplify-nextjs-first-render-cold-start-and-images-an-unexpected-result-36a416d69615)<br>
@@ -176,9 +172,16 @@ Table of Contents
 - [https://aws.plainenglish.io/introducing-aws-ec2-instance-connect-endpoint-1c2211aed83b](https://aws.plainenglish.io/introducing-aws-ec2-instance-connect-endpoint-1c2211aed83b)<br>
 - [https://awstip.com/the-ultimate-guide-to-creating-a-free-tier-aws-account-iam-setup-mfa-and-billing-alarms-f5bd81db42bc](https://awstip.com/the-ultimate-guide-to-creating-a-free-tier-aws-account-iam-setup-mfa-and-billing-alarms-f5bd81db42bc)<br>
 - [https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci](https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci)<br>
-- [https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci](https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci)<br>
+
+
+## AWS lambda
+- [https://aws.plainenglish.io/best-practices-for-python-with-aws-lambda-an-essential-guide-a22b708f8006](https://aws.plainenglish.io/best-practices-for-python-with-aws-lambda-an-essential-guide-a22b708f8006)<br>
 - [https://aws.plainenglish.io/what-is-aws-lambda-e97062d09bbb](https://aws.plainenglish.io/what-is-aws-lambda-e97062d09bbb)<br>
 - [https://awstip.com/building-intelligent-image-recognition-systems-with-aws-lambda-s3-rekognition-and-sns-a-b0902404a178](https://awstip.com/building-intelligent-image-recognition-systems-with-aws-lambda-s3-rekognition-and-sns-a-b0902404a178)<br>
+- [https://tsh.io/blog/aws-lambda-performance/](https://tsh.io/blog/aws-lambda-performance/)<br>
+- [https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d](https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d)<br>
+- [https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf](https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf)<br>
+
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
@@ -270,6 +273,7 @@ Table of Contents
 - [https://aws.plainenglish.io/most-asked-terraform-interview-questions-i-f8ec618a429a](https://aws.plainenglish.io/most-asked-terraform-interview-questions-i-f8ec618a429a)<br>
 - [https://aws.plainenglish.io/most-asked-terraform-interview-questions-ii-42a23b29f9f9](https://aws.plainenglish.io/most-asked-terraform-interview-questions-ii-42a23b29f9f9)<br>
 - [https://awstip.com/project-16-terraform-project-iii-creating-2-tier-architecture-32597ea4359b](https://awstip.com/project-16-terraform-project-iii-creating-2-tier-architecture-32597ea4359b)<br>
+- [https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46](https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
