@@ -199,6 +199,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/linux-server-tutorial/](https://www.freecodecamp.org/news/linux-server-tutorial/)<br>
 - [https://www.freecodecamp.org/news/introduction-to-linux-part-2/](https://www.freecodecamp.org/news/introduction-to-linux-part-2/)<br>
 - [https://blog.devgenius.io/the-3-muske-tier-architecture-426179d3a215](https://blog.devgenius.io/the-3-muske-tier-architecture-426179d3a215)<br>
+- [https://awstip.com/deploy-nginx-server-using-helm-chart-on-eks-cluster-2a1e2d2360c3](https://awstip.com/deploy-nginx-server-using-helm-chart-on-eks-cluster-2a1e2d2360c3)<br>
 
 ## CI/CD
 - [https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8](https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8)<br>
