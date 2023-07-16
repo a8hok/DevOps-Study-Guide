@@ -117,6 +117,7 @@ Table of Contents
 - [https://medium.com/cloud-native-daily/kubernetes-monitoring-tools-584d82c94185](https://medium.com/cloud-native-daily/kubernetes-monitoring-tools-584d82c94185)<br>
 - [https://sagarkrp.medium.com/kubernetes-deep-dive-pods-pull-policy-labels-selectors-2bba5200ec5c](https://sagarkrp.medium.com/kubernetes-deep-dive-pods-pull-policy-labels-selectors-2bba5200ec5c)<br>
 - [https://medium.com/cloud-native-daily/road-to-upgrading-kubernetes-4e4b78d72a50](https://medium.com/cloud-native-daily/road-to-upgrading-kubernetes-4e4b78d72a50)<br>
+- [https://dzone.com/articles/kubernetes-advantages-and-disadvantages](https://dzone.com/articles/kubernetes-advantages-and-disadvantages)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
