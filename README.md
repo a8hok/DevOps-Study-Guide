@@ -184,6 +184,7 @@ Table of Contents
 - [https://awstip.com/the-ultimate-guide-to-creating-a-free-tier-aws-account-iam-setup-mfa-and-billing-alarms-f5bd81db42bc](https://awstip.com/the-ultimate-guide-to-creating-a-free-tier-aws-account-iam-setup-mfa-and-billing-alarms-f5bd81db42bc)<br>
 - [https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci](https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci)<br>
 - [https://blog.bytebytego.com/p/ep68-top-architectural-styles](https://blog.bytebytego.com/p/ep68-top-architectural-styles)<br>
+- [https://medium.com/cloud-native-daily/optimizing-aws-resource-performance-a-comprehensive-guide-to-ec2-rds-and-cloudwatch-monitoring-3cf8defc6435](https://medium.com/cloud-native-daily/optimizing-aws-resource-performance-a-comprehensive-guide-to-ec2-rds-and-cloudwatch-monitoring-3cf8defc6435)<br>
 
 
 ## AWS lambda
