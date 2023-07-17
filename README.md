@@ -185,6 +185,7 @@ Table of Contents
 - [https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci](https://www.showwcase.com/show/35840/deploying-dockerized-app-on-aws-eks-cluster-using-argocd-and-gitops-methodology-with-circleci)<br>
 - [https://blog.bytebytego.com/p/ep68-top-architectural-styles](https://blog.bytebytego.com/p/ep68-top-architectural-styles)<br>
 - [https://medium.com/cloud-native-daily/optimizing-aws-resource-performance-a-comprehensive-guide-to-ec2-rds-and-cloudwatch-monitoring-3cf8defc6435](https://medium.com/cloud-native-daily/optimizing-aws-resource-performance-a-comprehensive-guide-to-ec2-rds-and-cloudwatch-monitoring-3cf8defc6435)<br>
+- [https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)<br>
 
 
 ## AWS lambda
