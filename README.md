@@ -218,6 +218,7 @@ Table of Contents
 - [https://coralogix.com/blog/ci-cd-security/](https://coralogix.com/blog/ci-cd-security/)<br>
 - [https://dzone.com/articles/the-art-of-cicd-optimization-mastering-techniques](https://dzone.com/articles/the-art-of-cicd-optimization-mastering-techniques)<br>
 - [https://awstip.com/implemented-ci-cd-pipeline-using-aws-services-e50ecf4c2f54](https://awstip.com/implemented-ci-cd-pipeline-using-aws-services-e50ecf4c2f54)<br>
+- [https://aws.plainenglish.io/introduction-to-jenkins-in-devops-448e8a9c13a3](https://aws.plainenglish.io/introduction-to-jenkins-in-devops-448e8a9c13a3)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
