@@ -195,6 +195,7 @@ Table of Contents
 - [https://tsh.io/blog/aws-lambda-performance/](https://tsh.io/blog/aws-lambda-performance/)<br>
 - [https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d](https://awstip.com/tutorial-updating-an-aws-lambda-function-using-github-actions-af832b493a0d)<br>
 - [https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf](https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf)<br>
+- [https://aws.plainenglish.io/host-a-static-website-using-aws-s3-and-aws-cloudfront-27bd0aff0f4a](https://aws.plainenglish.io/host-a-static-website-using-aws-s3-and-aws-cloudfront-27bd0aff0f4a)<br>
 
 
 ## Linux
