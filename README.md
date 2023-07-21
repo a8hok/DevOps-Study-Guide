@@ -242,6 +242,7 @@ Table of Contents
 - [https://dzone.com/articles/microservices-deployment-models](https://dzone.com/articles/microservices-deployment-models)<br>
 - [https://medium.com/@miniproject2019/optimizing-your-architecture-with-microservices-design-patterns-98738a0b60dd](https://medium.com/@miniproject2019/optimizing-your-architecture-with-microservices-design-patterns-98738a0b60dd)<br>
 - [https://medium.com/@8surajsingh9/microservices-vs-monoliths-2def21565dfe](https://medium.com/@8surajsingh9/microservices-vs-monoliths-2def21565dfe)<br>
+- [https://medium.com/@athreyasuhas30/monolithic-vs-microservices-b3e7bf290403](https://medium.com/@athreyasuhas30/monolithic-vs-microservices-b3e7bf290403)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
