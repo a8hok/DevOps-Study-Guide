@@ -299,6 +299,7 @@ Table of Contents
 - [https://awstip.com/project-16-terraform-project-iii-creating-2-tier-architecture-32597ea4359b](https://awstip.com/project-16-terraform-project-iii-creating-2-tier-architecture-32597ea4359b)<br>
 - [https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46](https://aws.plainenglish.io/mastering-terraform-for-aws-resource-deployment-a-practical-guide-5cef1a7fab46)<br>
 - [https://awstip.com/cloudformation-vs-terraform-4cf7227411cd](https://awstip.com/cloudformation-vs-terraform-4cf7227411cd)<br>
+- [https://aws.plainenglish.io/terraform-hands-on-project-d2105bbc0c62](https://aws.plainenglish.io/terraform-hands-on-project-d2105bbc0c62)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
