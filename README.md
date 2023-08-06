@@ -195,6 +195,9 @@ Table of Contents
 ## AWS IAM
 - [https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42](https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42)<br>
 
+## AWS EC2
+- [https://aws.plainenglish.io/how-to-setup-aws-ec2-instance-and-install-jenkins-on-ec2-part-1-c37b90d48517](https://aws.plainenglish.io/how-to-setup-aws-ec2-instance-and-install-jenkins-on-ec2-part-1-c37b90d48517)<br>
+
 
 ## AWS lambda
 - [https://aws.plainenglish.io/best-practices-for-python-with-aws-lambda-an-essential-guide-a22b708f8006](https://aws.plainenglish.io/best-practices-for-python-with-aws-lambda-an-essential-guide-a22b708f8006)<br>
