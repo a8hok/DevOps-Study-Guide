@@ -74,7 +74,7 @@ Table of Contents
 - [https://earthly.dev/blog/push-docker-image-bazel/](https://earthly.dev/blog/push-docker-image-bazel/)<br>
 - [https://medium.com/@chetansirsa/docker-crash-book-free-just-enough-docker-to-be-a-docker-ninja-879af6bdc5de](https://medium.com/@chetansirsa/docker-crash-book-free-just-enough-docker-to-be-a-docker-ninja-879af6bdc5de)<br>
 - [https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd](https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd)<br>
-- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>
+- [https://spacelift.io/blog/docker-security](https://spacelift.io/blog/docker-security)<br>
 
 ## Docker cheetsheet
 - [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
@@ -119,6 +119,7 @@ Table of Contents
 - [https://medium.com/cloud-native-daily/road-to-upgrading-kubernetes-4e4b78d72a50](https://medium.com/cloud-native-daily/road-to-upgrading-kubernetes-4e4b78d72a50)<br>
 - [https://dzone.com/articles/kubernetes-advantages-and-disadvantages](https://dzone.com/articles/kubernetes-advantages-and-disadvantages)<br>
 - [https://dzone.com/articles/a-beginners-guide-to-kubernetes-implementation](https://dzone.com/articles/a-beginners-guide-to-kubernetes-implementation)<br>
+- [- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>](- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
