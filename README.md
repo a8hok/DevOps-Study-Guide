@@ -232,6 +232,7 @@ Table of Contents
 - [https://awstip.com/implemented-ci-cd-pipeline-using-aws-services-e50ecf4c2f54](https://awstip.com/implemented-ci-cd-pipeline-using-aws-services-e50ecf4c2f54)<br>
 - [https://aws.plainenglish.io/introduction-to-jenkins-in-devops-448e8a9c13a3](https://aws.plainenglish.io/introduction-to-jenkins-in-devops-448e8a9c13a3)<br>
 - [https://medium.com/cloud-native-daily/ci-cd-project-3164de17dbfb](https://medium.com/cloud-native-daily/ci-cd-project-3164de17dbfb)<br>
+- [https://www.javacodegeeks.com/2023/07/mastering-ci-cd-optimization.html](https://www.javacodegeeks.com/2023/07/mastering-ci-cd-optimization.html)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
