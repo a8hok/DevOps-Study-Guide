@@ -91,7 +91,6 @@ Table of Contents
 - [https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container](https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container)<br>
 
 
-
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
 - [https://blog.bytebytego.com/p/ep-41-what-is-kubernetes](https://blog.bytebytego.com/p/ep-41-what-is-kubernetes)<br>
@@ -191,6 +190,7 @@ Table of Contents
 - [https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)<br>
 - [https://aws.plainenglish.io/aws-solution-architect-professional-certification-my-journey-5ec540e367d8](https://aws.plainenglish.io/aws-solution-architect-professional-certification-my-journey-5ec540e367d8)<br>
 - [https://dzone.com/articles/a-beginners-guide-to-building-microservices-with-a](https://dzone.com/articles/a-beginners-guide-to-building-microservices-with-a)<br>
+- [https://awstip.com/aws-technical-essentials-ii-fedd774db31e](https://awstip.com/aws-technical-essentials-ii-fedd774db31e)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
