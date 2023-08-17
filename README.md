@@ -190,6 +190,7 @@ Table of Contents
 - [https://medium.com/cloud-native-daily/optimizing-aws-resource-performance-a-comprehensive-guide-to-ec2-rds-and-cloudwatch-monitoring-3cf8defc6435](https://medium.com/cloud-native-daily/optimizing-aws-resource-performance-a-comprehensive-guide-to-ec2-rds-and-cloudwatch-monitoring-3cf8defc6435)<br>
 - [https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1](https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1)<br>
 - [https://aws.plainenglish.io/aws-solution-architect-professional-certification-my-journey-5ec540e367d8](https://aws.plainenglish.io/aws-solution-architect-professional-certification-my-journey-5ec540e367d8)<br>
+- [https://dzone.com/articles/a-beginners-guide-to-building-microservices-with-a](https://dzone.com/articles/a-beginners-guide-to-building-microservices-with-a)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
