@@ -329,3 +329,6 @@ Table of Contents
 
 ## Free deloyment
 - [https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e](https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e)<br>
+
+## Message Queue
+- [https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266](https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266)<br>
