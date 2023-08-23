@@ -264,6 +264,7 @@ Table of Contents
 - [https://medium.com/@8surajsingh9/microservices-vs-monoliths-2def21565dfe](https://medium.com/@8surajsingh9/microservices-vs-monoliths-2def21565dfe)<br>
 - [https://medium.com/@athreyasuhas30/monolithic-vs-microservices-b3e7bf290403](https://medium.com/@athreyasuhas30/monolithic-vs-microservices-b3e7bf290403)<br>
 - [https://gethelios.dev/learning-center/what-are-microservices/](https://gethelios.dev/learning-center/what-are-microservices/)<br>
+- [https://amplication.com/blog/importance-of-idempotency-in-microservice-architectures](https://amplication.com/blog/importance-of-idempotency-in-microservice-architectures)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
