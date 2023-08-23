@@ -120,6 +120,7 @@ Table of Contents
 - [https://dzone.com/articles/kubernetes-advantages-and-disadvantages](https://dzone.com/articles/kubernetes-advantages-and-disadvantages)<br>
 - [https://dzone.com/articles/a-beginners-guide-to-kubernetes-implementation](https://dzone.com/articles/a-beginners-guide-to-kubernetes-implementation)<br>
 - [- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>](- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>)<br>
+- [https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363](https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
