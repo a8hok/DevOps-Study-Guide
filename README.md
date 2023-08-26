@@ -246,6 +246,7 @@ Table of Contents
 - [https://www.javacodegeeks.com/2023/07/mastering-ci-cd-optimization.html](https://www.javacodegeeks.com/2023/07/mastering-ci-cd-optimization.html)<br>
 - [https://awstip.com/automating-a-react-web-app-ci-cd-process-on-aws-f70ffbba92db](https://awstip.com/automating-a-react-web-app-ci-cd-process-on-aws-f70ffbba92db)<br>
 - [https://blog.openreplay.com/create-a-ci-cd-pipeline-for-front-end-projects/](https://blog.openreplay.com/create-a-ci-cd-pipeline-for-front-end-projects/)<br>
+- [https://techwithankush.hashnode.dev/day-36-cicd-step-by-step-guide-to-setting-up-jenkins-master-slave-architecture](https://techwithankush.hashnode.dev/day-36-cicd-step-by-step-guide-to-setting-up-jenkins-master-slave-architecture)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
@@ -270,6 +271,7 @@ Table of Contents
 - [https://medium.com/@athreyasuhas30/monolithic-vs-microservices-b3e7bf290403](https://medium.com/@athreyasuhas30/monolithic-vs-microservices-b3e7bf290403)<br>
 - [https://gethelios.dev/learning-center/what-are-microservices/](https://gethelios.dev/learning-center/what-are-microservices/)<br>
 - [https://amplication.com/blog/importance-of-idempotency-in-microservice-architectures](https://amplication.com/blog/importance-of-idempotency-in-microservice-architectures)<br>
+- []()<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
