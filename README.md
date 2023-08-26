@@ -76,6 +76,7 @@ Table of Contents
 - [https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd](https://medium.com/cloud-native-daily/3-tier-arch-docker-swarm-on-aws-b5473270fdfd)<br>
 - [https://spacelift.io/blog/docker-security](https://spacelift.io/blog/docker-security)<br>
 - [https://medium.com/cloud-native-daily/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-130a5e03192a](https://medium.com/cloud-native-daily/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-130a5e03192a)<br>
+- [https://aws.plainenglish.io/docker-app-development-4fa7d7708a0e](https://aws.plainenglish.io/docker-app-development-4fa7d7708a0e)<br>
 
 ## Docker cheetsheet
 - [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
