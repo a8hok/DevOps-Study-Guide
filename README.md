@@ -271,7 +271,7 @@ Table of Contents
 - [https://medium.com/@athreyasuhas30/monolithic-vs-microservices-b3e7bf290403](https://medium.com/@athreyasuhas30/monolithic-vs-microservices-b3e7bf290403)<br>
 - [https://gethelios.dev/learning-center/what-are-microservices/](https://gethelios.dev/learning-center/what-are-microservices/)<br>
 - [https://amplication.com/blog/importance-of-idempotency-in-microservice-architectures](https://amplication.com/blog/importance-of-idempotency-in-microservice-architectures)<br>
-- []()<br>
+- [https://amplication.com/blog/serving-frontends-in-microservices-architecture](https://amplication.com/blog/serving-frontends-in-microservices-architecture)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
