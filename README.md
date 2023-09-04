@@ -208,6 +208,7 @@ Table of Contents
 
 ## AWS EC2
 - [https://aws.plainenglish.io/how-to-setup-aws-ec2-instance-and-install-jenkins-on-ec2-part-1-c37b90d48517](https://aws.plainenglish.io/how-to-setup-aws-ec2-instance-and-install-jenkins-on-ec2-part-1-c37b90d48517)<br>
+- [https://aws.plainenglish.io/aws-project-streamlining-ec2-instance-management-with-fleet-manager-in-ssm-channelling-logs-6390a7abdf7](https://aws.plainenglish.io/aws-project-streamlining-ec2-instance-management-with-fleet-manager-in-ssm-channelling-logs-6390a7abdf7)<br>
 
 
 ## AWS lambda
