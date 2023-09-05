@@ -273,6 +273,7 @@ Table of Contents
 - [https://gethelios.dev/learning-center/what-are-microservices/](https://gethelios.dev/learning-center/what-are-microservices/)<br>
 - [https://amplication.com/blog/importance-of-idempotency-in-microservice-architectures](https://amplication.com/blog/importance-of-idempotency-in-microservice-architectures)<br>
 - [https://amplication.com/blog/serving-frontends-in-microservices-architecture](https://amplication.com/blog/serving-frontends-in-microservices-architecture)<br>
+- [https://awstip.com/microservices-design-19fab08395b2](https://awstip.com/microservices-design-19fab08395b2)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
