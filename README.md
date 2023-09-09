@@ -202,6 +202,7 @@ Table of Contents
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
 - [https://aws.plainenglish.io/step-by-step-guide-hosting-your-angular-application-on-aws-s3-673414dd00ef](https://aws.plainenglish.io/step-by-step-guide-hosting-your-angular-application-on-aws-s3-673414dd00ef)<br>
+- [https://aws.plainenglish.io/access-s3-bucket-from-an-ec2-instance-over-a-private-network-cc48aca0e4fb](https://aws.plainenglish.io/access-s3-bucket-from-an-ec2-instance-over-a-private-network-cc48aca0e4fb)<br>
 
 ## AWS IAM
 - [https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42](https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42)<br>
