@@ -333,6 +333,7 @@ Table of Contents
 - [https://awstip.com/cloudformation-vs-terraform-4cf7227411cd](https://awstip.com/cloudformation-vs-terraform-4cf7227411cd)<br>
 - [https://aws.plainenglish.io/terraform-hands-on-project-d2105bbc0c62](https://aws.plainenglish.io/terraform-hands-on-project-d2105bbc0c62)<br>
 - [https://awstip.com/aws-resource-using-terraform-via-github-actions-2b56fe05a68](https://awstip.com/aws-resource-using-terraform-via-github-actions-2b56fe05a68)<br>
+- [https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/](https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
