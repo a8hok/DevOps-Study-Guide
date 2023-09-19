@@ -199,6 +199,7 @@ Table of Contents
 - [https://aws.plainenglish.io/tips-to-pass-aws-certified-developer-associate-exam-dva-c02-6fdbcf32eded](https://aws.plainenglish.io/tips-to-pass-aws-certified-developer-associate-exam-dva-c02-6fdbcf32eded)<br>
 - [https://awstip.com/mastering-three-tier-architecture-deployment-on-aws-with-terraform-f43e84be1edd](https://awstip.com/mastering-three-tier-architecture-deployment-on-aws-with-terraform-f43e84be1edd)<br>
 - [https://aws.plainenglish.io/architecting-and-deploying-a-simple-web-application-on-aws-a-step-by-step-tutorial-a197550bb95b](https://aws.plainenglish.io/architecting-and-deploying-a-simple-web-application-on-aws-a-step-by-step-tutorial-a197550bb95b)<br>
+- [https://aws.plainenglish.io/how-earning-12-aws-certifications-skyrocketed-my-career-growth-an-amazonians-perspective-262cbda9560a](https://aws.plainenglish.io/how-earning-12-aws-certifications-skyrocketed-my-career-growth-an-amazonians-perspective-262cbda9560a)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
