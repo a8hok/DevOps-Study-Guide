@@ -283,6 +283,7 @@ Table of Contents
 - [https://amplication.com/blog/serving-frontends-in-microservices-architecture](https://amplication.com/blog/serving-frontends-in-microservices-architecture)<br>
 - [https://awstip.com/microservices-design-19fab08395b2](https://awstip.com/microservices-design-19fab08395b2)<br>
 - [https://amplication.com/blog/picking-the-perfect-database-for-your-microservices](https://amplication.com/blog/picking-the-perfect-database-for-your-microservices)<br>
+- [https://cloudnativenow.com/topics/cloudnativedevelopment/top-9-microservices-design-patterns/](https://cloudnativenow.com/topics/cloudnativedevelopment/top-9-microservices-design-patterns/)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
