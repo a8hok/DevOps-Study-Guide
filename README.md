@@ -284,6 +284,7 @@ Table of Contents
 - [https://awstip.com/microservices-design-19fab08395b2](https://awstip.com/microservices-design-19fab08395b2)<br>
 - [https://amplication.com/blog/picking-the-perfect-database-for-your-microservices](https://amplication.com/blog/picking-the-perfect-database-for-your-microservices)<br>
 - [https://cloudnativenow.com/topics/cloudnativedevelopment/top-9-microservices-design-patterns/](https://cloudnativenow.com/topics/cloudnativedevelopment/top-9-microservices-design-patterns/)<br>
+- [https://hackernoon.com/a-guide-to-building-observability-for-microservices?source=rss](https://hackernoon.com/a-guide-to-building-observability-for-microservices?source=rss)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
