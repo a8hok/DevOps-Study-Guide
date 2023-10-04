@@ -34,6 +34,7 @@ Table of Contents
 - [https://furkangulsen.medium.com/forward-proxy-vs-reverse-proxy-4b2061ef17d6](https://furkangulsen.medium.com/forward-proxy-vs-reverse-proxy-4b2061ef17d6)<br>
 - [https://kelvin-parmar.hashnode.dev/everything-you-need-to-know-about-devops](https://kelvin-parmar.hashnode.dev/everything-you-need-to-know-about-devops)<br>
 - [https://www.freecodecamp.org/news/what-is-dns-for-beginners/](https://www.freecodecamp.org/news/what-is-dns-for-beginners/)<br>
+- [https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name?ref=dailydev](https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name?ref=dailydev)<br>
 
 
 ## Docker
