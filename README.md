@@ -206,6 +206,7 @@ Table of Contents
 - [https://aws.plainenglish.io/how-earning-12-aws-certifications-skyrocketed-my-career-growth-an-amazonians-perspective-262cbda9560a](https://aws.plainenglish.io/how-earning-12-aws-certifications-skyrocketed-my-career-growth-an-amazonians-perspective-262cbda9560a)<br>
 - [https://awstip.com/a-step-by-step-guide-to-transferring-your-domain-to-aws-route-53-1a85456a326f](https://awstip.com/a-step-by-step-guide-to-transferring-your-domain-to-aws-route-53-1a85456a326f)<br>
 - [https://dzone.com/articles/performance-optimization-for-multi-layered-cloud-n?ref=dailydev](https://dzone.com/articles/performance-optimization-for-multi-layered-cloud-n?ref=dailydev)<br>
+- [https://aws.plainenglish.io/understanding-aws-cloudfront-caching-a-guide-for-beginners-ce0169d3c724](https://aws.plainenglish.io/understanding-aws-cloudfront-caching-a-guide-for-beginners-ce0169d3c724)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
