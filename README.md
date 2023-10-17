@@ -78,6 +78,7 @@ Table of Contents
 - [https://spacelift.io/blog/docker-security](https://spacelift.io/blog/docker-security)<br>
 - [https://medium.com/cloud-native-daily/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-130a5e03192a](https://medium.com/cloud-native-daily/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-130a5e03192a)<br>
 - [https://aws.plainenglish.io/docker-app-development-4fa7d7708a0e](https://aws.plainenglish.io/docker-app-development-4fa7d7708a0e)<br>
+- [https://aws.plainenglish.io/the-ultimate-guide-to-docker-volumes-812498a4d996](https://aws.plainenglish.io/the-ultimate-guide-to-docker-volumes-812498a4d996)<br>
 
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
