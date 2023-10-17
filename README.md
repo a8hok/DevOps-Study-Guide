@@ -352,6 +352,7 @@ Table of Contents
 - [https://awstip.com/aws-resource-using-terraform-via-github-actions-2b56fe05a68](https://awstip.com/aws-resource-using-terraform-via-github-actions-2b56fe05a68)<br>
 - [https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/](https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/)<br>
 - [https://aws.plainenglish.io/moving-objects-in-s3-with-lambda-by-polling-sqs-in-terraform-7943e9bb64b5](https://aws.plainenglish.io/moving-objects-in-s3-with-lambda-by-polling-sqs-in-terraform-7943e9bb64b5)<br>
+- [https://aws.plainenglish.io/creating-an-ec2-instance-using-terraform-c991d45ee4a2](https://aws.plainenglish.io/creating-an-ec2-instance-using-terraform-c991d45ee4a2)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
