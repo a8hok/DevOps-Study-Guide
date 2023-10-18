@@ -238,6 +238,9 @@ Table of Contents
 ## AWS EBS
 - [https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/](https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/)<br>
 
+## AWS certification
+- [https://aws.plainenglish.io/aws-certified-solutions-architect-associate-saa-c03-exam-dumps-with-complete-explanation-3be0d38e6622](https://aws.plainenglish.io/aws-certified-solutions-architect-associate-saa-c03-exam-dumps-with-complete-explanation-3be0d38e6622)<br>
+
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
