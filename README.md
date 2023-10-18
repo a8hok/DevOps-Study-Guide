@@ -296,6 +296,7 @@ Table of Contents
 - [https://cloudnativenow.com/topics/cloudnativedevelopment/top-9-microservices-design-patterns/](https://cloudnativenow.com/topics/cloudnativedevelopment/top-9-microservices-design-patterns/)<br>
 - [https://hackernoon.com/a-guide-to-building-observability-for-microservices?source=rss](https://hackernoon.com/a-guide-to-building-observability-for-microservices?source=rss)<br>
 - [https://amplication.com/blog/the-complete-microservices-guide](https://amplication.com/blog/the-complete-microservices-guide)<br>
+- [https://dzone.com/articles/best-practices-for-microservices-building-scalable?ref=dailydev](https://dzone.com/articles/best-practices-for-microservices-building-scalable?ref=dailydev)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
