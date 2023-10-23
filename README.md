@@ -129,6 +129,7 @@ Table of Contents
 - [https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363](https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363)<br>
 - [https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/](https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/)<br>
 - [https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363](https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363)<br>
+- [https://dzone.com/articles/scaling-up-with-kubernetes?ref=dailydev](https://dzone.com/articles/scaling-up-with-kubernetes?ref=dailydev)<br>
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
