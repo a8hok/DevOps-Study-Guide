@@ -359,6 +359,7 @@ Table of Contents
 - [https://aws.plainenglish.io/moving-objects-in-s3-with-lambda-by-polling-sqs-in-terraform-7943e9bb64b5](https://aws.plainenglish.io/moving-objects-in-s3-with-lambda-by-polling-sqs-in-terraform-7943e9bb64b5)<br>
 - [https://aws.plainenglish.io/creating-an-ec2-instance-using-terraform-c991d45ee4a2](https://aws.plainenglish.io/creating-an-ec2-instance-using-terraform-c991d45ee4a2)<br>
 - [https://aws.plainenglish.io/infrastructure-as-code-with-terraform-301cfd6c0ff3](https://aws.plainenglish.io/infrastructure-as-code-with-terraform-301cfd6c0ff3)<br>
+- [https://awstip.com/terraform-resources-c01900ba2f64](https://awstip.com/terraform-resources-c01900ba2f64)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
