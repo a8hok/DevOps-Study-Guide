@@ -363,6 +363,7 @@ Table of Contents
 - [https://aws.plainenglish.io/infrastructure-as-code-with-terraform-301cfd6c0ff3](https://aws.plainenglish.io/infrastructure-as-code-with-terraform-301cfd6c0ff3)<br>
 - [https://awstip.com/terraform-resources-c01900ba2f64](https://awstip.com/terraform-resources-c01900ba2f64)<br>
 - [https://aws.plainenglish.io/crud-microservices-for-dynamodb-using-api-gateway-terraform-ac4765637b0c](https://aws.plainenglish.io/crud-microservices-for-dynamodb-using-api-gateway-terraform-ac4765637b0c)<br>
+- [https://awstip.com/terraform-modules-539c5ac38b67](https://awstip.com/terraform-modules-539c5ac38b67)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
