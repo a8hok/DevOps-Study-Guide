@@ -275,6 +275,7 @@ Table of Contents
 - [https://awstip.com/automating-a-react-web-app-ci-cd-process-on-aws-f70ffbba92db](https://awstip.com/automating-a-react-web-app-ci-cd-process-on-aws-f70ffbba92db)<br>
 - [https://blog.openreplay.com/create-a-ci-cd-pipeline-for-front-end-projects/](https://blog.openreplay.com/create-a-ci-cd-pipeline-for-front-end-projects/)<br>
 - [https://techwithankush.hashnode.dev/day-36-cicd-step-by-step-guide-to-setting-up-jenkins-master-slave-architecture](https://techwithankush.hashnode.dev/day-36-cicd-step-by-step-guide-to-setting-up-jenkins-master-slave-architecture)<br>
+- [https://awstip.com/building-a-ci-cd-pipeline-for-node-js-application-with-jenkins-and-docker-23dafcee93a7](https://awstip.com/building-a-ci-cd-pipeline-for-node-js-application-with-jenkins-and-docker-23dafcee93a7)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
