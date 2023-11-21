@@ -247,6 +247,9 @@ Table of Contents
 ## AWS certification
 - [https://aws.plainenglish.io/aws-certified-solutions-architect-associate-saa-c03-exam-dumps-with-complete-explanation-3be0d38e6622](https://aws.plainenglish.io/aws-certified-solutions-architect-associate-saa-c03-exam-dumps-with-complete-explanation-3be0d38e6622)<br>
 
+## AWS VPC
+- [https://aws.plainenglish.io/complete-guide-on-aws-vpc-creation-8b2f27d74461](https://aws.plainenglish.io/complete-guide-on-aws-vpc-creation-8b2f27d74461)<br>
+
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
