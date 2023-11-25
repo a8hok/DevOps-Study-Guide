@@ -133,6 +133,11 @@ Table of Contents
 - [https://blog.bytebytego.com/p/a-crash-course-in-kubernetes?ref=dailydev](https://blog.bytebytego.com/p/a-crash-course-in-kubernetes?ref=dailydev)<br>
 - [https://aws.plainenglish.io/understanding-pods-nodes-and-the-kubelet-in-kubernetes-417fc8278d40](https://aws.plainenglish.io/understanding-pods-nodes-and-the-kubelet-in-kubernetes-417fc8278d40)<br>
 
+
+## K8S with HELM
+- [https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64](https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64)<br>
+
+
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
 - [https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6](https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6)<br>
