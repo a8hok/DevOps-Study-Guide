@@ -255,6 +255,9 @@ Table of Contents
 ## AWS VPC
 - [https://aws.plainenglish.io/complete-guide-on-aws-vpc-creation-8b2f27d74461](https://aws.plainenglish.io/complete-guide-on-aws-vpc-creation-8b2f27d74461)<br>
 
+## AWS EKS
+- [https://aws.plainenglish.io/master-cka-ckad-and-cks-certifications-in-one-month-dc933b02d9dc](https://aws.plainenglish.io/master-cka-ckad-and-cks-certifications-in-one-month-dc933b02d9dc)<br>
+
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
