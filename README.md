@@ -259,6 +259,9 @@ Table of Contents
 ## AWS EKS
 - [https://aws.plainenglish.io/master-cka-ckad-and-cks-certifications-in-one-month-dc933b02d9dc](https://aws.plainenglish.io/master-cka-ckad-and-cks-certifications-in-one-month-dc933b02d9dc)<br>
 
+## AWS interview
+- [https://aws.plainenglish.io/unlocking-aws-mastery-250-interview-questions-to-elevate-your-expertise-2f41c2404606](https://aws.plainenglish.io/unlocking-aws-mastery-250-interview-questions-to-elevate-your-expertise-2f41c2404606)<br>
+
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
