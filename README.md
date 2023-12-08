@@ -226,6 +226,7 @@ Table of Contents
 - [https://aws.plainenglish.io/access-s3-bucket-from-an-ec2-instance-over-a-private-network-cc48aca0e4fb](https://aws.plainenglish.io/access-s3-bucket-from-an-ec2-instance-over-a-private-network-cc48aca0e4fb)<br>
 - [https://awstip.com/using-aws-lambda-s3-and-secrets-manager-to-backup-rds-as-csv-files-3d6a889a23c4](https://awstip.com/using-aws-lambda-s3-and-secrets-manager-to-backup-rds-as-csv-files-3d6a889a23c4)<br>
 - [https://awstip.com/resizing-s3-images-in-various-sizes-using-an-aws-lambda-trigger-a2a5b79d7ba3](https://awstip.com/resizing-s3-images-in-various-sizes-using-an-aws-lambda-trigger-a2a5b79d7ba3)<br>
+- [https://awstip.com/s3-starter-amazon-s3-static-website-hosting-playbook-1-f473a6fdf811](https://awstip.com/s3-starter-amazon-s3-static-website-hosting-playbook-1-f473a6fdf811)<br>
 
 ## AWS IAM
 - [https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42](https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42)<br>
