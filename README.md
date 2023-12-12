@@ -236,6 +236,7 @@ Table of Contents
 - [https://aws.plainenglish.io/aws-project-streamlining-ec2-instance-management-with-fleet-manager-in-ssm-channelling-logs-6390a7abdf7](https://aws.plainenglish.io/aws-project-streamlining-ec2-instance-management-with-fleet-manager-in-ssm-channelling-logs-6390a7abdf7)<br>
 - [https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/](https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/)<br>
 - [https://dev.to/aws-builders/scheduling-ec2-start-and-stop-using-eventbridge-and-lambda-part-1-of-2-30he?ref=dailydev](https://dev.to/aws-builders/scheduling-ec2-start-and-stop-using-eventbridge-and-lambda-part-1-of-2-30he?ref=dailydev)<br>
+- [https://aws.plainenglish.io/understanding-aws-ec2-056cbcb6179e](https://aws.plainenglish.io/understanding-aws-ec2-056cbcb6179e)<br>
 
 
 ## AWS lambda
