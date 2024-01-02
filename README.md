@@ -295,6 +295,7 @@ Table of Contents
 - [https://techwithankush.hashnode.dev/day-36-cicd-step-by-step-guide-to-setting-up-jenkins-master-slave-architecture](https://techwithankush.hashnode.dev/day-36-cicd-step-by-step-guide-to-setting-up-jenkins-master-slave-architecture)<br>
 - [https://awstip.com/building-a-ci-cd-pipeline-for-node-js-application-with-jenkins-and-docker-23dafcee93a7](https://awstip.com/building-a-ci-cd-pipeline-for-node-js-application-with-jenkins-and-docker-23dafcee93a7)<br>
 - [https://aws.plainenglish.io/building-a-seamless-ci-cd-pipeline-with-jenkins-slack-and-github-on-aws-68658e8d45dc](https://aws.plainenglish.io/building-a-seamless-ci-cd-pipeline-with-jenkins-slack-and-github-on-aws-68658e8d45dc)<br>
+- [https://dev.to/aws-builders/aws-cicd-pipeline-to-deploy-a-serverless-framework-project-30c4?ref=dailydev](https://dev.to/aws-builders/aws-cicd-pipeline-to-deploy-a-serverless-framework-project-30c4?ref=dailydev)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
