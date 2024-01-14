@@ -265,6 +265,9 @@ Table of Contents
 ## AWS interview
 - [https://aws.plainenglish.io/unlocking-aws-mastery-250-interview-questions-to-elevate-your-expertise-2f41c2404606](https://aws.plainenglish.io/unlocking-aws-mastery-250-interview-questions-to-elevate-your-expertise-2f41c2404606)<br>
 
+## AWS VPN
+- [https://awstip.com/how-to-setup-a-free-vpn-server-in-aws-f309d2d31ef0](https://awstip.com/how-to-setup-a-free-vpn-server-in-aws-f309d2d31ef0)<br>
+
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
