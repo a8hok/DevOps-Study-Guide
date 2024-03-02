@@ -414,3 +414,6 @@ Table of Contents
 
 ## AWS exams
 - [https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev)<br>
+
+## Caching 
+- [https://www.freecodecamp.org/news/caching-vs-content-delivery-network/?ref=dailydev](https://www.freecodecamp.org/news/caching-vs-content-delivery-network/?ref=dailydev)<br>
