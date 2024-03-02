@@ -46,7 +46,6 @@ Table of Contents
    * [Caching ](#caching)
 
 
-<!-- TOC --><a name="general"></a>
 ## General
 - [https://www.freecodecamp.org/news/software-system-design-for-beginners/](https://www.freecodecamp.org/news/software-system-design-for-beginners/)<br>
 - [https://blog.theodo.com/2023/01/dns-explained/](https://blog.theodo.com/2023/01/dns-explained/)<br>
@@ -64,7 +63,6 @@ Table of Contents
 - [https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name?ref=dailydev](https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name?ref=dailydev)<br>
 
 
-<!-- TOC --><a name="docker"></a>
 ## Docker
 - [https://mdrdani.my.id/docker-practice-session-2](https://mdrdani.my.id/docker-practice-session-2)<br>
 - [https://faun.pub/docker-funnnn-damentals-bb9b7dd8f465](https://faun.pub/docker-funnnn-damentals-bb9b7dd8f465)<br>
@@ -108,28 +106,23 @@ Table of Contents
 - [https://aws.plainenglish.io/docker-app-development-4fa7d7708a0e](https://aws.plainenglish.io/docker-app-development-4fa7d7708a0e)<br>
 - [https://aws.plainenglish.io/the-ultimate-guide-to-docker-volumes-812498a4d996](https://aws.plainenglish.io/the-ultimate-guide-to-docker-volumes-812498a4d996)<br>
 
-<!-- TOC --><a name="docker-nodejs"></a>
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
 
-<!-- TOC --><a name="docker-cheetsheet"></a>
 ## Docker cheetsheet
 - [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
 - [https://spacelift.io/blog/docker-commands-cheat-sheet](https://spacelift.io/blog/docker-commands-cheat-sheet)<br>
 
-<!-- TOC --><a name="docker-compose"></a>
 ## Docker Compose
 - [https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/](https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/)<br>
 - [https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/](https://www.paulsblog.dev/how-to-successfully-implement-a-healthcheck-in-docker-compose/)<br>
 
 
-<!-- TOC --><a name="docker-swarm"></a>
 ## Docker Swarm
 - [https://www.javacodegeeks.com/2023/05/a-comprehensive-guide-to-docker-swarm.html](https://www.javacodegeeks.com/2023/05/a-comprehensive-guide-to-docker-swarm.html)<br>
 - [https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container](https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container)<br>
 
 
-<!-- TOC --><a name="k8s"></a>
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
 - [https://blog.bytebytego.com/p/ep-41-what-is-kubernetes](https://blog.bytebytego.com/p/ep-41-what-is-kubernetes)<br>
@@ -168,12 +161,10 @@ Table of Contents
 - [https://awstip.com/kubernetes-architecture-43d909850cbd](https://awstip.com/kubernetes-architecture-43d909850cbd)<br>
 
 
-<!-- TOC --><a name="k8s-with-helm"></a>
 ## K8S with HELM
 - [https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64](https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64)<br>
 
 
-<!-- TOC --><a name="aws"></a>
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
 - [https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6](https://awstip.com/testing-aws-infrastructure-locally-880b1c05aaa6)<br>
@@ -256,7 +247,6 @@ Table of Contents
 - [https://aws.plainenglish.io/aws-cdk-an-ultimate-tool-to-create-aws-resources-519542e16761](https://aws.plainenglish.io/aws-cdk-an-ultimate-tool-to-create-aws-resources-519542e16761)<br>
 - [https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/?ref=dailydev](https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/?ref=dailydev)<br>
 
-<!-- TOC --><a name="aws-s3"></a>
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
 - [https://aws.plainenglish.io/step-by-step-guide-hosting-your-angular-application-on-aws-s3-673414dd00ef](https://aws.plainenglish.io/step-by-step-guide-hosting-your-angular-application-on-aws-s3-673414dd00ef)<br>
@@ -265,11 +255,9 @@ Table of Contents
 - [https://awstip.com/resizing-s3-images-in-various-sizes-using-an-aws-lambda-trigger-a2a5b79d7ba3](https://awstip.com/resizing-s3-images-in-various-sizes-using-an-aws-lambda-trigger-a2a5b79d7ba3)<br>
 - [https://awstip.com/s3-starter-amazon-s3-static-website-hosting-playbook-1-f473a6fdf811](https://awstip.com/s3-starter-amazon-s3-static-website-hosting-playbook-1-f473a6fdf811)<br>
 
-<!-- TOC --><a name="aws-iam"></a>
 ## AWS IAM
 - [https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42](https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42)<br>
 
-<!-- TOC --><a name="aws-ec2"></a>
 ## AWS EC2
 - [https://aws.plainenglish.io/how-to-setup-aws-ec2-instance-and-install-jenkins-on-ec2-part-1-c37b90d48517](https://aws.plainenglish.io/how-to-setup-aws-ec2-instance-and-install-jenkins-on-ec2-part-1-c37b90d48517)<br>
 - [https://aws.plainenglish.io/aws-project-streamlining-ec2-instance-management-with-fleet-manager-in-ssm-channelling-logs-6390a7abdf7](https://aws.plainenglish.io/aws-project-streamlining-ec2-instance-management-with-fleet-manager-in-ssm-channelling-logs-6390a7abdf7)<br>
@@ -278,7 +266,6 @@ Table of Contents
 - [https://aws.plainenglish.io/understanding-aws-ec2-056cbcb6179e](https://aws.plainenglish.io/understanding-aws-ec2-056cbcb6179e)<br>
 
 
-<!-- TOC --><a name="aws-lambda"></a>
 ## AWS lambda
 - [https://aws.plainenglish.io/best-practices-for-python-with-aws-lambda-an-essential-guide-a22b708f8006](https://aws.plainenglish.io/best-practices-for-python-with-aws-lambda-an-essential-guide-a22b708f8006)<br>
 - [https://aws.plainenglish.io/what-is-aws-lambda-e97062d09bbb](https://aws.plainenglish.io/what-is-aws-lambda-e97062d09bbb)<br>
@@ -289,32 +276,25 @@ Table of Contents
 - [https://aws.plainenglish.io/host-a-static-website-using-aws-s3-and-aws-cloudfront-27bd0aff0f4a](https://aws.plainenglish.io/host-a-static-website-using-aws-s3-and-aws-cloudfront-27bd0aff0f4a)<br>
 - [https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2](https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2)<br>
 
-<!-- TOC --><a name="aws-ebs"></a>
 ## AWS EBS
 - [https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/](https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/)<br>
 
-<!-- TOC --><a name="aws-certification"></a>
 ## AWS certification
 - [https://aws.plainenglish.io/aws-certified-solutions-architect-associate-saa-c03-exam-dumps-with-complete-explanation-3be0d38e6622](https://aws.plainenglish.io/aws-certified-solutions-architect-associate-saa-c03-exam-dumps-with-complete-explanation-3be0d38e6622)<br>
 
-<!-- TOC --><a name="aws-vpc"></a>
 ## AWS VPC
 - [https://aws.plainenglish.io/complete-guide-on-aws-vpc-creation-8b2f27d74461](https://aws.plainenglish.io/complete-guide-on-aws-vpc-creation-8b2f27d74461)<br>
 
-<!-- TOC --><a name="aws-eks"></a>
 ## AWS EKS
 - [https://aws.plainenglish.io/master-cka-ckad-and-cks-certifications-in-one-month-dc933b02d9dc](https://aws.plainenglish.io/master-cka-ckad-and-cks-certifications-in-one-month-dc933b02d9dc)<br>
 
-<!-- TOC --><a name="aws-interview"></a>
 ## AWS interview
 - [https://aws.plainenglish.io/unlocking-aws-mastery-250-interview-questions-to-elevate-your-expertise-2f41c2404606](https://aws.plainenglish.io/unlocking-aws-mastery-250-interview-questions-to-elevate-your-expertise-2f41c2404606)<br>
 
-<!-- TOC --><a name="aws-vpn"></a>
 ## AWS VPN
 - [https://awstip.com/how-to-setup-a-free-vpn-server-in-aws-f309d2d31ef0](https://awstip.com/how-to-setup-a-free-vpn-server-in-aws-f309d2d31ef0)<br>
 
 
-<!-- TOC --><a name="linux"></a>
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
 - [https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc](https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc)<br>
@@ -323,7 +303,6 @@ Table of Contents
 - [https://blog.devgenius.io/the-3-muske-tier-architecture-426179d3a215](https://blog.devgenius.io/the-3-muske-tier-architecture-426179d3a215)<br>
 - [https://awstip.com/deploy-nginx-server-using-helm-chart-on-eks-cluster-2a1e2d2360c3](https://awstip.com/deploy-nginx-server-using-helm-chart-on-eks-cluster-2a1e2d2360c3)<br>
 
-<!-- TOC --><a name="cicd"></a>
 ## CI/CD
 - [https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8](https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8)<br>
 - [https://www.infrastructureposts.com/p/e5-building-better-cicd-pipelines](https://www.infrastructureposts.com/p/e5-building-better-cicd-pipelines)<br>
@@ -348,7 +327,6 @@ Table of Contents
 - [https://dev.to/aws-builders/aws-cicd-pipeline-to-deploy-a-serverless-framework-project-30c4?ref=dailydev](https://dev.to/aws-builders/aws-cicd-pipeline-to-deploy-a-serverless-framework-project-30c4?ref=dailydev)<br>
 - [https://aws.plainenglish.io/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-6bf729aaebc8](https://aws.plainenglish.io/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-6bf729aaebc8)<br>
 
-<!-- TOC --><a name="learn-dev-ops"></a>
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
 - [https://medium.com/@lavanyaramesh319/day-1-devops-introduction-d55488473ded](https://medium.com/@lavanyaramesh319/day-1-devops-introduction-d55488473ded)<br>
@@ -356,7 +334,6 @@ Table of Contents
 - [https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/](https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/)<br>
 - [https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a](https://medium.com/cloud-native-daily/10-microservice-patterns-software-engineer-should-know-c143443a4f2a)<br>
 
-<!-- TOC --><a name="microservices"></a>
 ## Microservices
 - [https://www.freecodecamp.org/news/microservices-and-software-system-design-course/](https://www.freecodecamp.org/news/microservices-and-software-system-design-course/)<br>
 - [https://thenewstack.io/what-is-microservices-architecture/](https://thenewstack.io/what-is-microservices-architecture/)<br>
@@ -381,20 +358,17 @@ Table of Contents
 - [https://amplication.com/blog/the-complete-microservices-guide](https://amplication.com/blog/the-complete-microservices-guide)<br>
 - [https://dzone.com/articles/best-practices-for-microservices-building-scalable?ref=dailydev](https://dzone.com/articles/best-practices-for-microservices-building-scalable?ref=dailydev)<br>
 
-<!-- TOC --><a name="vim"></a>
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
 - [https://www.freecodecamp.org/news/vim-language-and-motions-explained/](https://www.freecodecamp.org/news/vim-language-and-motions-explained/)<br>
 - [https://vim.rtorr.com/](https://vim.rtorr.com/)<br>
 
-<!-- TOC --><a name="protocols"></a>
 ## Protocols
 - [https://www.freecodecamp.org/news/http-networking-protocol-course/](https://www.freecodecamp.org/news/http-networking-protocol-course/)<br>
 - [https://brave.com/privacy-updates/22-https-by-default/](https://brave.com/privacy-updates/22-https-by-default/)<br>
 - [https://www.freecodecamp.org/news/http-full-course/](https://www.freecodecamp.org/news/http-full-course/)<br>
 
 
-<!-- TOC --><a name="dev-ops-tools"></a>
 ## Dev-Ops tools
 - [https://spacelift.io/blog/devops-tools](https://spacelift.io/blog/devops-tools)<br>
 - [https://spacelift.io/blog/devops-automation-tools](https://spacelift.io/blog/devops-automation-tools)<br>
@@ -405,36 +379,29 @@ Table of Contents
 - [https://www.javacodegeeks.com/2023/05/devops-deployment-process-stages-tools-best-practises.html](https://www.javacodegeeks.com/2023/05/devops-deployment-process-stages-tools-best-practises.html)<br>
 - [https://www.strongdm.com/blog/ssh-tunneling](https://www.strongdm.com/blog/ssh-tunneling)<br>
 
-<!-- TOC --><a name="serverless"></a>
 ## Serverless
 - [https://dev.to/aws-builders/serverless-patterns-4439](https://dev.to/aws-builders/serverless-patterns-4439)<br>
 
-<!-- TOC --><a name="infrastructure"></a>
 ## Infrastructure
 - [https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code](https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code)<br>
 - [https://www.akshaykhot.com/how-csrf-attack-works-cross-site-request-forgery/](https://www.akshaykhot.com/how-csrf-attack-works-cross-site-request-forgery/)<br>
 - [https://www.freecodecamp.org/news/infrastructure-as-code-basics/](https://www.freecodecamp.org/news/infrastructure-as-code-basics/)<br>
 
-<!-- TOC --><a name="hosting"></a>
 ## Hosting
 - [https://grifel.dev/decentralization/](https://grifel.dev/decentralization/)<br>
 
-<!-- TOC --><a name="dev-ops-books"></a>
 ## Dev ops books
 - [https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc](https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc)<br>
 - [https://aws.plainenglish.io/devops-project-02-eaba586ec8dd](https://aws.plainenglish.io/devops-project-02-eaba586ec8dd)<br>
 
-<!-- TOC --><a name="scaling"></a>
 ## Scaling
 - [https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling-b53](https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling-b53)<br>
 - [https://www.designgurus.io/blog/Load-Balancer-Reverse-Proxy-API-Gateway](https://www.designgurus.io/blog/Load-Balancer-Reverse-Proxy-API-Gateway)<br>
 
-<!-- TOC --><a name="commandline"></a>
 ## CommandLine
 - [https://www.freecodecamp.org/news/command-line-for-beginners/](https://www.freecodecamp.org/news/command-line-for-beginners/)<br>
 - [https://code.likeagirl.io/configure-an-ec2-instance-using-a-bash-script-f8d0d1fd400c](https://code.likeagirl.io/configure-an-ec2-instance-using-a-bash-script-f8d0d1fd400c)<br>
 
-<!-- TOC --><a name="terraform"></a>
 ## Terraform
 - [https://sunitabachhav2007.hashnode.dev/using-terraform-to-deploy-an-ec2-instance-with-bootstrapped-jenkins](https://sunitabachhav2007.hashnode.dev/using-terraform-to-deploy-an-ec2-instance-with-bootstrapped-jenkins)<br>
 - [https://aws.plainenglish.io/most-asked-terraform-interview-questions-i-f8ec618a429a](https://aws.plainenglish.io/most-asked-terraform-interview-questions-i-f8ec618a429a)<br>
@@ -454,32 +421,25 @@ Table of Contents
 - [https://awstip.com/testing-your-terraform-code-part-1-d55fbbd15784](https://awstip.com/testing-your-terraform-code-part-1-d55fbbd15784)<br>
 - [https://awstip.com/build-a-highly-available-two-tier-architecture-with-terraform-fd8bc5bd7c2c](https://awstip.com/build-a-highly-available-two-tier-architecture-with-terraform-fd8bc5bd7c2c)<br>
 
-<!-- TOC --><a name="bash-scripting"></a>
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
 - [https://dev.to/gajulashivaprasad/mastering-shell-scripting-your-ultimate-cheat-sheet-for-efficient-automation-7o5](https://dev.to/gajulashivaprasad/mastering-shell-scripting-your-ultimate-cheat-sheet-for-efficient-automation-7o5)<br>
 - [https://itsfoss.com/bash-scripting-tutorial/](https://itsfoss.com/bash-scripting-tutorial/)<br>
 
-<!-- TOC --><a name="azure"></a>
 ## Azure
 - [https://dev.to/shivamchamoli18/top-azure-interview-questions-563h](https://dev.to/shivamchamoli18/top-azure-interview-questions-563h)<br>
 
-<!-- TOC --><a name="free-deloyment"></a>
 ## Free deloyment
 - [https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e](https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e)<br>
 
-<!-- TOC --><a name="message-queue"></a>
 ## Message Queue
 - [https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266](https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266)<br>
 
-<!-- TOC --><a name="linux-1"></a>
 ## Linux
 - [https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-f88436a2e213](https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-f88436a2e213)<br>
 
-<!-- TOC --><a name="aws-exams"></a>
 ## AWS exams
 - [https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev)<br>
 
-<!-- TOC --><a name="caching"></a>
 ## Caching 
 - [https://www.freecodecamp.org/news/caching-vs-content-delivery-network/?ref=dailydev](https://www.freecodecamp.org/news/caching-vs-content-delivery-network/?ref=dailydev)<br>
