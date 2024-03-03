@@ -294,6 +294,9 @@ Table of Contents
 ## AWS VPN
 - [https://awstip.com/how-to-setup-a-free-vpn-server-in-aws-f309d2d31ef0](https://awstip.com/how-to-setup-a-free-vpn-server-in-aws-f309d2d31ef0)<br>
 
+## AWS RDS
+- [https://awstip.com/deploying-amazon-rds-multi-az-and-read-replica-simulate-failover-eebbfc886466](https://awstip.com/deploying-amazon-rds-multi-az-and-read-replica-simulate-failover-eebbfc886466)<br>
+
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
