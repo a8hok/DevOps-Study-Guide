@@ -266,7 +266,7 @@ Table of Contents
 - [https://aws.plainenglish.io/understanding-aws-ec2-056cbcb6179e](https://aws.plainenglish.io/understanding-aws-ec2-056cbcb6179e)<br>
 
 
-## AWS lambda
+## AWS Lambda
 - [https://aws.plainenglish.io/best-practices-for-python-with-aws-lambda-an-essential-guide-a22b708f8006](https://aws.plainenglish.io/best-practices-for-python-with-aws-lambda-an-essential-guide-a22b708f8006)<br>
 - [https://aws.plainenglish.io/what-is-aws-lambda-e97062d09bbb](https://aws.plainenglish.io/what-is-aws-lambda-e97062d09bbb)<br>
 - [https://awstip.com/building-intelligent-image-recognition-systems-with-aws-lambda-s3-rekognition-and-sns-a-b0902404a178](https://awstip.com/building-intelligent-image-recognition-systems-with-aws-lambda-s3-rekognition-and-sns-a-b0902404a178)<br>
@@ -275,6 +275,7 @@ Table of Contents
 - [https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf](https://awstip.com/tutorial-building-an-aws-api-gateway-tutorial-with-lambda-function-44303692e8cf)<br>
 - [https://aws.plainenglish.io/host-a-static-website-using-aws-s3-and-aws-cloudfront-27bd0aff0f4a](https://aws.plainenglish.io/host-a-static-website-using-aws-s3-and-aws-cloudfront-27bd0aff0f4a)<br>
 - [https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2](https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2)<br>
+- [https://awstip.com/aws-lambda-runtime-debate-8cd0bd9054a3](https://awstip.com/aws-lambda-runtime-debate-8cd0bd9054a3)<br>
 
 ## AWS EBS
 - [https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/](https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/)<br>
