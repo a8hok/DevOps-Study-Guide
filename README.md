@@ -122,6 +122,9 @@ Table of Contents
 - [https://www.javacodegeeks.com/2023/05/a-comprehensive-guide-to-docker-swarm.html](https://www.javacodegeeks.com/2023/05/a-comprehensive-guide-to-docker-swarm.html)<br>
 - [https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container](https://dzone.com/articles/docker-swarm-vs-kubernetes-who-wins-the-container)<br>
 
+## Docker tricks
+- [https://overcast.blog/13-docker-tricks-you-didnt-know-47775a4f678f](https://overcast.blog/13-docker-tricks-you-didnt-know-47775a4f678f)<br>
+
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
