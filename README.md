@@ -365,6 +365,7 @@ Table of Contents
 - [https://hackernoon.com/a-guide-to-building-observability-for-microservices?source=rss](https://hackernoon.com/a-guide-to-building-observability-for-microservices?source=rss)<br>
 - [https://amplication.com/blog/the-complete-microservices-guide](https://amplication.com/blog/the-complete-microservices-guide)<br>
 - [https://dzone.com/articles/best-practices-for-microservices-building-scalable?ref=dailydev](https://dzone.com/articles/best-practices-for-microservices-building-scalable?ref=dailydev)<br>
+- [https://blog.bitsrc.io/microservice-challenges-146badd013e3](https://blog.bitsrc.io/microservice-challenges-146badd013e3)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
