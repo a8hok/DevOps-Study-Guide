@@ -431,6 +431,7 @@ Table of Contents
 - [https://awstip.com/terraform-modules-539c5ac38b67](https://awstip.com/terraform-modules-539c5ac38b67)<br>
 - [https://awstip.com/testing-your-terraform-code-part-1-d55fbbd15784](https://awstip.com/testing-your-terraform-code-part-1-d55fbbd15784)<br>
 - [https://awstip.com/build-a-highly-available-two-tier-architecture-with-terraform-fd8bc5bd7c2c](https://awstip.com/build-a-highly-available-two-tier-architecture-with-terraform-fd8bc5bd7c2c)<br>
+- [https://awstip.com/automating-infrastructure-management-terraform-pt-2-bec3971d5fe7](https://awstip.com/automating-infrastructure-management-terraform-pt-2-bec3971d5fe7)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
