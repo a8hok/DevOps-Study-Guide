@@ -304,6 +304,8 @@ Table of Contents
 ## AWS RDS
 - [https://awstip.com/deploying-amazon-rds-multi-az-and-read-replica-simulate-failover-eebbfc886466](https://awstip.com/deploying-amazon-rds-multi-az-and-read-replica-simulate-failover-eebbfc886466)<br>
 
+## AWS API gateway
+- [https://blog.bitsrc.io/implementing-the-api-gateway-pattern-in-node-js-2cb39d174094](https://blog.bitsrc.io/implementing-the-api-gateway-pattern-in-node-js-2cb39d174094)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
@@ -459,3 +461,5 @@ Table of Contents
 
 ## AWS certification course
 - [https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d](https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)<br>
+
+
