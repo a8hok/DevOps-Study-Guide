@@ -290,6 +290,7 @@ Table of Contents
 
 ## AWS VPC
 - [https://aws.plainenglish.io/complete-guide-on-aws-vpc-creation-8b2f27d74461](https://aws.plainenglish.io/complete-guide-on-aws-vpc-creation-8b2f27d74461)<br>
+- [https://blog.awsfundamentals.com/introduction-to-the-aws-virtual-private-cloud-vpc-part-2?ref=dailydev](https://blog.awsfundamentals.com/introduction-to-the-aws-virtual-private-cloud-vpc-part-2?ref=dailydev)<br>
 
 ## AWS EKS
 - [https://aws.plainenglish.io/master-cka-ckad-and-cks-certifications-in-one-month-dc933b02d9dc](https://aws.plainenglish.io/master-cka-ckad-and-cks-certifications-in-one-month-dc933b02d9dc)<br>
