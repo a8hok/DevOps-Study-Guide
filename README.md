@@ -339,6 +339,7 @@ Table of Contents
 - [https://aws.plainenglish.io/building-a-seamless-ci-cd-pipeline-with-jenkins-slack-and-github-on-aws-68658e8d45dc](https://aws.plainenglish.io/building-a-seamless-ci-cd-pipeline-with-jenkins-slack-and-github-on-aws-68658e8d45dc)<br>
 - [https://dev.to/aws-builders/aws-cicd-pipeline-to-deploy-a-serverless-framework-project-30c4?ref=dailydev](https://dev.to/aws-builders/aws-cicd-pipeline-to-deploy-a-serverless-framework-project-30c4?ref=dailydev)<br>
 - [https://aws.plainenglish.io/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-6bf729aaebc8](https://aws.plainenglish.io/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-6bf729aaebc8)<br>
+- [https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/?ref=dailydev](https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/?ref=dailydev)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
