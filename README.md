@@ -163,6 +163,7 @@ Table of Contents
 - [https://blog.bytebytego.com/p/a-crash-course-in-kubernetes?ref=dailydev](https://blog.bytebytego.com/p/a-crash-course-in-kubernetes?ref=dailydev)<br>
 - [https://aws.plainenglish.io/understanding-pods-nodes-and-the-kubelet-in-kubernetes-417fc8278d40](https://aws.plainenglish.io/understanding-pods-nodes-and-the-kubelet-in-kubernetes-417fc8278d40)<br>
 - [https://awstip.com/kubernetes-architecture-43d909850cbd](https://awstip.com/kubernetes-architecture-43d909850cbd)<br>
+- [https://systemweakness.com/setting-up-rbac-in-kubernetes-step-by-step-example-7554fdff9855](https://systemweakness.com/setting-up-rbac-in-kubernetes-step-by-step-example-7554fdff9855)<br>
 
 
 ## K8S with HELM
