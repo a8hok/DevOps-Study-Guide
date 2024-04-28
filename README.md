@@ -440,6 +440,7 @@ Table of Contents
 - [https://awstip.com/build-a-highly-available-two-tier-architecture-with-terraform-fd8bc5bd7c2c](https://awstip.com/build-a-highly-available-two-tier-architecture-with-terraform-fd8bc5bd7c2c)<br>
 - [https://awstip.com/automating-infrastructure-management-terraform-pt-2-bec3971d5fe7](https://awstip.com/automating-infrastructure-management-terraform-pt-2-bec3971d5fe7)<br>
 - [https://medium.com/env0/top-terraform-tools-to-know-in-2024-a00a232bb936](https://medium.com/env0/top-terraform-tools-to-know-in-2024-a00a232bb936)<br>
+- [https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31?ref=dailydev](https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31?ref=dailydev)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
