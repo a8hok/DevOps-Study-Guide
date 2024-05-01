@@ -165,6 +165,9 @@ Table of Contents
 - [https://awstip.com/kubernetes-architecture-43d909850cbd](https://awstip.com/kubernetes-architecture-43d909850cbd)<br>
 - [https://systemweakness.com/setting-up-rbac-in-kubernetes-step-by-step-example-7554fdff9855](https://systemweakness.com/setting-up-rbac-in-kubernetes-step-by-step-example-7554fdff9855)<br>
 
+## K8S cheatSheet
+- [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
+
 
 ## K8S with HELM
 - [https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64](https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64)<br>
@@ -405,8 +408,6 @@ Table of Contents
 - [https://www.akshaykhot.com/how-csrf-attack-works-cross-site-request-forgery/](https://www.akshaykhot.com/how-csrf-attack-works-cross-site-request-forgery/)<br>
 - [https://www.freecodecamp.org/news/infrastructure-as-code-basics/](https://www.freecodecamp.org/news/infrastructure-as-code-basics/)<br>
 
-## Hosting
-- [https://grifel.dev/decentralization/](https://grifel.dev/decentralization/)<br>
 
 ## Dev ops books
 - [https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc](https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc)<br>
@@ -453,6 +454,7 @@ Table of Contents
 
 ## Free deloyment
 - [https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e](https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e)<br>
+- [https://grifel.dev/decentralization/](https://grifel.dev/decentralization/)<br>
 
 ## Message Queue
 - [https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266](https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266)<br>
