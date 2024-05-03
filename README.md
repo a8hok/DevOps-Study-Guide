@@ -461,6 +461,7 @@ Table of Contents
 
 ## Linux
 - [https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-f88436a2e213](https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-f88436a2e213)<br>
+- [https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656](https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656)<br>
 
 ## AWS exams
 - [https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev)<br>
