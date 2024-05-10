@@ -388,6 +388,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/http-networking-protocol-course/](https://www.freecodecamp.org/news/http-networking-protocol-course/)<br>
 - [https://brave.com/privacy-updates/22-https-by-default/](https://brave.com/privacy-updates/22-https-by-default/)<br>
 - [https://www.freecodecamp.org/news/http-full-course/](https://www.freecodecamp.org/news/http-full-course/)<br>
+- [https://blog.bytebytego.com/p/http1-vs-http2-vs-http3-a-deep-dive?utm_campaign=email-post&r=64svk&utm_source=substack&utm_medium=email](https://blog.bytebytego.com/p/http1-vs-http2-vs-http3-a-deep-dive?utm_campaign=email-post&r=64svk&utm_source=substack&utm_medium=email)<br>
 
 
 ## Dev-Ops tools
