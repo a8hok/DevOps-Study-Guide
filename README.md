@@ -107,6 +107,7 @@ Table of Contents
 - [https://aws.plainenglish.io/docker-app-development-4fa7d7708a0e](https://aws.plainenglish.io/docker-app-development-4fa7d7708a0e)<br>
 - [https://aws.plainenglish.io/the-ultimate-guide-to-docker-volumes-812498a4d996](https://aws.plainenglish.io/the-ultimate-guide-to-docker-volumes-812498a4d996)<br>
 - [https://aws.plainenglish.io/docker-basics-understanding-key-components-b71c4bb94dd2](https://aws.plainenglish.io/docker-basics-understanding-key-components-b71c4bb94dd2)<br>
+- [https://www.docker.com/blog/wasm-vs-docker/?ref=dailydev](https://www.docker.com/blog/wasm-vs-docker/?ref=dailydev)<br>
 
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
