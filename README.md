@@ -379,6 +379,7 @@ Table of Contents
 - [https://dzone.com/articles/best-practices-for-microservices-building-scalable?ref=dailydev](https://dzone.com/articles/best-practices-for-microservices-building-scalable?ref=dailydev)<br>
 - [https://blog.bitsrc.io/microservice-challenges-146badd013e3](https://blog.bitsrc.io/microservice-challenges-146badd013e3)<br>
 - [https://ssojet.com/blog/mastering-authorization-in-microservices-a-developer-guide/?ref=dailydev](https://ssojet.com/blog/mastering-authorization-in-microservices-a-developer-guide/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/solid-principles-for-microservices/?ref=dailydev](https://www.freecodecamp.org/news/solid-principles-for-microservices/?ref=dailydev)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
