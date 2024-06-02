@@ -313,6 +313,7 @@ Table of Contents
 
 ## AWS API gateway
 - [https://blog.bitsrc.io/implementing-the-api-gateway-pattern-in-node-js-2cb39d174094](https://blog.bitsrc.io/implementing-the-api-gateway-pattern-in-node-js-2cb39d174094)<br>
+- [https://medium.com/@prsingh1982/create-user-management-api-aws-api-gateway-b84c1791b4e0](https://medium.com/@prsingh1982/create-user-management-api-aws-api-gateway-b84c1791b4e0)<br>
 
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
