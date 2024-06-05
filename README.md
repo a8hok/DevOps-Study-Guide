@@ -174,6 +174,9 @@ Table of Contents
 ## K8S with HELM
 - [https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64](https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64)<br>
 
+## EKS
+- [https://medium.com/@seifeddinerajhi/easy-aws-permissions-for-your-eks-workloads-2671e073c5c7](https://medium.com/@seifeddinerajhi/easy-aws-permissions-for-your-eks-workloads-2671e073c5c7)<br>
+
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
