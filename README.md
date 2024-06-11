@@ -166,6 +166,7 @@ Table of Contents
 - [https://aws.plainenglish.io/understanding-pods-nodes-and-the-kubelet-in-kubernetes-417fc8278d40](https://aws.plainenglish.io/understanding-pods-nodes-and-the-kubelet-in-kubernetes-417fc8278d40)<br>
 - [https://awstip.com/kubernetes-architecture-43d909850cbd](https://awstip.com/kubernetes-architecture-43d909850cbd)<br>
 - [https://systemweakness.com/setting-up-rbac-in-kubernetes-step-by-step-example-7554fdff9855](https://systemweakness.com/setting-up-rbac-in-kubernetes-step-by-step-example-7554fdff9855)<br>
+- [https://spacelift.io/blog/kubernetes-hpa-horizontal-pod-autoscaler?ref=dailydev](https://spacelift.io/blog/kubernetes-hpa-horizontal-pod-autoscaler?ref=dailydev)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
