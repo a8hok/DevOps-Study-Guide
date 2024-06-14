@@ -171,7 +171,6 @@ Table of Contents
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
 
-
 ## K8S with HELM
 - [https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64](https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64)<br>
 
@@ -386,6 +385,7 @@ Table of Contents
 - [https://blog.bitsrc.io/microservice-challenges-146badd013e3](https://blog.bitsrc.io/microservice-challenges-146badd013e3)<br>
 - [https://ssojet.com/blog/mastering-authorization-in-microservices-a-developer-guide/?ref=dailydev](https://ssojet.com/blog/mastering-authorization-in-microservices-a-developer-guide/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/solid-principles-for-microservices/?ref=dailydev](https://www.freecodecamp.org/news/solid-principles-for-microservices/?ref=dailydev)<br>
+- [https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e](https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
