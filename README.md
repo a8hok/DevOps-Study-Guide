@@ -1,4 +1,3 @@
-
 # Dev-ops useful links
 
 Table of Contents
@@ -351,6 +350,7 @@ Table of Contents
 - [https://dev.to/aws-builders/aws-cicd-pipeline-to-deploy-a-serverless-framework-project-30c4?ref=dailydev](https://dev.to/aws-builders/aws-cicd-pipeline-to-deploy-a-serverless-framework-project-30c4?ref=dailydev)<br>
 - [https://aws.plainenglish.io/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-6bf729aaebc8](https://aws.plainenglish.io/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-6bf729aaebc8)<br>
 - [https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/?ref=dailydev](https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/?ref=dailydev)<br>
+- [https://dev.to/tungbq/jenkins-on-kubernetes-a-comprehensive-guide-5d6a?ref=dailydev](https://dev.to/tungbq/jenkins-on-kubernetes-a-comprehensive-guide-5d6a?ref=dailydev)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
