@@ -269,6 +269,9 @@ Table of Contents
 - [https://awstip.com/s3-starter-amazon-s3-static-website-hosting-playbook-1-f473a6fdf811](https://awstip.com/s3-starter-amazon-s3-static-website-hosting-playbook-1-f473a6fdf811)<br>
 - [https://awstip.com/upload-image-to-s3-from-aws-lambda-serverless-nestjs-72218cd32111](https://awstip.com/upload-image-to-s3-from-aws-lambda-serverless-nestjs-72218cd32111)<br>
 
+## AWS ECS
+- [https://www.honeybadger.io/blog/configure-docker-on-ecs/?ref=dailydev](https://www.honeybadger.io/blog/configure-docker-on-ecs/?ref=dailydev)<br>
+
 ## AWS IAM
 - [https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42](https://aws.plainenglish.io/iam-roles-anywhere-certificate-based-access-to-aws-95d944930b42)<br>
 
