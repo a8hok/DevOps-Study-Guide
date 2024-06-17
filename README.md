@@ -485,4 +485,7 @@ Table of Contents
 ## AWS certification course
 - [https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d](https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)<br>
 
+## System Design
+- [https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76](https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76)<br>
+
 
