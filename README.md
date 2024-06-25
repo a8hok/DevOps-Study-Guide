@@ -166,6 +166,7 @@ Table of Contents
 - [https://awstip.com/kubernetes-architecture-43d909850cbd](https://awstip.com/kubernetes-architecture-43d909850cbd)<br>
 - [https://systemweakness.com/setting-up-rbac-in-kubernetes-step-by-step-example-7554fdff9855](https://systemweakness.com/setting-up-rbac-in-kubernetes-step-by-step-example-7554fdff9855)<br>
 - [https://spacelift.io/blog/kubernetes-hpa-horizontal-pod-autoscaler?ref=dailydev](https://spacelift.io/blog/kubernetes-hpa-horizontal-pod-autoscaler?ref=dailydev)<br>
+- [https://itnext.io/kubernetes-the-road-to-1-0-525a9420fdf0](https://itnext.io/kubernetes-the-road-to-1-0-525a9420fdf0)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
