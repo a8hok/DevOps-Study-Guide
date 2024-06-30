@@ -168,6 +168,7 @@ Table of Contents
 - [https://spacelift.io/blog/kubernetes-hpa-horizontal-pod-autoscaler?ref=dailydev](https://spacelift.io/blog/kubernetes-hpa-horizontal-pod-autoscaler?ref=dailydev)<br>
 - [https://itnext.io/kubernetes-the-road-to-1-0-525a9420fdf0](https://itnext.io/kubernetes-the-road-to-1-0-525a9420fdf0)<br>
 - [https://machinelearningmastery.com/the-ultimate-beginners-guide-to-docker/?ref=dailydev](https://machinelearningmastery.com/the-ultimate-beginners-guide-to-docker/?ref=dailydev)<br>
+- [https://itnext.io/kubernetes-monitoring-events-with-kubectl-and-grafana-loki-6a64c6ceea2f](https://itnext.io/kubernetes-monitoring-events-with-kubectl-and-grafana-loki-6a64c6ceea2f)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
