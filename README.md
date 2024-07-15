@@ -393,6 +393,7 @@ Table of Contents
 - [https://ssojet.com/blog/mastering-authorization-in-microservices-a-developer-guide/?ref=dailydev](https://ssojet.com/blog/mastering-authorization-in-microservices-a-developer-guide/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/solid-principles-for-microservices/?ref=dailydev](https://www.freecodecamp.org/news/solid-principles-for-microservices/?ref=dailydev)<br>
 - [https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e](https://medium.com/capital-one-tech/10-microservices-design-patterns-for-better-architecture-befa810ca44e)<br>
+- [https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39?ref=dailydev](https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39?ref=dailydev)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
