@@ -496,5 +496,6 @@ Table of Contents
 ## System Design
 - [https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76](https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76)<br>
 - [https://medium.com/javarevisited/10-best-github-repositories-to-prepare-for-system-design-interviews-6cc9d37d50f6](https://medium.com/javarevisited/10-best-github-repositories-to-prepare-for-system-design-interviews-6cc9d37d50f6)<br>
+- [https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4](https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4)<br>
 
 
