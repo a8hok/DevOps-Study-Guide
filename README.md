@@ -484,6 +484,7 @@ Table of Contents
 
 ## AWS exams
 - [https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev)<br>
+- [https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d](https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)<br>
 
 ## Load balancer
 - [https://medium.com/codenx/load-balancer-vs-reverse-proxy-vs-api-gateway-fcb79912abbf](https://medium.com/codenx/load-balancer-vs-reverse-proxy-vs-api-gateway-fcb79912abbf)<br>
@@ -492,12 +493,11 @@ Table of Contents
 - [https://www.freecodecamp.org/news/caching-vs-content-delivery-network/?ref=dailydev](https://www.freecodecamp.org/news/caching-vs-content-delivery-network/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/memcached-crash-course/](https://www.freecodecamp.org/news/memcached-crash-course/)<br>
 
-## AWS certification course
-- [https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d](https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)<br>
 
 ## System Design
 - [https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76](https://medium.com/javarevisited/11-best-resources-to-crack-the-system-design-interview-2cbc77f6fc76)<br>
 - [https://medium.com/javarevisited/10-best-github-repositories-to-prepare-for-system-design-interviews-6cc9d37d50f6](https://medium.com/javarevisited/10-best-github-repositories-to-prepare-for-system-design-interviews-6cc9d37d50f6)<br>
 - [https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4](https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4)<br>
+- [https://roadmap.sh/software-architect?ref=dailydev](https://roadmap.sh/software-architect?ref=dailydev)<br>
 
 
