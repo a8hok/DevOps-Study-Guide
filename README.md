@@ -501,5 +501,6 @@ Table of Contents
 - [https://roadmap.sh/software-architect?ref=dailydev](https://roadmap.sh/software-architect?ref=dailydev)<br>
 - [https://medium.com/javarevisited/40-must-read-white-papers-to-learn-system-design-and-software-architecture-775c4197f9c8](https://medium.com/javarevisited/40-must-read-white-papers-to-learn-system-design-and-software-architecture-775c4197f9c8)<br>
 - [https://bootcamp.uxdesign.cc/atomic-design-system-explained-0b129f50cd3b](https://bootcamp.uxdesign.cc/atomic-design-system-explained-0b129f50cd3b)<br>
+- [https://www.freecodecamp.org/news/learn-system-design-principles/](https://www.freecodecamp.org/news/learn-system-design-principles/)<br>
 
 
