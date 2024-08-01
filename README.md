@@ -505,4 +505,7 @@ Table of Contents
 - [https://bootcamp.uxdesign.cc/atomic-design-system-explained-0b129f50cd3b](https://bootcamp.uxdesign.cc/atomic-design-system-explained-0b129f50cd3b)<br>
 - [https://www.freecodecamp.org/news/learn-system-design-principles/](https://www.freecodecamp.org/news/learn-system-design-principles/)<br>
 
+## Jenkins
+- [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
+
 
