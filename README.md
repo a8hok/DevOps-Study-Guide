@@ -273,6 +273,7 @@ Table of Contents
 - [https://awstip.com/resizing-s3-images-in-various-sizes-using-an-aws-lambda-trigger-a2a5b79d7ba3](https://awstip.com/resizing-s3-images-in-various-sizes-using-an-aws-lambda-trigger-a2a5b79d7ba3)<br>
 - [https://awstip.com/s3-starter-amazon-s3-static-website-hosting-playbook-1-f473a6fdf811](https://awstip.com/s3-starter-amazon-s3-static-website-hosting-playbook-1-f473a6fdf811)<br>
 - [https://awstip.com/upload-image-to-s3-from-aws-lambda-serverless-nestjs-72218cd32111](https://awstip.com/upload-image-to-s3-from-aws-lambda-serverless-nestjs-72218cd32111)<br>
+- [https://www.freecodecamp.org/news/upload-large-files-with-aws/?ref=dailydev](https://www.freecodecamp.org/news/upload-large-files-with-aws/?ref=dailydev)<br>
 
 ## AWS ECS
 - [https://www.honeybadger.io/blog/configure-docker-on-ecs/?ref=dailydev](https://www.honeybadger.io/blog/configure-docker-on-ecs/?ref=dailydev)<br>
