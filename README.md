@@ -327,6 +327,9 @@ Table of Contents
 - [https://blog.bitsrc.io/implementing-the-api-gateway-pattern-in-node-js-2cb39d174094](https://blog.bitsrc.io/implementing-the-api-gateway-pattern-in-node-js-2cb39d174094)<br>
 - [https://medium.com/@prsingh1982/create-user-management-api-aws-api-gateway-b84c1791b4e0](https://medium.com/@prsingh1982/create-user-management-api-aws-api-gateway-b84c1791b4e0)<br>
 
+## AWS SQS
+- [https://implementing.substack.com/p/deploy-aws-sqs-queue-with-serverless?ref=dailydev](https://implementing.substack.com/p/deploy-aws-sqs-queue-with-serverless?ref=dailydev)<br>
+
 ## Linux
 - [https://www.freecodecamp.org/news/how-to-manage-linux-processes/](https://www.freecodecamp.org/news/how-to-manage-linux-processes/)<br>
 - [https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc](https://dev.to/kanani_nirav/50-linux-commands-every-developer-need-to-know-with-example-mc)<br>
