@@ -264,6 +264,7 @@ Table of Contents
 - [https://aws.plainenglish.io/aws-cdk-an-ultimate-tool-to-create-aws-resources-519542e16761](https://aws.plainenglish.io/aws-cdk-an-ultimate-tool-to-create-aws-resources-519542e16761)<br>
 - [https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/?ref=dailydev](https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/?ref=dailydev)<br>
 - [https://awstip.com/power-of-math-aws-project-f0b782f899c6](https://awstip.com/power-of-math-aws-project-f0b782f899c6)<br>
+- [https://implementing.substack.com/p/how-to-setup-serverless-framework?ref=dailydev](https://implementing.substack.com/p/how-to-setup-serverless-framework?ref=dailydev)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
