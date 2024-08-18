@@ -511,6 +511,7 @@ Table of Contents
 - [https://medium.com/javarevisited/40-must-read-white-papers-to-learn-system-design-and-software-architecture-775c4197f9c8](https://medium.com/javarevisited/40-must-read-white-papers-to-learn-system-design-and-software-architecture-775c4197f9c8)<br>
 - [https://bootcamp.uxdesign.cc/atomic-design-system-explained-0b129f50cd3b](https://bootcamp.uxdesign.cc/atomic-design-system-explained-0b129f50cd3b)<br>
 - [https://www.freecodecamp.org/news/learn-system-design-principles/](https://www.freecodecamp.org/news/learn-system-design-principles/)<br>
+- [https://kps.hashnode.dev/system-design-the-complete-course?ref=dailydev](https://kps.hashnode.dev/system-design-the-complete-course?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
