@@ -428,6 +428,7 @@ Table of Contents
 
 ## Serverless
 - [https://dev.to/aws-builders/serverless-patterns-4439](https://dev.to/aws-builders/serverless-patterns-4439)<br>
+- [https://medium.com/javarevisited/mastering-serverless-debugging-72885887fa6a](https://medium.com/javarevisited/mastering-serverless-debugging-72885887fa6a)<br>
 
 ## Infrastructure
 - [https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code](https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code)<br>
