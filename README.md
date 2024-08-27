@@ -290,6 +290,7 @@ Table of Contents
 - [https://aws.plainenglish.io/understanding-aws-ec2-056cbcb6179e](https://aws.plainenglish.io/understanding-aws-ec2-056cbcb6179e)<br>
 - [https://aws.plainenglish.io/scaling-ec2-hosted-apps-using-asg-auto-scaling-group-4c24221b5292](https://aws.plainenglish.io/scaling-ec2-hosted-apps-using-asg-auto-scaling-group-4c24221b5292)<br>
 - [https://www.linkedin.com/pulse/brief-overview-aws-ec2-instance-setup-secure-cicd-jenkins-slimane--3t3oe/](https://www.linkedin.com/pulse/brief-overview-aws-ec2-instance-setup-secure-cicd-jenkins-slimane--3t3oe/)<br>
+- [https://systemweakness.com/setting-up-ssl-certificate-with-elastic-ip-2d3cc5df03ab](https://systemweakness.com/setting-up-ssl-certificate-with-elastic-ip-2d3cc5df03ab)<br>
 
 
 ## AWS Lambda
