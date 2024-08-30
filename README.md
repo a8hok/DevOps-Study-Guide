@@ -127,6 +127,7 @@ Table of Contents
 
 ## Docker tricks
 - [https://overcast.blog/13-docker-tricks-you-didnt-know-47775a4f678f](https://overcast.blog/13-docker-tricks-you-didnt-know-47775a4f678f)<br>
+- [https://devdojo.com/bobbyiliev/5-docker-best-practices-i-wish-i-knew-when-i-started](https://devdojo.com/bobbyiliev/5-docker-best-practices-i-wish-i-knew-when-i-started)<br>
 
 
 ## K8S
