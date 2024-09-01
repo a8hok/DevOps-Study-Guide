@@ -172,6 +172,7 @@ Table of Contents
 - [https://machinelearningmastery.com/the-ultimate-beginners-guide-to-docker/?ref=dailydev](https://machinelearningmastery.com/the-ultimate-beginners-guide-to-docker/?ref=dailydev)<br>
 - [https://itnext.io/kubernetes-monitoring-events-with-kubectl-and-grafana-loki-6a64c6ceea2f](https://itnext.io/kubernetes-monitoring-events-with-kubectl-and-grafana-loki-6a64c6ceea2f)<br>
 - [https://medium.com/@abh1shekyadav/kubernetes-deep-dive-exploring-its-architecture-f6775ca0dbc1](https://medium.com/@abh1shekyadav/kubernetes-deep-dive-exploring-its-architecture-f6775ca0dbc1)<br>
+- [https://dev.to/aurelievache/understanding-kubernetes-part-52-kubernetes-131-changelog-5g5d?ref=dailydev](https://dev.to/aurelievache/understanding-kubernetes-part-52-kubernetes-131-changelog-5g5d?ref=dailydev)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
