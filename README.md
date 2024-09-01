@@ -111,6 +111,7 @@ Table of Contents
 
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
+- [https://www.sitepoint.com/typescript-record-type-comprehensive-guide/?ref=dailydev](https://www.sitepoint.com/typescript-record-type-comprehensive-guide/?ref=dailydev)<br>
 
 ## Docker cheetsheet
 - [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
