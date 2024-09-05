@@ -371,6 +371,7 @@ Table of Contents
 - [https://aws.plainenglish.io/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-6bf729aaebc8](https://aws.plainenglish.io/setting-up-a-ci-cd-pipeline-process-with-jenkins-and-docker-in-aws-6bf729aaebc8)<br>
 - [https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/?ref=dailydev](https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/?ref=dailydev)<br>
 - [https://dev.to/tungbq/jenkins-on-kubernetes-a-comprehensive-guide-5d6a?ref=dailydev](https://dev.to/tungbq/jenkins-on-kubernetes-a-comprehensive-guide-5d6a?ref=dailydev)<br>
+- [https://blog.devgenius.io/github-actions-step-by-step-guide-7f4c7b92acd6](https://blog.devgenius.io/github-actions-step-by-step-guide-7f4c7b92acd6)<br>
 
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
