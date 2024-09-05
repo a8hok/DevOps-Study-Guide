@@ -493,6 +493,7 @@ Table of Contents
 ## Message Queue
 - [https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266](https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266)<br>
 - [https://levelup.gitconnected.com/message-queues-in-system-design-0440a1221023](https://levelup.gitconnected.com/message-queues-in-system-design-0440a1221023)<br>
+- [https://newsletter.systemdesigncodex.com/p/message-queues-and-message-brokers?ref=dailydev](https://newsletter.systemdesigncodex.com/p/message-queues-and-message-brokers?ref=dailydev)<br>
 
 ## Linux
 - [https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-f88436a2e213](https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-f88436a2e213)<br>
