@@ -117,6 +117,7 @@ Table of Contents
 ## Docker cheetsheet
 - [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
 - [https://spacelift.io/blog/docker-commands-cheat-sheet](https://spacelift.io/blog/docker-commands-cheat-sheet)<br>
+- [https://aws.plainenglish.io/docker-basic-cheatsheet-011b8ccf78fc](https://aws.plainenglish.io/docker-basic-cheatsheet-011b8ccf78fc)<br>
 
 ## Docker Compose
 - [https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/](https://sweetcode.io/how-to-deploy-a-multi-container-react-js-and-node-js-application-using-docker-compose/)<br>
