@@ -161,7 +161,7 @@ Table of Contents
 - [https://medium.com/cloud-native-daily/road-to-upgrading-kubernetes-4e4b78d72a50](https://medium.com/cloud-native-daily/road-to-upgrading-kubernetes-4e4b78d72a50)<br>
 - [https://dzone.com/articles/kubernetes-advantages-and-disadvantages](https://dzone.com/articles/kubernetes-advantages-and-disadvantages)<br>
 - [https://dzone.com/articles/a-beginners-guide-to-kubernetes-implementation](https://dzone.com/articles/a-beginners-guide-to-kubernetes-implementation)<br>
-- [- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>](- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>)<br>
+- [https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c)<br>
 - [https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363](https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363)<br>
 - [https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/](https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/)<br>
 - [https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363](https://aws.plainenglish.io/kubernetes-management-dashboard-setup-in-aws-eks-elb-route-53-integrations-and-user-9fbd29ab7363)<br>
@@ -176,6 +176,7 @@ Table of Contents
 - [https://itnext.io/kubernetes-monitoring-events-with-kubectl-and-grafana-loki-6a64c6ceea2f](https://itnext.io/kubernetes-monitoring-events-with-kubectl-and-grafana-loki-6a64c6ceea2f)<br>
 - [https://medium.com/@abh1shekyadav/kubernetes-deep-dive-exploring-its-architecture-f6775ca0dbc1](https://medium.com/@abh1shekyadav/kubernetes-deep-dive-exploring-its-architecture-f6775ca0dbc1)<br>
 - [https://dev.to/aurelievache/understanding-kubernetes-part-52-kubernetes-131-changelog-5g5d?ref=dailydev](https://dev.to/aurelievache/understanding-kubernetes-part-52-kubernetes-131-changelog-5g5d?ref=dailydev)<br>
+- [https://medium.com/javarevisited/top-10-resources-to-master-kubernetes-in-2024-a9664105b18d](https://medium.com/javarevisited/top-10-resources-to-master-kubernetes-in-2024-a9664105b18d)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
