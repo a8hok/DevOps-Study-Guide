@@ -177,6 +177,7 @@ Table of Contents
 - [https://medium.com/@abh1shekyadav/kubernetes-deep-dive-exploring-its-architecture-f6775ca0dbc1](https://medium.com/@abh1shekyadav/kubernetes-deep-dive-exploring-its-architecture-f6775ca0dbc1)<br>
 - [https://dev.to/aurelievache/understanding-kubernetes-part-52-kubernetes-131-changelog-5g5d?ref=dailydev](https://dev.to/aurelievache/understanding-kubernetes-part-52-kubernetes-131-changelog-5g5d?ref=dailydev)<br>
 - [https://medium.com/javarevisited/top-10-resources-to-master-kubernetes-in-2024-a9664105b18d](https://medium.com/javarevisited/top-10-resources-to-master-kubernetes-in-2024-a9664105b18d)<br>
+- [https://itnext.io/orchestration-368c642f34de](https://itnext.io/orchestration-368c642f34de)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
