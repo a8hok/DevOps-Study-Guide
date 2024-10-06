@@ -463,6 +463,7 @@ Table of Contents
 ## Scaling
 - [https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling-b53](https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling-b53)<br>
 - [https://www.designgurus.io/blog/Load-Balancer-Reverse-Proxy-API-Gateway](https://www.designgurus.io/blog/Load-Balancer-Reverse-Proxy-API-Gateway)<br>
+- [https://www.finout.io/blog/horizontal-vs-vertical-scaling?ref=dailydev](https://www.finout.io/blog/horizontal-vs-vertical-scaling?ref=dailydev)<br>
 
 ## CommandLine
 - [https://www.freecodecamp.org/news/command-line-for-beginners/](https://www.freecodecamp.org/news/command-line-for-beginners/)<br>
