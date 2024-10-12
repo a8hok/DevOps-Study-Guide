@@ -493,6 +493,7 @@ Table of Contents
 - [https://medium.com/env0/top-terraform-tools-to-know-in-2024-a00a232bb936](https://medium.com/env0/top-terraform-tools-to-know-in-2024-a00a232bb936)<br>
 - [https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31?ref=dailydev](https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31?ref=dailydev)<br>
 - [https://spacelift.io/blog/terraform-devops?ref=dailydev](https://spacelift.io/blog/terraform-devops?ref=dailydev)<br>
+- [https://devdojo.com/bobbyiliev/introduction-to-terraform-from-zero-to-hero-ebook](https://devdojo.com/bobbyiliev/introduction-to-terraform-from-zero-to-hero-ebook)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
