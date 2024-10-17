@@ -544,6 +544,7 @@ Table of Contents
 - [https://dev.to/niharikaa/design-patterns-a-deep-dive-into-common-design-patterns-31b9?ref=dailydev](https://dev.to/niharikaa/design-patterns-a-deep-dive-into-common-design-patterns-31b9?ref=dailydev)<br>
 - [https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1](https://medium.com/@TharunKumarReddyPolu/top-50-system-design-terminologies-you-must-know-3c78f5fb99c1)<br>
 - [https://www.adhamdannaway.com/blog/design-systems/design-system-examples?ref=dailydev](https://www.adhamdannaway.com/blog/design-systems/design-system-examples?ref=dailydev)<br>
+- [https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4](https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
