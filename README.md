@@ -190,6 +190,7 @@ Table of Contents
 - [https://medium.com/javarevisited/top-10-resources-to-master-kubernetes-in-2024-a9664105b18d](https://medium.com/javarevisited/top-10-resources-to-master-kubernetes-in-2024-a9664105b18d)<br>
 - [https://itnext.io/orchestration-368c642f34de](https://itnext.io/orchestration-368c642f34de)<br>
 - [https://packagemain.tech/p/database-migrations-in-kubernetes?ref=dailydev](https://packagemain.tech/p/database-migrations-in-kubernetes?ref=dailydev)<br>
+- [https://itnext.io/kubernetes-configuration-in-2024-434abc7a5a1b](https://itnext.io/kubernetes-configuration-in-2024-434abc7a5a1b)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
