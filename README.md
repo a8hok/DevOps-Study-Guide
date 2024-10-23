@@ -548,6 +548,7 @@ Table of Contents
 - [https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4](https://medium.com/javarevisited/system-design-basics-rate-limiter-249013cf5be4)<br>
 - [https://www.youtube.com/watch?app=desktop&list=PLzoe2pcfnYcrvvMJKToRqTU_qdqMWG0Wp&v=i53Gi_K3o7I&ref=dailydev](https://www.youtube.com/watch?app=desktop&list=PLzoe2pcfnYcrvvMJKToRqTU_qdqMWG0Wp&v=i53Gi_K3o7I&ref=dailydev)<br>
 - [https://www.builder.io/m/explainers/design-systems](https://www.builder.io/m/explainers/design-systems)<br>
+- [https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76](https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
