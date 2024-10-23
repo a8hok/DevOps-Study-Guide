@@ -389,6 +389,9 @@ Table of Contents
 - [https://dev.to/tungbq/jenkins-on-kubernetes-a-comprehensive-guide-5d6a?ref=dailydev](https://dev.to/tungbq/jenkins-on-kubernetes-a-comprehensive-guide-5d6a?ref=dailydev)<br>
 - [https://blog.devgenius.io/github-actions-step-by-step-guide-7f4c7b92acd6](https://blog.devgenius.io/github-actions-step-by-step-guide-7f4c7b92acd6)<br>
 
+## Jenkins
+- [https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev](https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev)<br>
+
 ## Learn Dev ops
 - [https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/](https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/)<br>
 - [https://medium.com/@lavanyaramesh319/day-1-devops-introduction-d55488473ded](https://medium.com/@lavanyaramesh319/day-1-devops-introduction-d55488473ded)<br>
