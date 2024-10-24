@@ -120,6 +120,7 @@ Table of Contents
 - [https://www.docker.com/blog/introducing-docker-build-checks/?ref=dailydev](https://www.docker.com/blog/introducing-docker-build-checks/?ref=dailydev)<br>
 - [https://dev.to/kalkwst/building-docker-images-55f1?ref=dailydev](https://dev.to/kalkwst/building-docker-images-55f1?ref=dailydev)<br>
 - [https://www.showwcase.com/article/34948/docker-essentials-a-step-by-step-guide-to-containerization-for-newbies](https://www.showwcase.com/article/34948/docker-essentials-a-step-by-step-guide-to-containerization-for-newbies)<br>
+- [https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/?ref=dailydev](https://blog.risingstack.com/how-to-debug-a-node-js-app-in-a-docker-container/?ref=dailydev)<br>
 
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
