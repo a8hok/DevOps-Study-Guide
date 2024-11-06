@@ -558,6 +558,7 @@ Table of Contents
 - [https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33](https://medium.com/javarevisited/most-used-distributed-system-patterns-d5d90ffedf33)<br>
 - [https://www.builder.io/m/explainers/design-systems?ref=dailydev](https://www.builder.io/m/explainers/design-systems?ref=dailydev)<br>
 - [https://itnext.io/pipelines-in-architectural-patterns-908a6bb2975e](https://itnext.io/pipelines-in-architectural-patterns-908a6bb2975e)<br>
+- [https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76](https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
