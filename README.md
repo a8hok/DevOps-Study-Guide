@@ -537,6 +537,7 @@ Table of Contents
 
 ## Load balancer
 - [https://medium.com/codenx/load-balancer-vs-reverse-proxy-vs-api-gateway-fcb79912abbf](https://medium.com/codenx/load-balancer-vs-reverse-proxy-vs-api-gateway-fcb79912abbf)<br>
+- [https://blog.quastor.org/p/the-architecture-of-dropbox-s-load-balancing-service-d460?ref=dailydev](https://blog.quastor.org/p/the-architecture-of-dropbox-s-load-balancing-service-d460?ref=dailydev)<br>
 
 ## Caching 
 - [https://www.freecodecamp.org/news/caching-vs-content-delivery-network/?ref=dailydev](https://www.freecodecamp.org/news/caching-vs-content-delivery-network/?ref=dailydev)<br>
