@@ -519,6 +519,7 @@ Table of Contents
 - [https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e](https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e)<br>
 - [https://grifel.dev/decentralization/](https://grifel.dev/decentralization/)<br>
 - [https://blog.awsfundamentals.com/cloudfront-hosting-toolkit](https://blog.awsfundamentals.com/cloudfront-hosting-toolkit)<br>
+- [https://noted.lol/self-hosting-2024/?ref=dailydev](https://noted.lol/self-hosting-2024/?ref=dailydev)<br>
 
 ## Message Queue
 - [https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266](https://medium.com/ballerina-techblog/rabbitmq-tutorials-in-ballerina-1-7f9e04f5b266)<br>
