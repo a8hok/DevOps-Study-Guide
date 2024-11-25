@@ -515,7 +515,7 @@ Table of Contents
 ## Azure
 - [https://dev.to/shivamchamoli18/top-azure-interview-questions-563h](https://dev.to/shivamchamoli18/top-azure-interview-questions-563h)<br>
 
-## Free deloyment
+## Free hosting
 - [https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e](https://dev.to/genicsblog/9-hand-picked-free-heroku-alternatives-2023-123e)<br>
 - [https://grifel.dev/decentralization/](https://grifel.dev/decentralization/)<br>
 - [https://blog.awsfundamentals.com/cloudfront-hosting-toolkit](https://blog.awsfundamentals.com/cloudfront-hosting-toolkit)<br>
