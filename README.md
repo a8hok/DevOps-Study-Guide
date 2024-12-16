@@ -533,6 +533,7 @@ Table of Contents
 - [https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656](https://vinodhakumara2681997.medium.com/cheatsheet-linux-commands-for-devops-80be32b88656)<br>
 - [https://www.josean.com/posts/vim-essentials-cheatsheet?ref=dailydev](https://www.josean.com/posts/vim-essentials-cheatsheet?ref=dailydev)<br>
 - [https://itnext.io/8-advanced-linux-command-line-tools-9d81258c3165](https://itnext.io/8-advanced-linux-command-line-tools-9d81258c3165)<br>
+- [https://linux-series.hashnode.dev/linux-commands-every-devops-engineer-must-know?ref=dailydev](https://linux-series.hashnode.dev/linux-commands-every-devops-engineer-must-know?ref=dailydev)<br>
 
 ## AWS exams
 - [https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev)<br>
