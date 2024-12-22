@@ -571,6 +571,7 @@ Table of Contents
 - [https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76](https://medium.com/javarevisited/10-best-resources-to-learn-software-architecture-in-2025-2524ac91dc76)<br>
 - [https://medium.com/javarevisited/6-system-design-articles-and-case-studies-for-software-developers-0eec081bc083](https://medium.com/javarevisited/6-system-design-articles-and-case-studies-for-software-developers-0eec081bc083)<br>
 - [https://designsystems.surf/?ref=dailydev](https://designsystems.surf/?ref=dailydev)<br>
+- [https://www.adhamdannaway.com/blog/design-systems/design-system-examples?ref=dailydev](https://www.adhamdannaway.com/blog/design-systems/design-system-examples?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
