@@ -586,4 +586,7 @@ Table of Contents
 ## Dev ops roadmap
 - [https://github.com/milanm/DevOps-Roadmap/tree/master](https://github.com/milanm/DevOps-Roadmap/tree/master)<br>
 
+## ngnix
+- [https://newsletter.scalablethread.com/p/how-nginx-handles-thousands-of-concurrent?ref=dailydev](https://newsletter.scalablethread.com/p/how-nginx-handles-thousands-of-concurrent?ref=dailydev)<br>
+
 
