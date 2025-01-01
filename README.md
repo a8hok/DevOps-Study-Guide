@@ -576,6 +576,7 @@ Table of Contents
 - [https://designsystems.surf/?ref=dailydev](https://designsystems.surf/?ref=dailydev)<br>
 - [https://www.adhamdannaway.com/blog/design-systems/design-system-examples?ref=dailydev](https://www.adhamdannaway.com/blog/design-systems/design-system-examples?ref=dailydev)<br>
 - [https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81?ref=dailydev](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81?ref=dailydev)<br>
+- [https://medium.com/@nikunj.agarwal012/building-scalable-systems-a-step-by-step-approach-to-system-design-71c608e891c6](https://medium.com/@nikunj.agarwal012/building-scalable-systems-a-step-by-step-approach-to-system-design-71c608e891c6)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
