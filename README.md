@@ -589,5 +589,6 @@ Table of Contents
 
 ## ngnix
 - [https://newsletter.scalablethread.com/p/how-nginx-handles-thousands-of-concurrent?ref=dailydev](https://newsletter.scalablethread.com/p/how-nginx-handles-thousands-of-concurrent?ref=dailydev)<br>
+- [https://devjournal.info/a-beginners-guide-to-nginx-proxy-manager/?ref=dailydev](https://devjournal.info/a-beginners-guide-to-nginx-proxy-manager/?ref=dailydev)<br>
 
 
