@@ -129,6 +129,7 @@ Table of Contents
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
 - [https://www.sitepoint.com/typescript-record-type-comprehensive-guide/?ref=dailydev](https://www.sitepoint.com/typescript-record-type-comprehensive-guide/?ref=dailydev)<br>
+- [https://levelup.gitconnected.com/stop-using-docker-desktop-faster-alternative-nobody-uses-d36a64af09a6](https://levelup.gitconnected.com/stop-using-docker-desktop-faster-alternative-nobody-uses-d36a64af09a6)<br>
 
 ## Docker cheetsheet
 - [https://blog.rishabkumar.com/docker-cheat-sheet](https://blog.rishabkumar.com/docker-cheat-sheet)<br>
