@@ -200,6 +200,7 @@ Table of Contents
 - [https://itnext.io/kubernetes-configuration-in-2024-434abc7a5a1b](https://itnext.io/kubernetes-configuration-in-2024-434abc7a5a1b)<br>
 - [https://devtron.ai/blog/understanding-kubernetes-services/?ref=dailydev](https://devtron.ai/blog/understanding-kubernetes-services/?ref=dailydev)<br>
 - [https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60?ref=dailydev](https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60?ref=dailydev)<br>
+- [https://blog.bytebytego.com/p/kubernetes-made-easy-a-beginners?utm_source=substack&utm_medium=email](https://blog.bytebytego.com/p/kubernetes-made-easy-a-beginners?utm_source=substack&utm_medium=email)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
