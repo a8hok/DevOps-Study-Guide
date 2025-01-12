@@ -401,6 +401,7 @@ Table of Contents
 - [https://blog.devgenius.io/github-actions-step-by-step-guide-7f4c7b92acd6](https://blog.devgenius.io/github-actions-step-by-step-guide-7f4c7b92acd6)<br>
 - [https://devtron.ai/blog/the-complete-guide-to-circleci-pipelines-for-kubernetes-2/?ref=dailydev](https://devtron.ai/blog/the-complete-guide-to-circleci-pipelines-for-kubernetes-2/?ref=dailydev)<br>
 - [https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev](https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/?ref=dailydev)<br>
 
 ## Jenkins
 - [https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev](https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev)<br>
