@@ -582,6 +582,7 @@ Table of Contents
 - [https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81?ref=dailydev](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81?ref=dailydev)<br>
 - [https://medium.com/@nikunj.agarwal012/building-scalable-systems-a-step-by-step-approach-to-system-design-71c608e891c6](https://medium.com/@nikunj.agarwal012/building-scalable-systems-a-step-by-step-approach-to-system-design-71c608e891c6)<br>
 - [https://medium.com/javarevisited/system-design-cheatsheet-4607e716db5a](https://medium.com/javarevisited/system-design-cheatsheet-4607e716db5a)<br>
+- [https://itnext.io/my-dos-and-donts-of-software-architecture-63f707571e47](https://itnext.io/my-dos-and-donts-of-software-architecture-63f707571e47)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
