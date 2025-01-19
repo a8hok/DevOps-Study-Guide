@@ -444,6 +444,7 @@ Table of Contents
 - [https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39?ref=dailydev](https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39?ref=dailydev)<br>
 - [https://blog.amigoscode.com/p/mircroservices-best-practices?r=22x1kh&ref=dailydev&triedRedirect=true](https://blog.amigoscode.com/p/mircroservices-best-practices?r=22x1kh&ref=dailydev&triedRedirect=true)<br>
 - [https://theburningmonk.com/2024/12/how-to-e2e-test-microservices-across-bounded-contexts/?ref=dailydev](https://theburningmonk.com/2024/12/how-to-e2e-test-microservices-across-bounded-contexts/?ref=dailydev)<br>
+- [https://microservices.io/post/architecture/2025/01/06/microservices-rules-1-practice-continuous-delivery.html?ref=dailydev](https://microservices.io/post/architecture/2025/01/06/microservices-rules-1-practice-continuous-delivery.html?ref=dailydev)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
