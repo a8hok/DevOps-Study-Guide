@@ -336,6 +336,7 @@ Table of Contents
 - [https://aws.plainenglish.io/host-a-static-website-using-aws-s3-and-aws-cloudfront-27bd0aff0f4a](https://aws.plainenglish.io/host-a-static-website-using-aws-s3-and-aws-cloudfront-27bd0aff0f4a)<br>
 - [https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2](https://medium.com/@mitchellkossoris/serverless-bun-vs-node-benchmarking-on-aws-lambda-ecd4fe7c2fc2)<br>
 - [https://awstip.com/aws-lambda-runtime-debate-8cd0bd9054a3](https://awstip.com/aws-lambda-runtime-debate-8cd0bd9054a3)<br>
+- [https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/?ref=dailydev](https://www.freecodecamp.org/news/how-to-build-an-application-with-aws-lambda/?ref=dailydev)<br>
 
 ## AWS EBS
 - [https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/](https://www.thisdot.co/blog/how-to-host-a-full-stack-app-with-aws-cloudfront-and-elastic-beanstalk/)<br>
