@@ -590,6 +590,7 @@ Table of Contents
 - [https://itnext.io/my-dos-and-donts-of-software-architecture-63f707571e47](https://itnext.io/my-dos-and-donts-of-software-architecture-63f707571e47)<br>
 - [https://newsletter.systemdesigncodex.com/p/how-to-do-well-in-system-design-interviews?ref=dailydev](https://newsletter.systemdesigncodex.com/p/how-to-do-well-in-system-design-interviews?ref=dailydev)<br>
 - [https://medium.com/@nikunj.agarwal012/building-scalable-systems-a-step-by-step-approach-to-system-design-71c608e891c6](https://medium.com/@nikunj.agarwal012/building-scalable-systems-a-step-by-step-approach-to-system-design-71c608e891c6)<br>
+- [https://newsletter.systemdesigncodex.com/p/15-must-know-elements-of-system-design?ref=dailydev](https://newsletter.systemdesigncodex.com/p/15-must-know-elements-of-system-design?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
