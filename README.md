@@ -209,6 +209,7 @@ Table of Contents
 
 ## K8S with HELM
 - [https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64](https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64)<br>
+- []()<br>
 
 ## EKS
 - [https://medium.com/@seifeddinerajhi/easy-aws-permissions-for-your-eks-workloads-2671e073c5c7](https://medium.com/@seifeddinerajhi/easy-aws-permissions-for-your-eks-workloads-2671e073c5c7)<br>
@@ -297,6 +298,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/?ref=dailydev](https://www.freecodecamp.org/news/free-107-hour-aws-cloud-project-bootcamp/?ref=dailydev)<br>
 - [https://awstip.com/power-of-math-aws-project-f0b782f899c6](https://awstip.com/power-of-math-aws-project-f0b782f899c6)<br>
 - [https://implementing.substack.com/p/how-to-setup-serverless-framework?ref=dailydev](https://implementing.substack.com/p/how-to-setup-serverless-framework?ref=dailydev)<br>
+- [https://medium.com/javarevisited/top-6-courses-to-learn-prometheus-in-2025-9d8155000d68](https://medium.com/javarevisited/top-6-courses-to-learn-prometheus-in-2025-9d8155000d68)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
