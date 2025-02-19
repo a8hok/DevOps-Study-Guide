@@ -410,6 +410,7 @@ Table of Contents
 - [https://devtron.ai/blog/the-complete-guide-to-circleci-pipelines-for-kubernetes-2/?ref=dailydev](https://devtron.ai/blog/the-complete-guide-to-circleci-pipelines-for-kubernetes-2/?ref=dailydev)<br>
 - [https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev](https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/?ref=dailydev)<br>
+- [https://www.kubeblogs.com/jenkins-or-github-actions/?ref=dailydev](https://www.kubeblogs.com/jenkins-or-github-actions/?ref=dailydev)<br>
 
 ## Jenkins
 - [https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev](https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev)<br>
