@@ -411,6 +411,7 @@ Table of Contents
 - [https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev](https://newsletter.techworld-with-milan.com/p/what-is-cicd-pipeline?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-a-ci-cd-pipeline-with-github-actions-and-aws/?ref=dailydev)<br>
 - [https://www.kubeblogs.com/jenkins-or-github-actions/?ref=dailydev](https://www.kubeblogs.com/jenkins-or-github-actions/?ref=dailydev)<br>
+- [https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g?ref=dailydev](https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g?ref=dailydev)<br>
 
 ## Jenkins
 - [https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev](https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev)<br>
