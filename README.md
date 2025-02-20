@@ -613,6 +613,7 @@ Table of Contents
 - [https://newsletter.scalablethread.com/p/how-nginx-handles-thousands-of-concurrent?ref=dailydev](https://newsletter.scalablethread.com/p/how-nginx-handles-thousands-of-concurrent?ref=dailydev)<br>
 - [https://devjournal.info/a-beginners-guide-to-nginx-proxy-manager/?ref=dailydev](https://devjournal.info/a-beginners-guide-to-nginx-proxy-manager/?ref=dailydev)<br>
 - [https://newsletter.systemdesign.one/p/how-does-nginx-work?ref=dailydev](https://newsletter.systemdesign.one/p/how-does-nginx-work?ref=dailydev)<br>
+- [https://www.youtube.com/watch?v=q8OleYuqntY](https://www.youtube.com/watch?v=q8OleYuqntY)<br>
 
 ## VPN
 - [https://infosecwriteups.com/build-your-own-secure-vpn-a-complete-guide-to-enhanced-online-privacy-ab7925b5f873](https://infosecwriteups.com/build-your-own-secure-vpn-a-complete-guide-to-enhanced-online-privacy-ab7925b5f873)<br>
