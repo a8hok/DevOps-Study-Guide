@@ -603,6 +603,7 @@ Table of Contents
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
 - [https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev](https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev)<br>
+- [https://blog.bytebytego.com/p/ep150-12-algorithms-for-system-design?ref=dailydev](https://blog.bytebytego.com/p/ep150-12-algorithms-for-system-design?ref=dailydev)<br>
 
 ## Dev-ops youtube
 - [https://www.youtube.com/watch?v=xo5V9g9joFs](https://www.youtube.com/watch?v=xo5V9g9joFs)<br>
