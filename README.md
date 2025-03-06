@@ -127,6 +127,7 @@ Table of Contents
 - [https://www.infoworld.com/article/2268611/docker-tutorial-get-started-with-docker-volumes.html?ref=dailydev](https://www.infoworld.com/article/2268611/docker-tutorial-get-started-with-docker-volumes.html?ref=dailydev)<br>
 - [https://medium.com/@sumonigupta/why-i-am-excited-about-docker-in-2025-ba028badc2ca](https://medium.com/@sumonigupta/why-i-am-excited-about-docker-in-2025-ba028badc2ca)<br>
 - [https://last9.io/blog/container-resource-monitoring-with-docker-stats/?ref=dailydev](https://last9.io/blog/container-resource-monitoring-with-docker-stats/?ref=dailydev)<br>
+- [https://www.youtube.com/watch?v=uPHLMlqNoEA](https://www.youtube.com/watch?v=uPHLMlqNoEA)<br>
 
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
