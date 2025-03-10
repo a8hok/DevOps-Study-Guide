@@ -630,4 +630,7 @@ Table of Contents
 ## Architecture
 - [https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn?ref=dailydev](https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn?ref=dailydev)<br>
 
+## Dev-ops github
+- [https://github.com/bregman-arie/devops-exercises?ref=dailydev](https://github.com/bregman-arie/devops-exercises?ref=dailydev)<br>
+
 
