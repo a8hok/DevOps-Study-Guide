@@ -609,6 +609,7 @@ Table of Contents
 - [https://dev.to/aws-builders/system-design-for-devops-engineers-45lh?ref=dailydev](https://dev.to/aws-builders/system-design-for-devops-engineers-45lh?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/learn-software-design-basics/](https://www.freecodecamp.org/news/learn-software-design-basics/)<br>
 - [https://github.com/donnemartin/system-design-primer?ref=dailydev](https://github.com/donnemartin/system-design-primer?ref=dailydev)<br>
+- [https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81?ref=dailydev](https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
