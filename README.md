@@ -159,6 +159,9 @@ Table of Contents
 - [https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl?ref=dailydev](https://dev.to/code42cate/5-awesome-docker-tools-to-make-your-life-easier-22kl?ref=dailydev)<br>
 - [https://last9.io/blog/top-10-docker-alternatives/?ref=dailydev](https://last9.io/blog/top-10-docker-alternatives/?ref=dailydev)<br>
 
+## Docker learn
+- [https://www.youtube.com/watch?v=DQdB7wFEygo](https://www.youtube.com/watch?v=DQdB7wFEygo)<br>
+
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
