@@ -214,6 +214,7 @@ Table of Contents
 - [https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60?ref=dailydev](https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60?ref=dailydev)<br>
 - [https://blog.bytebytego.com/p/kubernetes-made-easy-a-beginners?utm_source=substack&utm_medium=email](https://blog.bytebytego.com/p/kubernetes-made-easy-a-beginners?utm_source=substack&utm_medium=email)<br>
 - [https://devtron.ai/blog/kubernetes-deployment-guide/?ref=dailydev](https://devtron.ai/blog/kubernetes-deployment-guide/?ref=dailydev)<br>
+- [https://dev.to/cicube/mastering-kubectl-logs-a-devops-engineers-guide-4f6h?context=digest](https://dev.to/cicube/mastering-kubectl-logs-a-devops-engineers-guide-4f6h?context=digest)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
