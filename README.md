@@ -640,4 +640,7 @@ Table of Contents
 ## Dev-ops github
 - [https://github.com/bregman-arie/devops-exercises?ref=dailydev](https://github.com/bregman-arie/devops-exercises?ref=dailydev)<br>
 
+## Python dev-ops
+- [https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm?context=digest](https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm?context=digest)<br>
+
 
