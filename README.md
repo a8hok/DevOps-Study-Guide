@@ -642,6 +642,7 @@ Table of Contents
 ## Architecture
 - [https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn?ref=dailydev](https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn?ref=dailydev)<br>
 - [https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/?ref=dailydev](https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/?ref=dailydev)<br>
+- [https://medium.com/nerd-for-tech/software-architecture-for-developers-d1d84c108df4](https://medium.com/nerd-for-tech/software-architecture-for-developers-d1d84c108df4)<br>
 
 ## Dev-ops github
 - [https://github.com/bregman-arie/devops-exercises?ref=dailydev](https://github.com/bregman-arie/devops-exercises?ref=dailydev)<br>
