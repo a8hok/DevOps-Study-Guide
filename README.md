@@ -313,6 +313,7 @@ Table of Contents
 - [https://awstip.com/power-of-math-aws-project-f0b782f899c6](https://awstip.com/power-of-math-aws-project-f0b782f899c6)<br>
 - [https://implementing.substack.com/p/how-to-setup-serverless-framework?ref=dailydev](https://implementing.substack.com/p/how-to-setup-serverless-framework?ref=dailydev)<br>
 - [https://medium.com/javarevisited/top-6-courses-to-learn-prometheus-in-2025-9d8155000d68](https://medium.com/javarevisited/top-6-courses-to-learn-prometheus-in-2025-9d8155000d68)<br>
+- [https://www.freecodecamp.org/news/aws-solutions-architect-professional-sap-c02-certification-course/](https://www.freecodecamp.org/news/aws-solutions-architect-professional-sap-c02-certification-course/)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
