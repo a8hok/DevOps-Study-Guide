@@ -620,6 +620,7 @@ Table of Contents
 - [https://blog.bytebytego.com/p/ep156-software-architect-knowledge?ref=dailydev](https://blog.bytebytego.com/p/ep156-software-architect-knowledge?ref=dailydev)<br>
 - [https://medium.com/javarevisited/system-design-essentials-the-big-5-78d242f7fc6d](https://medium.com/javarevisited/system-design-essentials-the-big-5-78d242f7fc6d)<br>
 - [https://medium.com/@safallwa/start-learning-system-design-easily-30-core-concepts-simplified-03ffca45090a](https://medium.com/@safallwa/start-learning-system-design-easily-30-core-concepts-simplified-03ffca45090a)<br>
+- [https://medium.com/javarevisited/system-design-interview-cheat-sheet-2025-edition-key-concepts-books-courses-resources-2b582cd6ecd3](https://medium.com/javarevisited/system-design-interview-cheat-sheet-2025-edition-key-concepts-books-courses-resources-2b582cd6ecd3)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
