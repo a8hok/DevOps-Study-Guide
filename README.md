@@ -644,6 +644,7 @@ Table of Contents
 
 ## VPN
 - [https://infosecwriteups.com/build-your-own-secure-vpn-a-complete-guide-to-enhanced-online-privacy-ab7925b5f873](https://infosecwriteups.com/build-your-own-secure-vpn-a-complete-guide-to-enhanced-online-privacy-ab7925b5f873)<br>
+- [https://dev.to/tallytarik/how-to-detect-vpn-users-on-your-websiteapp-43bh?ref=dailydev](https://dev.to/tallytarik/how-to-detect-vpn-users-on-your-websiteapp-43bh?ref=dailydev)<br>
 
 ## Architecture
 - [https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn?ref=dailydev](https://blog.bytebytego.com/p/ep151-24-good-resources-to-learn?ref=dailydev)<br>
