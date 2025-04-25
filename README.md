@@ -469,6 +469,7 @@ Table of Contents
 - [https://blog.amigoscode.com/p/mircroservices-best-practices?r=22x1kh&ref=dailydev&triedRedirect=true](https://blog.amigoscode.com/p/mircroservices-best-practices?r=22x1kh&ref=dailydev&triedRedirect=true)<br>
 - [https://theburningmonk.com/2024/12/how-to-e2e-test-microservices-across-bounded-contexts/?ref=dailydev](https://theburningmonk.com/2024/12/how-to-e2e-test-microservices-across-bounded-contexts/?ref=dailydev)<br>
 - [https://microservices.io/post/architecture/2025/01/06/microservices-rules-1-practice-continuous-delivery.html?ref=dailydev](https://microservices.io/post/architecture/2025/01/06/microservices-rules-1-practice-continuous-delivery.html?ref=dailydev)<br>
+- [https://medium.com/javarevisited/the-ultimate-microservices-roadmap-for-developers-in-2025-22fd13028d3f](https://medium.com/javarevisited/the-ultimate-microservices-roadmap-for-developers-in-2025-22fd13028d3f)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
