@@ -571,6 +571,7 @@ Table of Contents
 - [https://itnext.io/8-advanced-linux-command-line-tools-9d81258c3165](https://itnext.io/8-advanced-linux-command-line-tools-9d81258c3165)<br>
 - [https://linux-series.hashnode.dev/linux-commands-every-devops-engineer-must-know?ref=dailydev](https://linux-series.hashnode.dev/linux-commands-every-devops-engineer-must-know?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=CLh2ACdXNbc](https://www.youtube.com/watch?v=CLh2ACdXNbc)<br>
+- [https://last9.io/blog/linux-commands-cheat-sheet/?ref=dailydev](https://last9.io/blog/linux-commands-cheat-sheet/?ref=dailydev)<br>
 
 ## AWS exams
 - [https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev)<br>
