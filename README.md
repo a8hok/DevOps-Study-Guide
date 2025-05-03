@@ -327,6 +327,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/upload-large-files-with-aws/?ref=dailydev](https://www.freecodecamp.org/news/upload-large-files-with-aws/?ref=dailydev)<br>
 - [https://medium.com/@joudwawad/aws-s3-deep-dive-1c19ad58af40](https://medium.com/@joudwawad/aws-s3-deep-dive-1c19ad58af40)<br>
 - [https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/](https://www.freecodecamp.org/news/host-a-static-website-on-aws-s3-and-cloudfront/)<br>
+- [https://blog.bytebytego.com/p/how-amazon-s3-stores-350-trillion?ref=dailydev](https://blog.bytebytego.com/p/how-amazon-s3-stores-350-trillion?ref=dailydev)<br>
 
 ## AWS ECS
 - [https://www.honeybadger.io/blog/configure-docker-on-ecs/?ref=dailydev](https://www.honeybadger.io/blog/configure-docker-on-ecs/?ref=dailydev)<br>
