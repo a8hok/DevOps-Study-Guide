@@ -630,6 +630,7 @@ Table of Contents
 - [https://medium.com/javarevisited/10-system-design-concepts-you-must-master-before-your-next-sde-interview-with-resources-4ddea18ac2b9](https://medium.com/javarevisited/10-system-design-concepts-you-must-master-before-your-next-sde-interview-with-resources-4ddea18ac2b9)<br>
 - [https://strategizeyourcareer.com/p/from-zero-to-software-engineer-100?ref=dailydev](https://strategizeyourcareer.com/p/from-zero-to-software-engineer-100?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=1nENigGr-a0](https://www.youtube.com/watch?v=1nENigGr-a0)<br>
+- [https://medium.com/javarevisited/21-essential-system-design-building-blocks-for-software-engineers-c5f4120549c4](https://medium.com/javarevisited/21-essential-system-design-building-blocks-for-software-engineers-c5f4120549c4)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
