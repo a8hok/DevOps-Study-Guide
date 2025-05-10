@@ -668,4 +668,6 @@ Table of Contents
 ## Python dev-ops
 - [https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm?context=digest](https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm?context=digest)<br>
 
+## Devops youtube
+- [https://www.youtube.com/watch?v=86eLtYJB0cg](https://www.youtube.com/watch?v=86eLtYJB0cg)<br>
 
