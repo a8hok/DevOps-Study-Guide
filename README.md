@@ -384,6 +384,7 @@ Table of Contents
 ## AWS API gateway
 - [https://blog.bitsrc.io/implementing-the-api-gateway-pattern-in-node-js-2cb39d174094](https://blog.bitsrc.io/implementing-the-api-gateway-pattern-in-node-js-2cb39d174094)<br>
 - [https://medium.com/@prsingh1982/create-user-management-api-aws-api-gateway-b84c1791b4e0](https://medium.com/@prsingh1982/create-user-management-api-aws-api-gateway-b84c1791b4e0)<br>
+- [https://www.systemdesignbutsimple.com/p/api-gateway-in-1-diagram-and-147-words?ref=dailydev](https://www.systemdesignbutsimple.com/p/api-gateway-in-1-diagram-and-147-words?ref=dailydev)<br>
 
 ## AWS SQS
 - [https://implementing.substack.com/p/deploy-aws-sqs-queue-with-serverless?ref=dailydev](https://implementing.substack.com/p/deploy-aws-sqs-queue-with-serverless?ref=dailydev)<br>
