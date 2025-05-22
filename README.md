@@ -676,3 +676,6 @@ Table of Contents
 ## Devops youtube
 - [https://www.youtube.com/watch?v=86eLtYJB0cg](https://www.youtube.com/watch?v=86eLtYJB0cg)<br>
 
+## Network
+- [https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/?ref=dailydev](https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/?ref=dailydev)<br>
+
