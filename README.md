@@ -431,6 +431,7 @@ Table of Contents
 - [https://www.kubeblogs.com/jenkins-or-github-actions/?ref=dailydev](https://www.kubeblogs.com/jenkins-or-github-actions/?ref=dailydev)<br>
 - [https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g?ref=dailydev](https://dev.to/techlabma/github-webhook-cicd-step-by-step-guide-1j6g?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/automate-cicd-with-github-actions-streamline-workflow/?ref=dailydev](https://www.freecodecamp.org/news/automate-cicd-with-github-actions-streamline-workflow/?ref=dailydev)<br>
+- [https://spacelift.io/blog/ci-cd-best-practices?ref=dailydev](https://spacelift.io/blog/ci-cd-best-practices?ref=dailydev)<br>
 
 ## Jenkins
 - [https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev](https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev)<br>
