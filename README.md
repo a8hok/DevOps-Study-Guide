@@ -675,8 +675,9 @@ Table of Contents
 ## Python dev-ops
 - [https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm?context=digest](https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm?context=digest)<br>
 
-## Devops youtube
+## Devops resources
 - [https://www.youtube.com/watch?v=86eLtYJB0cg](https://www.youtube.com/watch?v=86eLtYJB0cg)<br>
+- [https://github.com/DhanushNehru/Ultimate-DevOps-Resources?ref=dailydev](https://github.com/DhanushNehru/Ultimate-DevOps-Resources?ref=dailydev)<br>
 
 ## Network
 - [https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/?ref=dailydev](https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/?ref=dailydev)<br>
