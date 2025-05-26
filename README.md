@@ -217,6 +217,7 @@ Table of Contents
 - [https://devtron.ai/blog/kubernetes-deployment-guide/?ref=dailydev](https://devtron.ai/blog/kubernetes-deployment-guide/?ref=dailydev)<br>
 - [https://dev.to/cicube/mastering-kubectl-logs-a-devops-engineers-guide-4f6h?context=digest](https://dev.to/cicube/mastering-kubectl-logs-a-devops-engineers-guide-4f6h?context=digest)<br>
 - [https://www.pulumi.com/blog/kubernetes-best-practices-i-wish-i-had-known-before/?ref=dailydev](https://www.pulumi.com/blog/kubernetes-best-practices-i-wish-i-had-known-before/?ref=dailydev)<br>
+- [https://blog.platformatic.dev/building-a-high-performance-streaming-service-in-kubernetes-websockets-at-scale?ref=dailydev](https://blog.platformatic.dev/building-a-high-performance-streaming-service-in-kubernetes-websockets-at-scale?ref=dailydev)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
