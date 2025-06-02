@@ -162,6 +162,7 @@ Table of Contents
 
 ## Docker learn
 - [https://www.youtube.com/watch?v=DQdB7wFEygo](https://www.youtube.com/watch?v=DQdB7wFEygo)<br>
+- [https://www.youtube.com/watch?v=FhLJ6zlmcxA](https://www.youtube.com/watch?v=FhLJ6zlmcxA)<br>
 
 
 ## K8S
