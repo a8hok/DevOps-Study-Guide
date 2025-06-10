@@ -680,6 +680,7 @@ Table of Contents
 ## Devops resources
 - [https://www.youtube.com/watch?v=86eLtYJB0cg](https://www.youtube.com/watch?v=86eLtYJB0cg)<br>
 - [https://github.com/DhanushNehru/Ultimate-DevOps-Resources?ref=dailydev](https://github.com/DhanushNehru/Ultimate-DevOps-Resources?ref=dailydev)<br>
+- [https://spacelift.io/blog/devops-platforms?ref=dailydev](https://spacelift.io/blog/devops-platforms?ref=dailydev)<br>
 
 ## Network
 - [https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/?ref=dailydev](https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/?ref=dailydev)<br>
