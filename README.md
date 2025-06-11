@@ -128,6 +128,7 @@ Table of Contents
 - [https://medium.com/@sumonigupta/why-i-am-excited-about-docker-in-2025-ba028badc2ca](https://medium.com/@sumonigupta/why-i-am-excited-about-docker-in-2025-ba028badc2ca)<br>
 - [https://last9.io/blog/container-resource-monitoring-with-docker-stats/?ref=dailydev](https://last9.io/blog/container-resource-monitoring-with-docker-stats/?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=uPHLMlqNoEA](https://www.youtube.com/watch?v=uPHLMlqNoEA)<br>
+- [https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe](https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe)<br>
 
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
