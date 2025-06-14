@@ -481,6 +481,7 @@ Table of Contents
 - [https://www.milanjovanovic.tech/blog/understanding-microservices-core-concepts-and-benefits?ref=dailydev](https://www.milanjovanovic.tech/blog/understanding-microservices-core-concepts-and-benefits?ref=dailydev)<br>
 - [https://medium.com/javarevisited/microservices-architecture-d02f2052d4bd](https://medium.com/javarevisited/microservices-architecture-d02f2052d4bd)<br>
 - [https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev](https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev)<br>
+- [https://newsletter.systemdesigncodex.com/p/essential-components-of-a-production-069?ref=dailydev](https://newsletter.systemdesigncodex.com/p/essential-components-of-a-production-069?ref=dailydev)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
