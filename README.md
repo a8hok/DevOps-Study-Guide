@@ -222,6 +222,7 @@ Table of Contents
 - [https://www.pulumi.com/blog/kubernetes-best-practices-i-wish-i-had-known-before/?ref=dailydev](https://www.pulumi.com/blog/kubernetes-best-practices-i-wish-i-had-known-before/?ref=dailydev)<br>
 - [https://blog.platformatic.dev/building-a-high-performance-streaming-service-in-kubernetes-websockets-at-scale?ref=dailydev](https://blog.platformatic.dev/building-a-high-performance-streaming-service-in-kubernetes-websockets-at-scale?ref=dailydev)<br>
 - [https://itnext.io/from-ci-to-kubernetes-catalog-building-a-composable-platform-with-gitops-and-vcluster-7e1decaa81da](https://itnext.io/from-ci-to-kubernetes-catalog-building-a-composable-platform-with-gitops-and-vcluster-7e1decaa81da)<br>
+- [https://dev.to/alialp/modern-traffic-management-with-gateway-api-in-kubernetes-19dp?context=digest](https://dev.to/alialp/modern-traffic-management-with-gateway-api-in-kubernetes-19dp?context=digest)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
