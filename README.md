@@ -226,6 +226,7 @@ Table of Contents
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
+- [https://www.onepin.io/progress/Kubernetes-Learning-Roadmap-%F0%9F%9A%A2-683ecdb187115775f3713004](https://www.onepin.io/progress/Kubernetes-Learning-Roadmap-%F0%9F%9A%A2-683ecdb187115775f3713004)<br>
 
 ## K8S with HELM
 - [https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64](https://aws.plainenglish.io/helm-your-essential-guide-to-kubernetes-package-management-aa30093dfa64)<br>
