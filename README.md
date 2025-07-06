@@ -704,4 +704,5 @@ Table of Contents
 
 ## Network
 - [https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/?ref=dailydev](https://www.freecodecamp.org/news/how-dns-works-the-internets-address-book/?ref=dailydev)<br>
+- [https://infosecwriteups.com/dns-records-3c7bcfe74b01](https://infosecwriteups.com/dns-records-3c7bcfe74b01)<br>
 
