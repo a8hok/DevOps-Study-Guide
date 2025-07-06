@@ -235,6 +235,9 @@ Table of Contents
 ## EKS
 - [https://medium.com/@seifeddinerajhi/easy-aws-permissions-for-your-eks-workloads-2671e073c5c7](https://medium.com/@seifeddinerajhi/easy-aws-permissions-for-your-eks-workloads-2671e073c5c7)<br>
 
+## K8S
+- [https://newsletter.systemdesigncodex.com/p/kubernetes-scaling-strategies?ref=dailydev](https://newsletter.systemdesigncodex.com/p/kubernetes-scaling-strategies?ref=dailydev)<br>
+
 
 ## AWS
 - [https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/](https://blog.gitguardian.com/understanding-identity-and-access-management-best-practices-cheat-sheet-included/)<br>
