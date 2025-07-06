@@ -654,6 +654,7 @@ Table of Contents
 - [https://medium.com/javarevisited/21-essential-system-design-building-blocks-for-software-engineers-c5f4120549c4](https://medium.com/javarevisited/21-essential-system-design-building-blocks-for-software-engineers-c5f4120549c4)<br>
 - [https://www.freecodecamp.org/news/learn-system-design-principles/](https://www.freecodecamp.org/news/learn-system-design-principles/)<br>
 - [https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-e3d59eca10d3](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-e3d59eca10d3)<br>
+- [https://www.systemdesignbutsimple.com/?ref=dailydev](https://www.systemdesignbutsimple.com/?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
