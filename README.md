@@ -223,6 +223,7 @@ Table of Contents
 - [https://blog.platformatic.dev/building-a-high-performance-streaming-service-in-kubernetes-websockets-at-scale?ref=dailydev](https://blog.platformatic.dev/building-a-high-performance-streaming-service-in-kubernetes-websockets-at-scale?ref=dailydev)<br>
 - [https://itnext.io/from-ci-to-kubernetes-catalog-building-a-composable-platform-with-gitops-and-vcluster-7e1decaa81da](https://itnext.io/from-ci-to-kubernetes-catalog-building-a-composable-platform-with-gitops-and-vcluster-7e1decaa81da)<br>
 - [https://dev.to/alialp/modern-traffic-management-with-gateway-api-in-kubernetes-19dp?context=digest](https://dev.to/alialp/modern-traffic-management-with-gateway-api-in-kubernetes-19dp?context=digest)<br>
+- [https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/?ref=dailydev](https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/?ref=dailydev)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
@@ -235,7 +236,7 @@ Table of Contents
 ## EKS
 - [https://medium.com/@seifeddinerajhi/easy-aws-permissions-for-your-eks-workloads-2671e073c5c7](https://medium.com/@seifeddinerajhi/easy-aws-permissions-for-your-eks-workloads-2671e073c5c7)<br>
 
-## K8S
+## K8S scaling
 - [https://newsletter.systemdesigncodex.com/p/kubernetes-scaling-strategies?ref=dailydev](https://newsletter.systemdesigncodex.com/p/kubernetes-scaling-strategies?ref=dailydev)<br>
 
 
