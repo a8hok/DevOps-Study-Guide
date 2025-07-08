@@ -494,6 +494,7 @@ Table of Contents
 - [https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev](https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev)<br>
 - [https://newsletter.systemdesigncodex.com/p/essential-components-of-a-production-069?ref=dailydev](https://newsletter.systemdesigncodex.com/p/essential-components-of-a-production-069?ref=dailydev)<br>
 - [https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev](https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev)<br>
+- [https://www.influxdata.com/blog/rust-monolith-migration-influxdb/](https://www.influxdata.com/blog/rust-monolith-migration-influxdb/)<br>
 
 ## VIM
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
