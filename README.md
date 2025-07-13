@@ -697,6 +697,7 @@ Table of Contents
 - [https://github.com/bregman-arie/devops-exercises?ref=dailydev](https://github.com/bregman-arie/devops-exercises?ref=dailydev)<br>
 - [https://spacelift.io/blog/gitops-best-practices?ref=dailydev](https://spacelift.io/blog/gitops-best-practices?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/from-commit-to-production-hands-on-gitops-promotion-with-github-actions-argo-cd-helm-and-kargo/?ref=dailydev](https://www.freecodecamp.org/news/from-commit-to-production-hands-on-gitops-promotion-with-github-actions-argo-cd-helm-and-kargo/?ref=dailydev)<br>
+- [https://last9.io/blog/log-monitoring-tools-for-developers/?ref=dailydev](https://last9.io/blog/log-monitoring-tools-for-developers/?ref=dailydev)<br>
 
 ## Python dev-ops
 - [https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm?context=digest](https://dev.to/prodevopsguytech/python-for-devops-a-comprehensive-guide-from-beginner-to-advanced-2pmm?context=digest)<br>
