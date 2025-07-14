@@ -606,6 +606,9 @@ Table of Contents
 - [https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/?ref=dailydev)<br>
 - [https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d](https://medium.com/javarevisited/top-10-courses-to-learn-amazon-web-services-aws-cloud-in-2020-best-and-free-317f10d7c21d)<br>
 
+## AWS resources
+- [https://awsfundamentals.com/blog/aws-getting-started?ref=dailydev](https://awsfundamentals.com/blog/aws-getting-started?ref=dailydev)<br>
+
 ## Load balancer
 - [https://medium.com/codenx/load-balancer-vs-reverse-proxy-vs-api-gateway-fcb79912abbf](https://medium.com/codenx/load-balancer-vs-reverse-proxy-vs-api-gateway-fcb79912abbf)<br>
 - [https://blog.quastor.org/p/the-architecture-of-dropbox-s-load-balancing-service-d460?ref=dailydev](https://blog.quastor.org/p/the-architecture-of-dropbox-s-load-balancing-service-d460?ref=dailydev)<br>
