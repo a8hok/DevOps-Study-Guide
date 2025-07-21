@@ -685,6 +685,7 @@ Table of Contents
 - [https://newsletter.systemdesign.one/p/how-does-nginx-work?ref=dailydev](https://newsletter.systemdesign.one/p/how-does-nginx-work?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=q8OleYuqntY](https://www.youtube.com/watch?v=q8OleYuqntY)<br>
 - [https://last9.io/blog/nginx-logging/?ref=dailydev](https://last9.io/blog/nginx-logging/?ref=dailydev)<br>
+- [https://www.youtube.com/watch?v=PNhq_4d-5ek](https://www.youtube.com/watch?v=PNhq_4d-5ek)<br>
 
 ## VPN
 - [https://infosecwriteups.com/build-your-own-secure-vpn-a-complete-guide-to-enhanced-online-privacy-ab7925b5f873](https://infosecwriteups.com/build-your-own-secure-vpn-a-complete-guide-to-enhanced-online-privacy-ab7925b5f873)<br>
