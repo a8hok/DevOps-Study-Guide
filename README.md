@@ -167,6 +167,9 @@ Table of Contents
 - [https://www.youtube.com/watch?v=DQdB7wFEygo](https://www.youtube.com/watch?v=DQdB7wFEygo)<br>
 - [https://www.youtube.com/watch?v=FhLJ6zlmcxA](https://www.youtube.com/watch?v=FhLJ6zlmcxA)<br>
 
+## Docker beginners
+- [https://levelup.gitconnected.com/docker-containers-and-images-21a3a2542cba](https://levelup.gitconnected.com/docker-containers-and-images-21a3a2542cba)<br>
+
 
 ## K8S
 - [https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda](https://awstip.com/basics-of-kubernetes-beginners-1381ade3ffda)<br>
