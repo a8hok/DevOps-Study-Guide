@@ -578,6 +578,7 @@ Table of Contents
 - [https://itsfoss.com/bash-scripting-tutorial/](https://itsfoss.com/bash-scripting-tutorial/)<br>
 - [https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)<br>
 - [https://dev.to/arindam_1729/learn-bash-scripting-in-10-minutes-1jec?ref=dailydev](https://dev.to/arindam_1729/learn-bash-scripting-in-10-minutes-1jec?ref=dailydev)<br>
+- [https://www.digitalocean.com/community/tutorials/what-is-bash?ref=dailydev](https://www.digitalocean.com/community/tutorials/what-is-bash?ref=dailydev)<br>
 
 ## Azure
 - [https://dev.to/shivamchamoli18/top-azure-interview-questions-563h](https://dev.to/shivamchamoli18/top-azure-interview-questions-563h)<br>
