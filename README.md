@@ -721,3 +721,6 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/?ref=dailydev](https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/?ref=dailydev)<br>
 - [https://infosecwriteups.com/dns-records-3c7bcfe74b01](https://infosecwriteups.com/dns-records-3c7bcfe74b01)<br>
 
+## Terminal
+- [https://dev.to/abreujp/build-a-cross-platform-markdown-notes-system-with-syncthing-neovim-markor-offline-fast--3gme?ref=dailydev](https://dev.to/abreujp/build-a-cross-platform-markdown-notes-system-with-syncthing-neovim-markor-offline-fast--3gme?ref=dailydev)<br>
+
