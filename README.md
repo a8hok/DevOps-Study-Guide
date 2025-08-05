@@ -228,6 +228,7 @@ Table of Contents
 - [https://itnext.io/from-ci-to-kubernetes-catalog-building-a-composable-platform-with-gitops-and-vcluster-7e1decaa81da](https://itnext.io/from-ci-to-kubernetes-catalog-building-a-composable-platform-with-gitops-and-vcluster-7e1decaa81da)<br>
 - [https://dev.to/alialp/modern-traffic-management-with-gateway-api-in-kubernetes-19dp?context=digest](https://dev.to/alialp/modern-traffic-management-with-gateway-api-in-kubernetes-19dp?context=digest)<br>
 - [https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/?ref=dailydev](https://www.freecodecamp.org/news/kubernetes-networking-tutorial-for-developers/?ref=dailydev)<br>
+- [https://iximiuz.com/en/posts/kubernetes-vs-age-old-infra-patterns/?ref=dailydev](https://iximiuz.com/en/posts/kubernetes-vs-age-old-infra-patterns/?ref=dailydev)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
