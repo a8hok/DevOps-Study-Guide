@@ -333,6 +333,7 @@ Table of Contents
 - [https://dev.to/madgan95/amazon-web-services-2d7m?context=digest](https://dev.to/madgan95/amazon-web-services-2d7m?context=digest)<br>
 - [https://dev.to/dandipangestu/pixelcascade-building-a-scalable-image-processing-pipeline-with-aws-fanout-architecture-511f?ref=dailydev](https://dev.to/dandipangestu/pixelcascade-building-a-scalable-image-processing-pipeline-with-aws-fanout-architecture-511f?ref=dailydev)<br>
 - [https://dev.to/devops_descent/top-18-cheapest-aws-services-4pib?context=digest](https://dev.to/devops_descent/top-18-cheapest-aws-services-4pib?context=digest)<br>
+- [https://awsfundamentals.com/blog/amazon-q-architecture-diagrams?ref=dailydev](https://awsfundamentals.com/blog/amazon-q-architecture-diagrams?ref=dailydev)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
