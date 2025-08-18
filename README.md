@@ -130,6 +130,7 @@ Table of Contents
 - [https://www.youtube.com/watch?v=uPHLMlqNoEA](https://www.youtube.com/watch?v=uPHLMlqNoEA)<br>
 - [https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe](https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe)<br>
 - [https://spacelift.io/blog/podman-vs-docker?ref=dailydev](https://spacelift.io/blog/podman-vs-docker?ref=dailydev)<br>
+- [https://jsdev.space/docker-24-plus-guide/?ref=dailydev](https://jsdev.space/docker-24-plus-guide/?ref=dailydev)<br>
 
 ## Docker NodeJS
 - [https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j](https://dzone.com/articles/ci-cd-docker-how-to-create-a-ci-cd-pipeline-with-j)<br>
