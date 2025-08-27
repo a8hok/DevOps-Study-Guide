@@ -598,6 +598,7 @@ Table of Contents
 - [https://newsletter.systemdesigncodex.com/p/message-queues-and-message-brokers?ref=dailydev](https://newsletter.systemdesigncodex.com/p/message-queues-and-message-brokers?ref=dailydev)<br>
 - [https://levelup.gitconnected.com/message-queues-in-system-design-0440a1221023](https://levelup.gitconnected.com/message-queues-in-system-design-0440a1221023)<br>
 - [https://medium.com/@himanshusingour7/how-kafka-saved-our-payment-system-and-helped-us-scale-to-10-million-users-d0da35d75bc7](https://medium.com/@himanshusingour7/how-kafka-saved-our-payment-system-and-helped-us-scale-to-10-million-users-d0da35d75bc7)<br>
+- [https://newsletter.systemdesigncodex.com/p/a-quick-guide-to-rabbitmq?ref=dailydev](https://newsletter.systemdesigncodex.com/p/a-quick-guide-to-rabbitmq?ref=dailydev)<br>
 
 ## Linux
 - [https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-f88436a2e213](https://aws.plainenglish.io/linux-cheat-sheet-for-devops-engineers-f88436a2e213)<br>
