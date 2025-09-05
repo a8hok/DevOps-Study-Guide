@@ -688,6 +688,7 @@ Table of Contents
 - [https://www.youtube.com/watch?v=1J2YOV6LcwY](https://www.youtube.com/watch?v=1J2YOV6LcwY)<br>
 - [https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/?ref=dailydev](https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/?ref=dailydev)<br>
  - [https://devops-daily.com/roadmap?ref=dailydev](https://devops-daily.com/roadmap?ref=dailydev)<br>
+ - [https://www.youtube.com/watch?v=zFa9_K8BS8I](https://www.youtube.com/watch?v=zFa9_K8BS8I)<br>
 
 ## ngnix
 - [https://newsletter.scalablethread.com/p/how-nginx-handles-thousands-of-concurrent?ref=dailydev](https://newsletter.scalablethread.com/p/how-nginx-handles-thousands-of-concurrent?ref=dailydev)<br>
