@@ -683,6 +683,7 @@ Table of Contents
 
 ## Dev-ops youtube
 - [https://www.youtube.com/watch?v=xo5V9g9joFs](https://www.youtube.com/watch?v=xo5V9g9joFs)<br>
+- [https://www.youtube.com/watch?v=Tq0vZU7Hp_M](https://www.youtube.com/watch?v=Tq0vZU7Hp_M)<br>
 
 ## Dev ops roadmap
 - [https://github.com/milanm/DevOps-Roadmap/tree/master](https://github.com/milanm/DevOps-Roadmap/tree/master)<br>
