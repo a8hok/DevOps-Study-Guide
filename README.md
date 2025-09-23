@@ -71,6 +71,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/what-is-dns-for-beginners/](https://www.freecodecamp.org/news/what-is-dns-for-beginners/)<br>
 - [https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name?ref=dailydev](https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name?ref=dailydev)<br>
 - [https://dev.to/aws-builders/devsecops-with-aws-iac-at-scale-building-your-own-platform-part-1-1j87?ref=dailydev](https://dev.to/aws-builders/devsecops-with-aws-iac-at-scale-building-your-own-platform-part-1-1j87?ref=dailydev)<br>
+- [https://blog.algomaster.io/p/how-dns-actually-works?ref=dailydev](https://blog.algomaster.io/p/how-dns-actually-works?ref=dailydev)<br>
 
 
 ## Docker
