@@ -676,6 +676,7 @@ Table of Contents
 - [https://github.com/donnemartin/system-design-primer?ref=dailydev](https://github.com/donnemartin/system-design-primer?ref=dailydev)<br>
 - [https://www.systemdesignbutsimple.com/?ref=dailydev](https://www.systemdesignbutsimple.com/?ref=dailydev)<br>
 - [https://medium.com/@himanshusingour7/how-i-learned-system-design-d7444d454367](https://medium.com/@himanshusingour7/how-i-learned-system-design-d7444d454367)<br>
+- [https://newsletter.systemdesign.one/p/11-system-design-concepts-explained?ref=dailydev](https://newsletter.systemdesign.one/p/11-system-design-concepts-explained?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
