@@ -691,7 +691,7 @@ Table of Contents
 ## Dev-ops youtube
 - [https://www.youtube.com/watch?v=xo5V9g9joFs](https://www.youtube.com/watch?v=xo5V9g9joFs)<br>
 - [https://www.youtube.com/watch?v=Tq0vZU7Hp_M](https://www.youtube.com/watch?v=Tq0vZU7Hp_M)<br>
-
+- [https://www.youtube.com/watch?v=OGYEXGy8ca4](https://www.youtube.com/watch?v=OGYEXGy8ca4)<br>
 ## Dev ops roadmap
 - [https://github.com/milanm/DevOps-Roadmap/tree/master](https://github.com/milanm/DevOps-Roadmap/tree/master)<br>
 - [https://www.youtube.com/watch?v=1J2YOV6LcwY](https://www.youtube.com/watch?v=1J2YOV6LcwY)<br>
@@ -742,4 +742,6 @@ Table of Contents
 
 ## Security
 - [https://www.freecodecamp.org/news/learn-devsecops-and-api-security/](https://www.freecodecamp.org/news/learn-devsecops-and-api-security/)<br>
+
+
 
