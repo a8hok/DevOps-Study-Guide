@@ -685,6 +685,7 @@ Table of Contents
 - [https://newsletter.systemdesign.one/p/spotify-system-design?ref=dailydev](https://newsletter.systemdesign.one/p/spotify-system-design?ref=dailydev)<br>
 - [https://tkdodo.eu/blog/designing-design-systems?ref=dailydev](https://tkdodo.eu/blog/designing-design-systems?ref=dailydev)<br>
 - [https://shefali.dev/frontend-system-design/](https://shefali.dev/frontend-system-design/)<br>
+- [https://newsletter.systemdesign.one/p/frontend-system-design?ref=dailydev](https://newsletter.systemdesign.one/p/frontend-system-design?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
