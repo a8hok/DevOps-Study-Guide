@@ -511,6 +511,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/vim-beginners-guide/](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
 - [https://www.freecodecamp.org/news/vim-language-and-motions-explained/](https://www.freecodecamp.org/news/vim-language-and-motions-explained/)<br>
 - [https://vim.rtorr.com/](https://vim.rtorr.com/)<br>
+- [https://www.ssp.sh/brain/neovim/?ref=dailydev](https://www.ssp.sh/brain/neovim/?ref=dailydev)<br>
 
 ## Protocols
 - [https://www.freecodecamp.org/news/http-networking-protocol-course/](https://www.freecodecamp.org/news/http-networking-protocol-course/)<br>
@@ -696,6 +697,7 @@ Table of Contents
 - [https://www.youtube.com/watch?v=xo5V9g9joFs](https://www.youtube.com/watch?v=xo5V9g9joFs)<br>
 - [https://www.youtube.com/watch?v=Tq0vZU7Hp_M](https://www.youtube.com/watch?v=Tq0vZU7Hp_M)<br>
 - [https://www.youtube.com/watch?v=OGYEXGy8ca4](https://www.youtube.com/watch?v=OGYEXGy8ca4)<br>
+
 ## Dev ops roadmap
 - [https://github.com/milanm/DevOps-Roadmap/tree/master](https://github.com/milanm/DevOps-Roadmap/tree/master)<br>
 - [https://www.youtube.com/watch?v=1J2YOV6LcwY](https://www.youtube.com/watch?v=1J2YOV6LcwY)<br>
