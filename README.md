@@ -698,6 +698,7 @@ Table of Contents
 - [https://www.youtube.com/watch?v=xo5V9g9joFs](https://www.youtube.com/watch?v=xo5V9g9joFs)<br>
 - [https://www.youtube.com/watch?v=Tq0vZU7Hp_M](https://www.youtube.com/watch?v=Tq0vZU7Hp_M)<br>
 - [https://www.youtube.com/watch?v=OGYEXGy8ca4](https://www.youtube.com/watch?v=OGYEXGy8ca4)<br>
+- [https://www.youtube.com/watch?v=znRUfIaY5i4](https://www.youtube.com/watch?v=znRUfIaY5i4)<br>
 
 ## Dev ops roadmap
 - [https://github.com/milanm/DevOps-Roadmap/tree/master](https://github.com/milanm/DevOps-Roadmap/tree/master)<br>
