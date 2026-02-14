@@ -233,6 +233,7 @@ Table of Contents
 - [https://iximiuz.com/en/posts/kubernetes-vs-age-old-infra-patterns/?ref=dailydev](https://iximiuz.com/en/posts/kubernetes-vs-age-old-infra-patterns/?ref=dailydev)<br>
 - [https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe](https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe)<br>
 - [https://devtron.ai/blog/simplifying-kubernetes-ci-cd-pipelines/?ref=dailydev](https://devtron.ai/blog/simplifying-kubernetes-ci-cd-pipelines/?ref=dailydev)<br>
+- [https://github.com/kubewall/kubewall](https://github.com/kubewall/kubewall)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
