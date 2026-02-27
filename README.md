@@ -234,6 +234,7 @@ Table of Contents
 - [https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe](https://medium.com/javarevisited/how-i-finally-understood-docker-and-kubernetes-5debb13cacfe)<br>
 - [https://devtron.ai/blog/simplifying-kubernetes-ci-cd-pipelines/?ref=dailydev](https://devtron.ai/blog/simplifying-kubernetes-ci-cd-pipelines/?ref=dailydev)<br>
 - [https://github.com/kubewall/kubewall](https://github.com/kubewall/kubewall)<br>
+- [https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/](https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
