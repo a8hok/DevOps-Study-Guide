@@ -730,6 +730,7 @@ Table of Contents
 - [https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/?ref=dailydev](https://www.workingsoftware.dev/fundamental-techniques-for-software-architects/?ref=dailydev)<br>
 - [https://medium.com/nerd-for-tech/software-architecture-for-developers-d1d84c108df4](https://medium.com/nerd-for-tech/software-architecture-for-developers-d1d84c108df4)<br>
 - [https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev](https://blog.amigoscode.com/p/7-architectural-patterns-you-must?ref=dailydev)<br>
+- [https://blog.bytebytego.com/p/how-linkedin-built-a-next-gen-service?ref=dailydev](https://blog.bytebytego.com/p/how-linkedin-built-a-next-gen-service?ref=dailydev)<br>
 
 ## Dev-ops github
 - [https://github.com/bregman-arie/devops-exercises?ref=dailydev](https://github.com/bregman-arie/devops-exercises?ref=dailydev)<br>
