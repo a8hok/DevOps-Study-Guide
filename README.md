@@ -462,6 +462,7 @@ Table of Contents
 - [https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev](https://devtron.ai/blog/microservices-ci-cd-best-practices/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-debug-cicd-pipelines-handbook/?ref=dailydev](https://www.freecodecamp.org/news/how-to-debug-cicd-pipelines-handbook/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/build-a-production-ready-pipeline-with-docker-cicd-and-hostinger/?ref=dailydev](https://www.freecodecamp.org/news/build-a-production-ready-pipeline-with-docker-cicd-and-hostinger/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/?ref=dailydev](https://www.freecodecamp.org/news/ci-cd-in-production-with-jenkins/?ref=dailydev)<br>
 
 ## Jenkins
 - [https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev](https://devtron.ai/blog/what-is-jenkins-a-quick-guide-for-ci-cd-with-jenkins/?ref=dailydev)<br>
