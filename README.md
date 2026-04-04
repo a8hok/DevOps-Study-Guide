@@ -236,6 +236,7 @@ Table of Contents
 - [https://github.com/kubewall/kubewall](https://github.com/kubewall/kubewall)<br>
 - [https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/](https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/)<br>
 - [https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/?ref=dailydev](https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/?ref=dailydev)<br>
+- [https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model/?ref=dailydev](https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model/?ref=dailydev)<br>
 
 ## K8S cheatSheet
 - [https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7](https://aws.plainenglish.io/kubernetes-cheat-sheet-7e3dbbf742a7)<br>
