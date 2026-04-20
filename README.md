@@ -699,6 +699,7 @@ Table of Contents
 - [https://shefali.dev/frontend-system-design/](https://shefali.dev/frontend-system-design/)<br>
 - [https://newsletter.systemdesign.one/p/frontend-system-design?ref=dailydev](https://newsletter.systemdesign.one/p/frontend-system-design?ref=dailydev)<br>
 - [https://blog.bytebytego.com/p/how-uber-serves-over-150-million?ref=dailydev](https://blog.bytebytego.com/p/how-uber-serves-over-150-million?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/learn-software-system-design/?ref=dailydev](https://www.freecodecamp.org/news/learn-software-system-design/?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
