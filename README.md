@@ -590,6 +590,7 @@ Table of Contents
 - [https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31?ref=dailydev](https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31?ref=dailydev)<br>
 - [https://spacelift.io/blog/terraform-devops?ref=dailydev](https://spacelift.io/blog/terraform-devops?ref=dailydev)<br>
 - [https://devdojo.com/bobbyiliev/introduction-to-terraform-from-zero-to-hero-ebook](https://devdojo.com/bobbyiliev/introduction-to-terraform-from-zero-to-hero-ebook)<br>
+- [https://thomasthornton.cloud/terraform-module-design-is-the-hard-part-so-i-built-an-agent-skill-for-it/?ref=dailydev](https://thomasthornton.cloud/terraform-module-design-is-the-hard-part-so-i-built-an-agent-skill-for-it/?ref=dailydev)<br>
 
 ## Bash Scripting
 - [https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/](https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/)<br>
