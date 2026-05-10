@@ -556,6 +556,7 @@ Table of Contents
 ## Dev ops books
 - [https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc](https://dev.to/javinpaul/my-favorite-books-to-learn-docker-and-kubernetes-3bdc)<br>
 - [https://aws.plainenglish.io/devops-project-02-eaba586ec8dd](https://aws.plainenglish.io/devops-project-02-eaba586ec8dd)<br>
+- [https://devops-daily.com/posts/top-github-devops-learning-repos-2026?ref=dailydev](https://devops-daily.com/posts/top-github-devops-learning-repos-2026?ref=dailydev)<br>
 
 ## Scaling
 - [https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling-b53](https://blog.bytebytego.com/p/from-0-to-millions-a-guide-to-scaling-b53)<br>
