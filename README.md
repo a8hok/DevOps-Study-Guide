@@ -705,6 +705,7 @@ Table of Contents
 - [https://blog.bytebytego.com/p/how-uber-serves-over-150-million?ref=dailydev](https://blog.bytebytego.com/p/how-uber-serves-over-150-million?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/learn-software-system-design/?ref=dailydev](https://www.freecodecamp.org/news/learn-software-system-design/?ref=dailydev)<br>
 - [https://newsletter.optimistengineer.com/p/symptoms-of-bad-software-design?ref=dailydev](https://newsletter.optimistengineer.com/p/symptoms-of-bad-software-design?ref=dailydev)<br>
+- [https://blog.codingconfessions.com/p/virtual-memory?ref=dailydev](https://blog.codingconfessions.com/p/virtual-memory?ref=dailydev)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
