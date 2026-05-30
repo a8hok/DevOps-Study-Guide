@@ -345,6 +345,7 @@ Table of Contents
 - [https://dev.to/dandipangestu/pixelcascade-building-a-scalable-image-processing-pipeline-with-aws-fanout-architecture-511f?ref=dailydev](https://dev.to/dandipangestu/pixelcascade-building-a-scalable-image-processing-pipeline-with-aws-fanout-architecture-511f?ref=dailydev)<br>
 - [https://dev.to/devops_descent/top-18-cheapest-aws-services-4pib?context=digest](https://dev.to/devops_descent/top-18-cheapest-aws-services-4pib?context=digest)<br>
 - [https://awsfundamentals.com/blog/amazon-q-architecture-diagrams?ref=dailydev](https://awsfundamentals.com/blog/amazon-q-architecture-diagrams?ref=dailydev)<br>
+- [https://awsfundamentals.com/blog/?_rm=eyJ2IjoxLCJ2aWQiOiI1ZTBmYThlNGM1Y2U0M2I2YWZmODJjOGRlODZiOGExYSIsInBpZCI6dHJ1ZSwiZGltcyI6eyJkaW1fZDc2OTZvODMiOlsic2VnX2I1YnJueGJ0Il0sImRpbV9weTlkY2N1YyI6WyJzZWdfN3V6bWZ1NXQiXSwiZGltX3k0a2w1NXl0IjpbInNlZ19xbXZvOWs2ZSJdLCJkaW1feno0endtYXciOlsic2VnX3d4ZnJrYzZxIl0sImRpbV8zcWlmbm45eSI6WyJzZWdfMDVheGxqcHoiXX19](https://awsfundamentals.com/blog/?_rm=eyJ2IjoxLCJ2aWQiOiI1ZTBmYThlNGM1Y2U0M2I2YWZmODJjOGRlODZiOGExYSIsInBpZCI6dHJ1ZSwiZGltcyI6eyJkaW1fZDc2OTZvODMiOlsic2VnX2I1YnJueGJ0Il0sImRpbV9weTlkY2N1YyI6WyJzZWdfN3V6bWZ1NXQiXSwiZGltX3k0a2w1NXl0IjpbInNlZ19xbXZvOWs2ZSJdLCJkaW1feno0endtYXciOlsic2VnX3d4ZnJrYzZxIl0sImRpbV8zcWlmbm45eSI6WyJzZWdfMDVheGxqcHoiXX19)<br>
 
 ## AWS S3
 - [https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7](https://code.likeagirl.io/a-step-by-step-guide-to-host-a-static-website-on-aws-s3-using-terraform-5fa557ea00c7)<br>
