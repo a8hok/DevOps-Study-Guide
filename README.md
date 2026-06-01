@@ -552,6 +552,7 @@ Table of Contents
 - [https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code](https://dzone.com/articles/a-beginners-guide-to-infrastructure-as-code)<br>
 - [https://www.akshaykhot.com/how-csrf-attack-works-cross-site-request-forgery/](https://www.akshaykhot.com/how-csrf-attack-works-cross-site-request-forgery/)<br>
 - [https://www.freecodecamp.org/news/infrastructure-as-code-basics/](https://www.freecodecamp.org/news/infrastructure-as-code-basics/)<br>
+- [https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project?ref=dailydev](https://www.freecodecamp.org/news/how-to-avoid-rebuilding-infrastructure-for-every-new-project?ref=dailydev)<br>
 
 
 ## Dev ops books
