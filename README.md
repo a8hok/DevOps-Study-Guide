@@ -239,6 +239,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/?ref=dailydev](https://www.freecodecamp.org/news/master-kubernetes-through-production-ready-practice/?ref=dailydev)<br>
 - [https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model/?ref=dailydev](https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model/?ref=dailydev)<br>
 - [https://www.giantswarm.io/blog/live-migrating-hundreds-of-kubernetes-clusters-to-cluster-api?ref=dailydev](https://www.giantswarm.io/blog/live-migrating-hundreds-of-kubernetes-clusters-to-cluster-api?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic?ref=dailydev](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic?ref=dailydev)<br>
   
 
 ## K8S cheatSheet
