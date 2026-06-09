@@ -524,6 +524,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/vim-language-and-motions-explained/](https://www.freecodecamp.org/news/vim-language-and-motions-explained/)<br>
 - [https://vim.rtorr.com/](https://vim.rtorr.com/)<br>
 - [https://www.ssp.sh/brain/neovim/?ref=dailydev](https://www.ssp.sh/brain/neovim/?ref=dailydev)<br>
+- [http://freecodecamp.org/news/mastering-vim-your-guide-to-efficient-text-editing/](http://freecodecamp.org/news/mastering-vim-your-guide-to-efficient-text-editing/)<br>
 
 ## Protocols
 - [https://www.freecodecamp.org/news/http-networking-protocol-course/](https://www.freecodecamp.org/news/http-networking-protocol-course/)<br>
