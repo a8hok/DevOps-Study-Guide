@@ -241,6 +241,7 @@ Table of Contents
 - [https://www.giantswarm.io/blog/live-migrating-hundreds-of-kubernetes-clusters-to-cluster-api?ref=dailydev](https://www.giantswarm.io/blog/live-migrating-hundreds-of-kubernetes-clusters-to-cluster-api?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic?ref=dailydev](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic?ref=dailydev)<br>
 - [https://medium.com/life-with-tech/kubernetes-explained-core-concepts-architecture-and-components-c9b32ab9d5c0](https://medium.com/life-with-tech/kubernetes-explained-core-concepts-architecture-and-components-c9b32ab9d5c0)<br>
+- [https://riasharma09.medium.com/advanced-devops-kubernetes-interview-questions-2026-real-scenarios-failures-how-engineers-3f706e5ca0e7](https://riasharma09.medium.com/advanced-devops-kubernetes-interview-questions-2026-real-scenarios-failures-how-engineers-3f706e5ca0e7)<br>
   
 
 ## K8S cheatSheet
