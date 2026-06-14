@@ -240,6 +240,7 @@ Table of Contents
 - [https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model/?ref=dailydev](https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model/?ref=dailydev)<br>
 - [https://www.giantswarm.io/blog/live-migrating-hundreds-of-kubernetes-clusters-to-cluster-api?ref=dailydev](https://www.giantswarm.io/blog/live-migrating-hundreds-of-kubernetes-clusters-to-cluster-api?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic?ref=dailydev](https://www.freecodecamp.org/news/how-to-encrypt-kubernetes-traffic?ref=dailydev)<br>
+- [https://medium.com/life-with-tech/kubernetes-explained-core-concepts-architecture-and-components-c9b32ab9d5c0](https://medium.com/life-with-tech/kubernetes-explained-core-concepts-architecture-and-components-c9b32ab9d5c0)<br>
   
 
 ## K8S cheatSheet
