@@ -774,6 +774,7 @@ Table of Contents
 ## Terminal
 - [https://dev.to/abreujp/build-a-cross-platform-markdown-notes-system-with-syncthing-neovim-markor-offline-fast--3gme?ref=dailydev](https://dev.to/abreujp/build-a-cross-platform-markdown-notes-system-with-syncthing-neovim-markor-offline-fast--3gme?ref=dailydev)<br>
 - [https://www.datacamp.com/cheat-sheet/bash-and-zsh-shell-terminal-basics-cheat-sheet](https://www.datacamp.com/cheat-sheet/bash-and-zsh-shell-terminal-basics-cheat-sheet)<br>
+- [https://freek.dev/3054-a-terminal-setup-for-the-modern-developer-2026-edition?ref=dailydev](https://freek.dev/3054-a-terminal-setup-for-the-modern-developer-2026-edition?ref=dailydev)<br>
 
 ## Security
 - [https://www.freecodecamp.org/news/learn-devsecops-and-api-security/](https://www.freecodecamp.org/news/learn-devsecops-and-api-security/)<br>
