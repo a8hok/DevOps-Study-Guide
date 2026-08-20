@@ -716,6 +716,7 @@ Table of Contents
 - [https://blog.codingconfessions.com/p/virtual-memory?ref=dailydev](https://blog.codingconfessions.com/p/virtual-memory?ref=dailydev)<br>
 - [https://github.com/ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources)<br>
 - [https://dometrain.com/course/hands-on-advanced-system-design/](https://dometrain.com/course/hands-on-advanced-system-design/)<br>
+- [https://levelup.gitconnected.com/system-design-explained-apis-databases-caching-cdns-load-balancing-production-infra-d986f8d79a4f](https://levelup.gitconnected.com/system-design-explained-apis-databases-caching-cdns-load-balancing-production-infra-d986f8d79a4f)<br>
 
 ## Jenkins
 - [https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e](https://aws.plainenglish.io/jenkins-ci-cd-pipeline-explained-by-a-junior-devops-engineer-1d67ecc08a7e)<br>
