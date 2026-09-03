@@ -243,6 +243,7 @@ Table of Contents
 - [https://medium.com/life-with-tech/kubernetes-explained-core-concepts-architecture-and-components-c9b32ab9d5c0](https://medium.com/life-with-tech/kubernetes-explained-core-concepts-architecture-and-components-c9b32ab9d5c0)<br>
 - [https://riasharma09.medium.com/advanced-devops-kubernetes-interview-questions-2026-real-scenarios-failures-how-engineers-3f706e5ca0e7](https://riasharma09.medium.com/advanced-devops-kubernetes-interview-questions-2026-real-scenarios-failures-how-engineers-3f706e5ca0e7)<br>
 - [https://medium.com/@hrk84ya/the-difference-between-knowing-kubernetes-and-understanding-kubernetes-f79b8ba32b75](https://medium.com/@hrk84ya/the-difference-between-knowing-kubernetes-and-understanding-kubernetes-f79b8ba32b75)<br>
+- [https://devops-daily.com/posts/kubernetes-concepts-junior-to-mid-level?via=dailydev](https://devops-daily.com/posts/kubernetes-concepts-junior-to-mid-level?via=dailydev)<br>
   
 
 ## K8S cheatSheet
