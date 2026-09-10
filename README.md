@@ -244,6 +244,7 @@ Table of Contents
 - [https://riasharma09.medium.com/advanced-devops-kubernetes-interview-questions-2026-real-scenarios-failures-how-engineers-3f706e5ca0e7](https://riasharma09.medium.com/advanced-devops-kubernetes-interview-questions-2026-real-scenarios-failures-how-engineers-3f706e5ca0e7)<br>
 - [https://medium.com/@hrk84ya/the-difference-between-knowing-kubernetes-and-understanding-kubernetes-f79b8ba32b75](https://medium.com/@hrk84ya/the-difference-between-knowing-kubernetes-and-understanding-kubernetes-f79b8ba32b75)<br>
 - [https://devops-daily.com/posts/kubernetes-concepts-junior-to-mid-level?via=dailydev](https://devops-daily.com/posts/kubernetes-concepts-junior-to-mid-level?via=dailydev)<br>
+- [https://medium.com/@lamaneem64/kubernetes-explained-a-beginners-guide-to-containers-pods-and-orchestration-e5f6ec62f0a1](https://medium.com/@lamaneem64/kubernetes-explained-a-beginners-guide-to-containers-pods-and-orchestration-e5f6ec62f0a1)<br>
   
 
 ## K8S cheatSheet
