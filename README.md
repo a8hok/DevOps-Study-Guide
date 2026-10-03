@@ -245,6 +245,7 @@ Table of Contents
 - [https://medium.com/@hrk84ya/the-difference-between-knowing-kubernetes-and-understanding-kubernetes-f79b8ba32b75](https://medium.com/@hrk84ya/the-difference-between-knowing-kubernetes-and-understanding-kubernetes-f79b8ba32b75)<br>
 - [https://devops-daily.com/posts/kubernetes-concepts-junior-to-mid-level?via=dailydev](https://devops-daily.com/posts/kubernetes-concepts-junior-to-mid-level?via=dailydev)<br>
 - [https://medium.com/@lamaneem64/kubernetes-explained-a-beginners-guide-to-containers-pods-and-orchestration-e5f6ec62f0a1](https://medium.com/@lamaneem64/kubernetes-explained-a-beginners-guide-to-containers-pods-and-orchestration-e5f6ec62f0a1)<br>
+- [https://bytebytego.com/guides/top-10-k8s-design-patterns/?via=dailydev](https://bytebytego.com/guides/top-10-k8s-design-patterns/?via=dailydev)<br>
   
 
 ## K8S cheatSheet
