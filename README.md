@@ -792,5 +792,8 @@ Table of Contents
 ## ReactJS with DevOps
 - [https://www.freecodecamp.org/news/full-stack-aws-react-lambda-dynamodb-tutorial/](https://www.freecodecamp.org/news/full-stack-aws-react-lambda-dynamodb-tutorial/)<br>
 
+## Dev-ops performance
+- [https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/](https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/)<br>
+
 
 
