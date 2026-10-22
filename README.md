@@ -722,6 +722,7 @@ Table of Contents
 - [https://dometrain.com/course/hands-on-advanced-system-design/](https://dometrain.com/course/hands-on-advanced-system-design/)<br>
 - [https://levelup.gitconnected.com/system-design-explained-apis-databases-caching-cdns-load-balancing-production-infra-d986f8d79a4f](https://levelup.gitconnected.com/system-design-explained-apis-databases-caching-cdns-load-balancing-production-infra-d986f8d79a4f)<br>
 - [https://www.freecodecamp.org/news/learn-software-design-basics/](https://www.freecodecamp.org/news/learn-software-design-basics/)<br>
+- [https://www.youtube.com/watch?v=8FXSOrk3Bhs](https://www.youtube.com/watch?v=8FXSOrk3Bhs)<br>
    
 
 ## Jenkins
