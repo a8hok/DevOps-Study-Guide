@@ -797,5 +797,9 @@ Table of Contents
 ## Dev-ops performance
 - [https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/](https://www.freecodecamp.org/news/how-large-scale-platforms-handle-millions-of-daily-transactions/)<br>
 
+## Dev-ops newsletter
+
+- [https://dev.to/boiliev/the-12-best-devops-newsletters-to-subscribe-to-in-2026-n97?via=dailydev](https://dev.to/boiliev/the-12-best-devops-newsletters-to-subscribe-to-in-2026-n97?via=dailydev)<br>
+
 
 
