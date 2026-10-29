@@ -248,6 +248,7 @@ Table of Contents
 - [https://medium.com/@lamaneem64/kubernetes-explained-a-beginners-guide-to-containers-pods-and-orchestration-e5f6ec62f0a1](https://medium.com/@lamaneem64/kubernetes-explained-a-beginners-guide-to-containers-pods-and-orchestration-e5f6ec62f0a1)<br>
 - [https://bytebytego.com/guides/top-10-k8s-design-patterns/?via=dailydev](https://bytebytego.com/guides/top-10-k8s-design-patterns/?via=dailydev)<br>
 - [https://dev.to/devopsdaily/kubernetes-rbac-explained-by-breaking-it-practice-roles-and-bindings-in-your-browser-308a?via=dailydev](https://dev.to/devopsdaily/kubernetes-rbac-explained-by-breaking-it-practice-roles-and-bindings-in-your-browser-308a?via=dailydev)<br>
+- [https://medium.com/@k.keaphirunphirchhoeun/running-kubernetes-locally-for-devops-episode-1-your-first-cluster-74f44527fc3d](https://medium.com/@k.keaphirunphirchhoeun/running-kubernetes-locally-for-devops-episode-1-your-first-cluster-74f44527fc3d)<br>
   
 
 ## K8S cheatSheet
