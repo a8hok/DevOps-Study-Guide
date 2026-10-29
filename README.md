@@ -249,6 +249,7 @@ Table of Contents
 - [https://bytebytego.com/guides/top-10-k8s-design-patterns/?via=dailydev](https://bytebytego.com/guides/top-10-k8s-design-patterns/?via=dailydev)<br>
 - [https://dev.to/devopsdaily/kubernetes-rbac-explained-by-breaking-it-practice-roles-and-bindings-in-your-browser-308a?via=dailydev](https://dev.to/devopsdaily/kubernetes-rbac-explained-by-breaking-it-practice-roles-and-bindings-in-your-browser-308a?via=dailydev)<br>
 - [https://medium.com/@k.keaphirunphirchhoeun/running-kubernetes-locally-for-devops-episode-1-your-first-cluster-74f44527fc3d](https://medium.com/@k.keaphirunphirchhoeun/running-kubernetes-locally-for-devops-episode-1-your-first-cluster-74f44527fc3d)<br>
+- [https://dev.to/m_maksimovic_/deploying-kubernetes-clusters-on-openstack-an-alternative-to-aws-eks-4e9k?via=dailydev](https://dev.to/m_maksimovic_/deploying-kubernetes-clusters-on-openstack-an-alternative-to-aws-eks-4e9k?via=dailydev)<br>
   
 
 ## K8S cheatSheet
